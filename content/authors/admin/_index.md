@@ -14,7 +14,7 @@ organizations:
     url: https://www.isterre.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Saeed Soltani.
+bio: Saeed Soltani
 
 # Interests to show in About widget
 interests:
@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D Student in Geophysics (Engineering seismology)
+    - course: Ph.D Student in Geophysics 
       institution: Universite Grenoble Alpes/ IIEES
       year: 2018-
     - course: MSc in Geophysics (Engineering seismology)
-      institution: IIEES, IRAN
-      year: 2013-2016
+      institution: IIEES
+      year: 2012-2015
     - course: BSc in Physics
-      institution: Mazandaran university
-      year: 2009-2013
+      institution: Mazandaran University
+      year: 2008-2012
 
 social:
   - icon: envelope
@@ -66,14 +66,9 @@ email: ''
 highlight_name: true
 ---
 I am Saeed Soltani. Last year Ph.D student at Universite Grenoble Alpes and International Institute of Earthquake Engineering and Seismology. 
-
 My current research is focused on 3D modeling of sedimentary basins and their impact on seismic risk assessment. (Link: http://www.theses.fr/s212521)
-
 My PhD project is divided into 2 main categories: 
-
 1 - Construct the experimental 3D velocity model of the Tehran basin with an extensive integrated geophysical and geological approach to know about basin properties. 
-
 2- Using this 3D velocity model for seismic strong ground motion simulations to predict a more realistic surface ground motion for future earthquakes by EFISPEC3D code. EFISPEC3D is a free code that solves the three-dimensional wave equations using spectral-element method. (Link : De Martin et al.  https://gitlab.brgm.fr/brgm/efispec3d).
-
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
