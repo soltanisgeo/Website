@@ -66,9 +66,13 @@ email: ''
 highlight_name: true
 ---
 I am Saeed Soltani. Last year Ph.D student at Universite Grenoble Alpes and International Institute of Earthquake Engineering and Seismology. 
-My current research is focused on 3D modeling of sedimentary basins and their impact on seismic risk assessment. (Link: http://www.theses.fr/s212521)
-My PhD project is divided into 2 main categories: 
+
+My current research is focused on 3D modeling of sedimentary basins and their impact on seismic risk assessment.
+
+My PhD project is divided into 2 main categories:
+
 1 - Construct the experimental 3D velocity model of the Tehran basin with an extensive integrated geophysical and geological approach to know about basin properties. 
+
 2- Using this 3D velocity model for seismic strong ground motion simulations to predict a more realistic surface ground motion for future earthquakes by EFISPEC3D code. EFISPEC3D is a free code that solves the three-dimensional wave equations using spectral-element method. (Link : De Martin et al.  https://gitlab.brgm.fr/brgm/efispec3d).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
