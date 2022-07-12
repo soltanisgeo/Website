@@ -14,7 +14,7 @@ organizations:
     url: https://www.isterre.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am Saeid Soltani. Last year Ph.D student at Universite Grenoble Alpes and International institute of earthquake engineering and seismology. My current research is focused on 3D modeling of sedimentary basins and their impact on seismic risk assessment. (Link: http://www.theses.fr/s212521)
+bio: I am Saeid Soltani.
 
 # Interests to show in About widget
 interests:
