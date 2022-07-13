@@ -34,7 +34,6 @@ content:
     postcode: '38610'
     country: France
     country_code: Fr
-
 design:
   columns: '2'
 ---
