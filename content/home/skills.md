@@ -16,18 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 100%
+  - description: 
     icon: Geopsy
     icon_pack: custom
     name: Geopsy
-  - description: 100%
+  - description: 
     icon: Efispec
     icon_pack: custom
     name: Efispec3D
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+  - description: 
+    icon: QGIS
+    icon_pack: custom
+    name: QGIS
+	- description: 10%
+    icon: GMT
+    icon_pack: custom
+    name: GMT
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
