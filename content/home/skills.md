@@ -36,10 +36,6 @@ feature:
     icon: obspy
     icon_pack: custom
     name: Obspy
-   - description: 10%
-    icon: Python
-    icon_pack: custom
-    name: Python
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
