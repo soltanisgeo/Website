@@ -30,8 +30,8 @@ feature:
     name: QGIS
   - description: 10%
     icon: GMT
-	icon_pack: custom
-	name: GMT
+    icon_pack: custom
+    name: GMT
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
