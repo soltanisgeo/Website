@@ -34,9 +34,7 @@ content:
     postcode: '38610'
     country: France
     country_code: Fr
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+
 design:
   columns: '2'
 ---
