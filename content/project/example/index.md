@@ -1,6 +1,6 @@
 ---
 title: MSc Thesis
-summary: Velocity structure imaging by inversions of Rayleigh wave ellipticity. Application to the Arak city, Iran.
+summary: Ellipticity
 tags:
   - Site Characterization
 date: '2015'
@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/saesolgeo
 url_code: ''
 url_pdf: ''
 url_slides: ''
