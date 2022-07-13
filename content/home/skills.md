@@ -36,7 +36,7 @@ feature:
     icon: obspy
     icon_pack: custom
     name: Obspy
-    - description: 10%
+   - description: 10%
     icon: Python
     icon_pack: custom
     name: Python
