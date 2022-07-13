@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: 90%
     icon: <font-awesome-icon icon="fa-solid fa-house-crack" />
-    icon_pack: fab
+    icon_pack: ai
     name: Geopsy
   - description: 100%
     icon: chart-line
