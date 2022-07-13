@@ -31,8 +31,8 @@ content:
       tag: Site effect
     - name: Numerical Simulation
       tag: Numerical Simulation
-    - name: Site Charactriztion
-      tag: Site Charactriztion
+    - name: Site Charactrization
+      tag: Site Charactrization
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'

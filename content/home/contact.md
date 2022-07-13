@@ -40,7 +40,7 @@ content:
   Contact_links:
     - icon: twitter
       icon_pack: fab
-      name: TWitter
+      name: Twitter
       link: 'https://twitter.com/Twitter'
     - icon: video
       icon_pack: fas
