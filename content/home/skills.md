@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: <font-awesome-icon icon="fa-solid fa-house-crack" />
-    icon_pack: ai
-    name: Geopsy
+    icon: r-project
+    icon_pack: fab
+    name: R
   - description: 100%
     icon: chart-line
     icon_pack: fas
