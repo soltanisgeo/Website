@@ -1,474 +1,298 @@
-<!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
-<head>
-<meta charset="UTF-8"/>
-<title>File:QGIS logo new.svg - Wikimedia Commons</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":true,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"7f520862-bd40-4da2-bfec-dbd03ef6d935","wgCSPNonce":false,"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":6,"wgPageName":"File:QGIS_logo_new.svg","wgTitle":"QGIS logo new.svg","wgCurRevisionId":459169959,"wgRevisionId":459169959,"wgArticleId":68073331,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["GPL","SVG free software logos","QGIS"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"File:QGIS_logo_new.svg","wgRelevantArticleId":68073331,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],
-"wgRestrictionMove":[],"wgRestrictionUpload":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":400,"wgNoticeProject":"commons","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgULSCurrentAutonym":"English","wbCopyright":{"version":"wikibase-1","messageHtml":"By clicking \"publish\", you agree to the \u003Ca href=\"/wiki/Commons:Copyrights\" class=\"mw-redirect\" title=\"Commons:Copyrights\"\u003Eterms of use\u003C/a\u003E, and you irrevocably agree to release your contribution under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\"\u003ECreative Commons CC0 License\u003C/a\u003E."},"wbBadgeItems":[],"wbMultiLingualStringLimit":250,"wbTaintedReferencesEnabled":false,"wbEntityId":"M68073331",
-"wgEditSubmitButtonLabelPublish":true,"wbUserSpecifiedLanguages":["en"],"wbmiDefaultProperties":["P180"],"wbmiPropertyTitles":{"P180":"Items portrayed in this file"},"wbmiPropertyTypes":{"P180":"wikibase-item","P275":"wikibase-item","P6216":"wikibase-item","P571":"time"},"wbmiRepoApiUrl":"/w/api.php","wbmiHelpUrls":{"P180":"https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Depicts"},"wbmiExternalEntitySearchBaseUri":"https://www.wikidata.org/w/api.php","wbmiSupportedDataTypes":["wikibase-item","string","quantity","time","monolingualtext","external-id","globe-coordinate","url"],"wbCurrentRevision":459169959,"wbEntity":{"type":"mediainfo","id":"M68073331","labels":[],"descriptions":[],"statements":{"P275":[{"mainsnak":{"snaktype":"value","property":"P275","hash":"f8fc5cc351730a752551d27980896ab1faa4272d","datavalue":{"value":{"entity-type":"item","numeric-id":10513450,"id":"Q10513450"},"type":"wikibase-entityid"}},"type":"statement","id":
-"M68073331$545D50F0-6073-4A20-9E2C-EB1FF0E4164A","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"5570347fdc76d2a80732f51ea10ee4b144a084e0","datavalue":{"value":{"entity-type":"item","numeric-id":50423863,"id":"Q50423863"},"type":"wikibase-entityid"}},"type":"statement","id":"M68073331$0917DFF1-040A-45FA-839E-BE37A2222506","rank":"normal"}],"P571":[{"mainsnak":{"snaktype":"value","property":"P571","hash":"ebb152517f1c4794745902b702f1404661d5adc8","datavalue":{"value":{"time":"+2017-03-21T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http://www.wikidata.org/entity/Q1985727"},"type":"time"}},"type":"statement","id":"M68073331$79D06D10-C473-4C28-AC59-B912FE672D75","rank":"normal"}]}},"wbmiMinCaptionLength":5,"wbmiMaxCaptionLength":250,"wbmiParsedMessageAnonEditWarning":
-"\u003Cp\u003EYou are not logged in and your \u003Ca href=\"https://en.wikipedia.org/wiki/IP_address\" class=\"extiw\" title=\"w:IP address\"\u003EIP address\u003C/a\u003E will be publicly visible if you make any edits. \u003Ca href=\"/wiki/Special:UserLogin\" title=\"Special:UserLogin\"\u003ELogging in\u003C/a\u003E or \u003Ca href=\"/wiki/Special:CreateAccount\" title=\"Special:CreateAccount\"\u003Ecreating an account\u003C/a\u003E will conceal your IP address and provide you with many other \u003Ca href=\"https://en.wikipedia.org/wiki/Wikipedia:Why_create_an_account%3F\" class=\"extiw\" title=\"w:Wikipedia:Why create an account?\"\u003Ebenefits\u003C/a\u003E. Please do not save test edits. If you want to experiment, please use the \u003Ca href=\"/wiki/Commons:Sandbox\" title=\"Commons:Sandbox\"\u003ESandbox\u003C/a\u003E.\n\u003C/p\u003E","wbmiProtectionMsg":null,"wgCentralAuthMobileDomain":false,"wgULSPosition":"personal","wgULSisCompactLinksEnabled":true};RLSTATE={
-"ext.gadget.Long-Image-Names-in-Categories":"ready","ext.gadget.uploadWizardMobile":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","wikibase.common":"ready","jquery.wikibase.toolbar.styles":"ready","mediawiki.interface.helpers.styles":"ready","filepage":"ready","mediawiki.action.view.filepage":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","wikibase.mediainfo.filepage.styles":"ready","wikibase.mediainfo.statements.styles":"ready","ext.wikimediaBadges":"ready","ext.uls.pt":"ready"};RLPAGEMODULES=["wikibase.entityPage.entityLoaded","wikibase.ui.entityViewInit","mediawiki.action.view.metadata","site","mediawiki.page.ready","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
-"ext.wikimediaEvents.wikibase","ext.navigationTiming","wikibase.mediainfo.filePageDisplay","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.Slideshow","ext.gadget.ZoomViewer","ext.gadget.CollapsibleTemplates","ext.gadget.fastcci","ext.gadget.Stockphoto","ext.gadget.WatchlistNotice","ext.gadget.AjaxQuickDelete","ext.gadget.WikiMiniAtlas","ext.gadget.LanguageSelect","ext.centralauth.centralautologin","ext.uls.compactlinks","ext.uls.interface"];</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cfilepage%7Cjquery.wikibase.toolbar.styles%7Cmediawiki.action.view.filepage%7Cmediawiki.interface.helpers.styles%7Cskins.vector.styles.legacy%7Cwikibase.common%7Cwikibase.mediainfo.filepage.styles%7Cwikibase.mediainfo.statements.styles&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
-<meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.Long-Image-Names-in-Categories%2CuploadWizardMobile&amp;only=styles&amp;skin=vector"/>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.39.0-wmf.19"/>
-<meta name="referrer" content="origin"/>
-<meta name="referrer" content="origin-when-crossorigin"/>
-<meta name="referrer" content="origin-when-cross-origin"/>
-<meta name="format-detection" content="telephone=no"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png"/>
-<meta property="og:image:width" content="1200"/>
-<meta property="og:image:height" content="1200"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/800px-QGIS_logo_new.svg.png"/>
-<meta property="og:image:width" content="800"/>
-<meta property="og:image:height" content="800"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/640px-QGIS_logo_new.svg.png"/>
-<meta property="og:image:width" content="640"/>
-<meta property="og:image:height" content="640"/>
-<meta name="viewport" content="width=1000"/>
-<meta property="og:title" content="File:QGIS logo new.svg - Wikimedia Commons"/>
-<meta property="og:type" content="website"/>
-<link rel="preconnect" href="//upload.wikimedia.org"/>
-<link rel="preconnect" href="//upload.wikimedia.org"/>
-<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M68073331.json" type="application/json"/>
-<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M68073331.php" type="application/vnd.php.serialized"/>
-<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M68073331.n3" type="text/n3"/>
-<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M68073331.ttl" type="text/turtle"/>
-<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M68073331.nt" type="application/n-triples"/>
-<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M68073331.rdf" type="application/rdf+xml"/>
-<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M68073331.jsonld" type="application/ld+json"/>
-<link rel="alternate" media="only screen and (max-width: 720px)" href="//commons.m.wikimedia.org/wiki/File:QGIS_logo_new.svg"/>
-<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=File:QGIS_logo_new.svg&amp;action=edit"/>
-<link rel="apple-touch-icon" href="/static/apple-touch/commons.png"/>
-<link rel="shortcut icon" href="/static/favicon/commons.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikimedia Commons"/>
-<link rel="EditURI" type="application/rsd+xml" href="//commons.wikimedia.org/w/api.php?action=rsd"/>
-<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://commons.wikimedia.org/wiki/File:QGIS_logo_new.svg"/>
-<link rel="dns-prefetch" href="//meta.wikimedia.org" />
-<link rel="dns-prefetch" href="//login.wikimedia.org"/>
-</head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject mw-editable page-File_QGIS_logo_new_svg rootpage-File_QGIS_logo_new_svg skin-vector action-view wb-entitypage wb-mediainfopage wb-mediainfopage-M68073331 skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
-<div id="mw-head-base" class="noprint"></div>
-<div id="content" class="mw-body" role="main">
-	<a id="top"></a>
-	<div id="siteNotice"><!-- CentralNotice --></div>
-	<div class="mw-indicators">
-	</div>
-	<h1 id="firstHeading" class="firstHeading mw-first-heading">File:QGIS logo new.svg</h1>
-	<div id="bodyContent" class="vector-body">
-		<div id="siteSub" class="noprint">From Wikimedia Commons, the free media repository</div>
-		<div id="contentSub"></div>
-		<div id="contentSub2"></div>
-		
-		<div id="jump-to-nav"></div>
-		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
-		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
-		<div id="mw-content-text" class="mw-body-content"><ul id="filetoc"><li><a href="#file">File</a></li>
-<li><a href="#filehistory">File history</a></li>
-<li><a href="#filelinks">File usage on Commons</a></li>
-<li><a href="#globalusage">File usage on other wikis</a></li>
-<li><a href="#metadata">Metadata</a></li></ul><div class="fullImageLink" id="file"><a href="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg"><img alt="File:QGIS logo new.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/256px-QGIS_logo_new.svg.png?20180406083750" decoding="async" width="256" height="256" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/384px-QGIS_logo_new.svg.png?20180406083750 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/512px-QGIS_logo_new.svg.png?20180406083750 2x" data-file-width="256" data-file-height="256" /></a><div class="mw-filepage-resolutioninfo">Size of this PNG preview of this SVG file: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/256px-QGIS_logo_new.svg.png" class="mw-thumbnail-link">256 × 256 pixels</a>. <span class="mw-filepage-other-resolutions">Other resolutions: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/240px-QGIS_logo_new.svg.png" class="mw-thumbnail-link">240 × 240 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/480px-QGIS_logo_new.svg.png" class="mw-thumbnail-link">480 × 480 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/768px-QGIS_logo_new.svg.png" class="mw-thumbnail-link">768 × 768 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1024px-QGIS_logo_new.svg.png" class="mw-thumbnail-link">1,024 × 1,024 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/2048px-QGIS_logo_new.svg.png" class="mw-thumbnail-link">2,048 × 2,048 pixels</a>.</span></div></div>
-<div class="fullMedia"><p><a href="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" class="internal" title="QGIS logo new.svg">Original file</a> &#8206;<span class="fileInfo">(SVG file, nominally 256 × 256 pixels, file size: 3 KB)</span>
-</p></div><div class='wbmi-tabs-container oo-ui-layout oo-ui-panelLayout'><div id='ooui-php-1' class='wbmi-tabs oo-ui-layout oo-ui-menuLayout oo-ui-menuLayout-static oo-ui-menuLayout-top oo-ui-menuLayout-showMenu oo-ui-indexLayout' data-ooui='{"_":"OO.ui.IndexLayout","classes":["wbmi-tabs"],"expanded":false,"menuPanel":{"tag":"ooui-php-2"},"contentPanel":{"tag":"ooui-php-3"},"autoFocus":false,"tabPanels":{"wikiTextPlusCaptions":{"tag":"ooui-php-4"},"statements":{"tag":"ooui-php-5"}},"tabSelectWidget":{"tag":"ooui-php-6"}}'><div aria-hidden='false' class='oo-ui-menuLayout-menu'><div id='ooui-php-2' class='oo-ui-layout oo-ui-panelLayout oo-ui-indexLayout-tabPanel' data-ooui='{"_":"OO.ui.PanelLayout","preserveContent":false,"expanded":false}'><div role='tablist' aria-multiselectable='false' tabindex='0' id='ooui-php-6' class='oo-ui-selectWidget oo-ui-selectWidget-unpressed oo-ui-widget oo-ui-widget-enabled oo-ui-tabSelectWidget oo-ui-tabSelectWidget-frameless' data-ooui='{"_":"OO.ui.TabSelectWidget","framed":false,"items":[{"tag":"ooui-php-7"},{"tag":"ooui-php-8"}]}'><div aria-selected='true' role='tab' id='ooui-php-7' class='oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement oo-ui-optionWidget oo-ui-tabOptionWidget oo-ui-optionWidget-selected' data-ooui='{"_":"OO.ui.TabOptionWidget","selected":true,"label":"File information","data":"wikiTextPlusCaptions"}'><span class='oo-ui-labelElement-label'>File information</span></div><div aria-selected='false' role='tab' id='ooui-php-8' class='oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement oo-ui-optionWidget oo-ui-tabOptionWidget' data-ooui='{"_":"OO.ui.TabOptionWidget","label":"Structured data","data":"statements"}'><span class='oo-ui-labelElement-label'>Structured data</span></div></div></div></div><div class='oo-ui-menuLayout-content'><div id='ooui-php-3' class='oo-ui-layout oo-ui-panelLayout oo-ui-stackLayout oo-ui-indexLayout-stackLayout' data-ooui='{"_":"OO.ui.StackLayout","preserveContent":false,"expanded":false,"items":[{"tag":"ooui-php-4"},{"tag":"ooui-php-5"}]}'><div role='tabpanel' id='ooui-php-4' class='wbmi-tab oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-scrollable oo-ui-tabPanelLayout' data-ooui='{"_":"OO.ui.TabPanelLayout","name":"wikiTextPlusCaptions","label":"File information","scrollable":true,"expanded":false,"classes":["wbmi-tab"]}'><h2 class="wbmi-captions-header">Captions</h2><div class='wbmi-entityview-captionsPanel oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><h3 class='wbmi-entityview-captions-header'>Captions</h3><div class='wbmi-entityview-caption oo-ui-layout oo-ui-horizontalLayout'><label class='wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget'>English</label><div lang='en' dir='ltr' class='wbmi-caption-value wbmi-entityview-emptyCaption'>Add a one-line explanation of what this file represents</div></div></div><div id="mw-imagepage-content" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File:QGIS_logo_new.svg&amp;action=edit&amp;section=1" title="Edit section: Summary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="hproduct commons-file-information-table">
-<table class="fileinfotpl-type-information toccolours vevent mw-content-ltr" style="width: 100%; direction: ltr;" cellpadding="4">
-
-<tbody><tr style="vertical-align: top">
-<td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="en">Description<span class="summary fn" style="display:none">QGIS logo new.svg</span></td>
-<td class="description">
-<div class="description mw-content-ltr en" dir="ltr" lang="en"><span class="language en" title="English"><b>English&#58; </b></span> New QGIS logo</div>
-<div class="description mw-content-ltr ka" dir="ltr" lang="ka"><span class="language ka" title="Georgian"><b>ქართული&#58; </b></span> QGIS-ის ახალი ლოგო</div></td>
-</tr>
-
-<tr style="vertical-align: top">
-<td id="fileinfotpl_date" class="fileinfo-paramfield" lang="en">Date</td>
-<td lang="en">
-<time class="dtstart" datetime="2017-03-21" lang="en" dir="ltr" style="white-space:nowrap">21 March 2017</time></td>
-</tr>
-
-<tr style="vertical-align: top">
-<td id="fileinfotpl_src" class="fileinfo-paramfield" lang="en">Source</td>
-<td>
-<a rel="nofollow" class="external free" href="https://github.com/qgis/QGIS/blob/master/images/icons/qgis_icon.svg">https://github.com/qgis/QGIS/blob/master/images/icons/qgis_icon.svg</a></td>
-</tr>
-
-<tr style="vertical-align: top">
-<td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="en">Author</td>
-<td>
-Tim Sutton, Nathan Woodrow, Alexander Bruy</td>
-</tr>
-
-
-</tbody></table>
-</div>
-<h2><span class="mw-headline" id="Licensing">Licensing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File:QGIS_logo_new.svg&amp;action=edit&amp;section=2" title="Edit section: Licensing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table cellspacing="8" cellpadding="0" style="width:100%; clear:both; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; direction: ltr;" lang="en" class="layouttemplate licensetpl">
-<tbody><tr>
-<td><a href="/wiki/File:Heckert_GNU_white.svg" class="image" title="GNU head"><img alt="GNU head" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/64px-Heckert_GNU_white.svg.png" decoding="async" width="64" height="63" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/96px-Heckert_GNU_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/128px-Heckert_GNU_white.svg.png 2x" data-file-width="535" data-file-height="523" /></a>
-</td>
-<td><i>This work is <a href="https://en.wikipedia.org/wiki/Free_software" class="extiw" title="w:Free software">free software</a>; you can redistribute it and/or modify it under the terms of the <b><a href="https://en.wikipedia.org/wiki/GNU_General_Public_License" class="extiw" title="w:GNU General Public License">GNU General Public License</a></b> as published by the <a href="https://en.wikipedia.org/wiki/Free_Software_Foundation" class="extiw" title="w:Free Software Foundation">Free Software Foundation</a>; version 2. This work is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See <a rel="nofollow" class="external text" href="//www.gnu.org/licenses/old-licenses/gpl-2.0.html">version 2 of the GNU General Public License</a> for more details.</i><span class="licensetpl_long" style="display: none"> GNU General Public License v2</span><span class="licensetpl_short" style="display: none">GPLv2</span><span class="licensetpl_link" style="display: none">https://www.gnu.org/licenses/old-licenses/gpl-2.0.html</span><span class="licensetpl_attr_req licensetpl_link_req" style="display: none">true</span>
-</td></tr></tbody></table>
-<!-- 
-NewPP limit report
-Parsed by mw1397
-Cached time: 20220624085010
-Cache expiry: 1814400
-Reduced expiry: false
-Complications: []
-CPU time usage: 0.057 seconds
-Real time usage: 0.079 seconds
-Preprocessor visited node count: 240/1000000
-Post‐expand include size: 8738/2097152 bytes
-Template argument size: 699/2097152 bytes
-Highest expansion depth: 10/100
-Expensive parser function count: 2/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 54/5000000 bytes
-Lua time usage: 0.029/10.000 seconds
-Lua memory usage: 871349/52428800 bytes
-Number of Wikibase entities loaded: 1/400
--->
-<!--
-Transclusion expansion time report (%,ms,calls,template)
-100.00%   68.962      1 -total
- 69.56%   47.972      1 Template:Information
- 30.00%   20.686      1 Template:GPLv2_only
- 26.42%   18.218      1 Template:Autotranslate
- 14.84%   10.234      2 Template:Description
- 12.46%    8.594      1 Template:GPLv2_only/layout
- 10.40%    7.175      1 Template:En
-  8.97%    6.188      1 Template:Ka
-  8.36%    5.764      1 Template:GNU-Layout
-  3.26%    2.246      1 Template:Dir
--->
-
-<!-- Saved in parser cache with key commonswiki:pcache:idhash:68073331-0!wb=3 and timestamp 20220624085010 and revision id 459169959.
- -->
-</div></div><h2 id="filehistory">File history</h2>
-<div id="mw-imagepage-section-filehistory">
-<p>Click on a date/time to view the file as it appeared at that time.
-</p>
-<table class="wikitable filehistory">
-<tr><th></th><th>Date/Time</th><th>Thumbnail</th><th>Dimensions</th><th>User</th><th>Comment</th></tr>
-<tr><td>current</td><td class="filehistory-selected" style="white-space: nowrap;"><a href="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">08:37, 6 April 2018</a></td><td><a href="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg"><img alt="Thumbnail for version as of 08:37, 6 April 2018" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/120px-QGIS_logo_new.svg.png?20180406083750" decoding="async" width="120" height="120" data-file-width="256" data-file-height="256" /></a></td><td>256 × 256 <span style="white-space: nowrap;">(3 KB)</span></td><td><a href="/wiki/User:Giorgi_Balakhadze" class="mw-userlink" title="User:Giorgi Balakhadze"><bdi>Giorgi Balakhadze</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Giorgi_Balakhadze" class="mw-usertoollinks-talk" title="User talk:Giorgi Balakhadze">talk</a> | <a href="/wiki/Special:Contributions/Giorgi_Balakhadze" class="mw-usertoollinks-contribs" title="Special:Contributions/Giorgi Balakhadze">contribs</a>)</span></span></td><td dir="ltr">User created page with UploadWizard</td></tr>
-</table>
-
-</div>
-<div class="mw-imagepage-upload-links"><p id="mw-imagepage-upload-disallowed">You cannot overwrite this file.</p></div><h2 id="filelinks">File usage on Commons</h2>
-<div id='mw-imagepage-section-linkstoimage'>
-<p>The following 24 pages use this file:
-</p><ul class="mw-imagepage-linkstoimage">
-<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:De728631" title="User:De728631">User:De728631</a></li>
-<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Derzno" title="User:Derzno">User:Derzno</a></li>
-<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Dino_Michelini" title="User:Dino Michelini">User:Dino Michelini</a></li>
-<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:GabeValentine" title="User:GabeValentine">User:GabeValentine</a></li>
-<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Galopax" title="User:Galopax">User:Galopax</a></li>
-<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Giorgi_Balakhadze" title="User:Giorgi Balakhadze">User:Giorgi Balakhadze</a></li>
-<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:G%C3%A9odigital" title="User:Géodigital">User:Géodigital</a></li>
-<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Kristoffer_hh" title="User:Kristoffer hh">User:Kristoffer hh</a></li>
-<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Luis_Ferm%C3%ADn_TURIEL_PEREDO" title="User:Luis Fermín TURIEL PEREDO">User:Luis Fermín TURIEL PEREDO</a></li>
-<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Lutzto" title="User:Lutzto">User:Lutzto</a></li>
-<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Nik994" title="User:Nik994">User:Nik994</a></li>
-<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Pomfuttge" title="User:Pomfuttge">User:Pomfuttge</a></li>
-<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:SANtosito" title="User:SANtosito">User:SANtosito</a></li>
-<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Unifadenfisch" title="User:Unifadenfisch">User:Unifadenfisch</a></li>
-<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/Commons:Userboxes" title="Commons:Userboxes">Commons:Userboxes</a></li>
-<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/Commons:Userboxes/en" title="Commons:Userboxes/en">Commons:Userboxes/en</a></li>
-<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/Commons:Userboxes/fr" title="Commons:Userboxes/fr">Commons:Userboxes/fr</a></li>
-<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/Template:User_QGIS" title="Template:User QGIS">Template:User QGIS</a></li>
-<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/Template:User_QGIS/en" title="Template:User QGIS/en">Template:User QGIS/en</a></li>
-<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/Template:User_QGIS/es" title="Template:User QGIS/es">Template:User QGIS/es</a></li>
-<li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/Template:User_QGIS/layout" title="Template:User QGIS/layout">Template:User QGIS/layout</a></li>
-<li class="mw-imagepage-linkstoimage-ns14"><a href="/wiki/Category:Invalid_SVG_created_with_QGIS" title="Category:Invalid SVG created with QGIS">Category:Invalid SVG created with QGIS</a></li>
-<li class="mw-imagepage-linkstoimage-ns14"><a href="/wiki/Category:QGIS" title="Category:QGIS">Category:QGIS</a></li>
-<li class="mw-imagepage-linkstoimage-ns14"><a href="/wiki/Category:Unspec_SVG_created_with_QGIS" title="Category:Unspec SVG created with QGIS">Category:Unspec SVG created with QGIS</a></li>
-</ul>
-</div>
-<h2 id="globalusage">File usage on other wikis</h2>
-<div id="mw-imagepage-section-globalusage"><p>The following other wikis use this file:
-</p><ul>
-<li class='mw-gu-onwiki-ar_wikipedia_org'>Usage on ar.wikipedia.org
-<ul>	<li><a class="external" href="https://ar.wikipedia.org/wiki/%D9%83%D9%8A%D9%88_%D8%AC%D9%8A_%D8%A2%D9%8A_%D8%A5%D8%B3">كيو جي آي إس</a></li>
-</ul></li>
-<li class='mw-gu-onwiki-ca_wikipedia_org'>Usage on ca.wikipedia.org
-<ul>	<li><a class="external" href="https://ca.wikipedia.org/wiki/QGIS">QGIS</a></li>
-</ul></li>
-<li class='mw-gu-onwiki-es_wikipedia_org'>Usage on es.wikipedia.org
-<ul>	<li><a class="external" href="https://es.wikipedia.org/wiki/Usuario:Userbox/Inform%C3%A1tica">Usuario:Userbox/Informática</a></li>
-	<li><a class="external" href="https://es.wikipedia.org/wiki/Usuaria:Userbox_mujer/Inform%C3%A1tica">Usuaria:Userbox mujer/Informática</a></li>
-	<li><a class="external" href="https://es.wikipedia.org/wiki/Usuario:Galopax">Usuario:Galopax</a></li>
-	<li><a class="external" href="https://es.wikipedia.org/wiki/Usuario:Userbox/QGIS">Usuario:Userbox/QGIS</a></li>
-	<li><a class="external" href="https://es.wikipedia.org/wiki/Usuario:Luis_Ferm%C3%ADn_TURIEL_PEREDO">Usuario:Luis Fermín TURIEL PEREDO</a></li>
-</ul></li>
-<li class='mw-gu-onwiki-fr_wikipedia_org'>Usage on fr.wikipedia.org
-<ul>	<li><a class="external" href="https://fr.wikipedia.org/wiki/Liste_des_logiciels_SIG">Liste des logiciels SIG</a></li>
-</ul></li>
-<li class='mw-gu-onwiki-hy_wikipedia_org'>Usage on hy.wikipedia.org
-<ul>	<li><a class="external" href="https://hy.wikipedia.org/wiki/QGIS">QGIS</a></li>
-</ul></li>
-<li class='mw-gu-onwiki-ru_wikipedia_org'>Usage on ru.wikipedia.org
-<ul>	<li><a class="external" href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%93%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F">Проект:Графическая мастерская</a></li>
-	<li><a class="external" href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%93%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B">Проект:Графическая мастерская/Инструменты</a></li>
-</ul></li>
-<li class='mw-gu-onwiki-www_wikidata_org'>Usage on www.wikidata.org
-<ul>	<li><a class="external" href="https://www.wikidata.org/wiki/Q1329181">Q1329181</a></li>
-	<li><a class="external" href="https://www.wikidata.org/wiki/Wikidata:WikiProject_Informatics/Software/List_of_software_using_the_Qt_toolkit">Wikidata:WikiProject Informatics/Software/List of software using the Qt toolkit</a></li>
-	<li><a class="external" href="https://www.wikidata.org/wiki/Q112262085">Q112262085</a></li>
-</ul></li>
-</ul>
-</div><h2 id="metadata">Metadata</h2>
-<div class="mw-imagepage-section-metadata"><p>This file contains additional information such as Exif metadata which may have been added by the digital camera, scanner, or software program used to create or digitize it. If the file has been modified from its original state, some details such as the timestamp may not fully reflect those of the original file. The timestamp is only as accurate as the clock in the camera, and it may be completely wrong.</p><table id="mw_metadata" class="mw_metadata collapsed">
-<tbody><tr class="exif-imagewidth mw-metadata-collapsible"><th>Width</th><td>256</td></tr><tr class="exif-imagelength mw-metadata-collapsible"><th>Height</th><td>256</td></tr></tbody></table>
-</div></div><div role='tabpanel' id='ooui-php-5' class='wbmi-tab oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-scrollable oo-ui-tabPanelLayout' data-ooui='{"_":"OO.ui.TabPanelLayout","name":"statements","label":"Structured data","scrollable":true,"expanded":false,"classes":["wbmi-tab"]}'><h2 class="wbmi-structured-data-header">Structured data</h2><div id='P180' data-property='P180' data-statements='[]' data-formatvalue='[]' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P180 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h3 class='wbmi-statements-title'>Items portrayed in this file</h3><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P180" href="https://www.wikidata.org/wiki/Special:EntityPage/P180">depicts</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'></div></div></div><div id='P6216' data-property='P6216' data-statements='[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"5570347fdc76d2a80732f51ea10ee4b144a084e0","datavalue":{"value":{"entity-type":"item","numeric-id":50423863,"id":"Q50423863"},"type":"wikibase-entityid"}},"type":"statement","id":"M68073331$0917DFF1-040A-45FA-839E-BE37A2222506","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":6216,\"id\":\"P6216\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P6216\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P6216\"&gt;copyright status&lt;\/a&gt;"}},"text\/plain":{"en":{"":"copyright status"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":50423863,\"id\":\"Q50423863\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"P6216":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q50423863\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q50423863\"&gt;copyrighted&lt;\/a&gt;"}},"text\/plain":{"en":{"P6216":"copyrighted"}}}}' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P6216 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P6216" href="https://www.wikidata.org/wiki/Special:EntityPage/P6216">copyright status</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'><div class='wbmi-item wbmi-item-read'><div data-guid='M68073331$0917DFF1-040A-45FA-839E-BE37A2222506' class='wbmi-item-container'><div class='wbmi-entity-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/Q50423863" href="https://www.wikidata.org/wiki/Special:EntityPage/Q50423863">copyrighted</a></bdi></h4></div></div></div></div></div></div></div></div><div id='P275' data-property='P275' data-statements='[{"mainsnak":{"snaktype":"value","property":"P275","hash":"f8fc5cc351730a752551d27980896ab1faa4272d","datavalue":{"value":{"entity-type":"item","numeric-id":10513450,"id":"Q10513450"},"type":"wikibase-entityid"}},"type":"statement","id":"M68073331$545D50F0-6073-4A20-9E2C-EB1FF0E4164A","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":275,\"id\":\"P275\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P275\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P275\"&gt;copyright license&lt;\/a&gt;"}},"text\/plain":{"en":{"":"copyright license"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":10513450,\"id\":\"Q10513450\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"P275":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q10513450\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q10513450\"&gt;GNU General Public License, version 2.0&lt;\/a&gt;"}},"text\/plain":{"en":{"P275":"GNU General Public License, version 2.0"}}}}' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P275 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P275" href="https://www.wikidata.org/wiki/Special:EntityPage/P275">copyright license</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'><div class='wbmi-item wbmi-item-read'><div data-guid='M68073331$545D50F0-6073-4A20-9E2C-EB1FF0E4164A' class='wbmi-item-container'><div class='wbmi-entity-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/Q10513450" href="https://www.wikidata.org/wiki/Special:EntityPage/Q10513450">GNU General Public License, version 2.0</a></bdi></h4></div></div></div></div></div></div></div></div><div id='P571' data-property='P571' data-statements='[{"mainsnak":{"snaktype":"value","property":"P571","hash":"ebb152517f1c4794745902b702f1404661d5adc8","datavalue":{"value":{"time":"+2017-03-21T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"M68073331$79D06D10-C473-4C28-AC59-B912FE672D75","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":571,\"id\":\"P571\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P571\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P571\"&gt;inception&lt;\/a&gt;"}},"text\/plain":{"en":{"":"inception"}}},"{\"value\":{\"time\":\"+2017-03-21T00:00:00Z\",\"timezone\":0,\"before\":0,\"after\":0,\"precision\":11,\"calendarmodel\":\"http:\\\/\\\/www.wikidata.org\\\/entity\\\/Q1985727\"},\"type\":\"time\"}":{"text\/html":{"en":{"P571":"21 March 2017"}},"text\/plain":{"en":{"P571":"21 March 2017"}}}}' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P571 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P571" href="https://www.wikidata.org/wiki/Special:EntityPage/P571">inception</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'><div class='wbmi-item wbmi-item-read'><div data-guid='M68073331$79D06D10-C473-4C28-AC59-B912FE672D75' class='wbmi-item-container'><div class='wbmi-entity-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi>21 March 2017</bdi></h4></div></div></div></div></div></div></div></div></div></div></div></div></div><noscript><img src="//commons.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
-<div class="printfooter">Retrieved from "<a dir="ltr" href="https://commons.wikimedia.org/w/index.php?title=File:QGIS_logo_new.svg&amp;oldid=459169959">https://commons.wikimedia.org/w/index.php?title=File:QGIS_logo_new.svg&amp;oldid=459169959</a>"</div></div>
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:SVG_free_software_logos" title="Category:SVG free software logos">SVG free software logos</a></li><li><a href="/wiki/Category:QGIS" title="Category:QGIS">QGIS</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-user-shown">Hidden category: <ul><li><a href="/wiki/Category:GPL" title="Category:GPL">GPL</a></li></ul></div></div>
-	</div>
-</div>
-
-<div id="mw-navigation">
-	<h2>Navigation menu</h2>
-	<div id="mw-head">
-		
-
-<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"  >
-	<h3
-		id="p-personal-label"
-		
-		class="vector-menu-heading "
-	>
-		<span class="vector-menu-heading-label">Personal tools</span>
-	</h3>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"><li id="pt-uls" class="mw-list-item active"><a class="uls-trigger" href="#"><span>English</span></a></li><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=File%3AQGIS+logo+new.svg" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=File%3AQGIS+logo+new.svg" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span>Log in</span></a></li></ul>
-		
-	</div>
-</nav>
-
-		<div id="left-navigation">
-			
-
-<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
-	<h3
-		id="p-namespaces-label"
-		
-		class="vector-menu-heading "
-	>
-		<span class="vector-menu-heading-label">Namespaces</span>
-	</h3>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"><li id="ca-nstab-image" class="selected mw-list-item"><a href="/wiki/File:QGIS_logo_new.svg" title="View the file page [c]" accesskey="c"><span>File</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=File_talk:QGIS_logo_new.svg&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t"><span>Discussion</span></a></li></ul>
-		
-	</div>
-</nav>
-
-			
-
-<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
-	<input type="checkbox"
-		id="p-variants-checkbox"
-		role="button"
-		aria-haspopup="true"
-		data-event-name="ui.dropdown-p-variants"
-		class="vector-menu-checkbox"
-		aria-labelledby="p-variants-label"
-	/>
-	<label
-		id="p-variants-label"
-		 aria-label="Change language variant"
-		class="vector-menu-heading "
-	>
-		<span class="vector-menu-heading-label">English</span>
-	</label>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"></ul>
-		
-	</div>
-</nav>
-
-		</div>
-		<div id="right-navigation">
-			
-
-<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
-	<h3
-		id="p-views-label"
-		
-		class="vector-menu-heading "
-	>
-		<span class="vector-menu-heading-label">Views</span>
-	</h3>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/File:QGIS_logo_new.svg"><span>View</span></a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=File:QGIS_logo_new.svg&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=File:QGIS_logo_new.svg&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>History</span></a></li></ul>
-		
-	</div>
-</nav>
-
-			
-
-<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
-	<input type="checkbox"
-		id="p-cactions-checkbox"
-		role="button"
-		aria-haspopup="true"
-		data-event-name="ui.dropdown-p-cactions"
-		class="vector-menu-checkbox"
-		aria-labelledby="p-cactions-label"
-	/>
-	<label
-		id="p-cactions-label"
-		
-		class="vector-menu-heading "
-	>
-		<span class="vector-menu-heading-label">More</span>
-	</label>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"></ul>
-		
-	</div>
-</nav>
-
-			
-<div id="p-search" role="search" class="vector-search-box-vue vector-search-box">
-	<div>
-			<h3 >
-				<label for="searchInput">Search</label>
-			</h3>
-		<form action="/w/index.php" id="searchform"
-			class="vector-search-box-form">
-			<div id="simpleSearch"
-				class="vector-search-box-inner"
-				 data-search-loc="header-navigation">
-				<input class="vector-search-box-input"
-					 type="search" name="search" placeholder="Search Wikimedia Commons" aria-label="Search Wikimedia Commons" autocapitalize="sentences" title="Search Wikimedia Commons [f]" accesskey="f" id="searchInput"
-				>
-				<input type="hidden" name="title" value="Special:MediaSearch">
-				<input id="mw-searchButton"
-					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search the pages for this text" value="Search">
-				<input id="searchButton"
-					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
-			</div>
-		</form>
-	</div>
-</div>
-
-		</div>
-	</div>
-	
-
-<div id="mw-panel">
-	<div id="p-logo" role="banner">
-		<a class="mw-wiki-logo" href="/wiki/Main_Page"
-			title="Visit the main page"></a>
-	</div>
-	
-
-<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
-	<h3
-		id="p-navigation-label"
-		
-		class="vector-menu-heading "
-	>
-		<span class="vector-menu-heading-label">Navigate</span>
-	</h3>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-welcome" class="mw-list-item"><a href="/wiki/Commons:Welcome"><span>Welcome</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Commons:Community_portal" title="About the project, what you can do, where to find things"><span>Community portal</span></a></li><li id="n-village-pump" class="mw-list-item"><a href="/wiki/Commons:Village_pump"><span>Village pump</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Special:MyLanguage/Help:Contents" title="The place to find out"><span>Help center</span></a></li></ul>
-		
-	</div>
-</nav>
-
-	
-
-<nav id="p-participate" class="mw-portlet mw-portlet-participate vector-menu vector-menu-portal portal" aria-labelledby="p-participate-label" role="navigation"  >
-	<h3
-		id="p-participate-label"
-		
-		class="vector-menu-heading "
-	>
-		<span class="vector-menu-heading-label">Participate</span>
-	</h3>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"><li id="n-uploadbtn" class="mw-list-item"><a href="/wiki/Special:UploadWizard"><span>Upload file</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-latestfiles" class="mw-list-item"><a href="/wiki/Special:NewFiles"><span>Latest files</span></a></li><li id="n-randomimage" class="mw-list-item"><a href="/wiki/Special:Random/File" title="Load a random file [x]" accesskey="x"><span>Random file</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Commons:Contact_us"><span>Contact us</span></a></li></ul>
-		
-	</div>
-</nav>
-
-
-<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
-	<h3
-		id="p-tb-label"
-		
-		class="vector-menu-heading "
-	>
-		<span class="vector-menu-heading-label">Tools</span>
-	</h3>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/File:QGIS_logo_new.svg" title="A list of all wiki pages that link here [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/File:QGIS_logo_new.svg" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=File:QGIS_logo_new.svg&amp;oldid=459169959" title="Permanent link to this revision of the page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=File:QGIS_logo_new.svg&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-wb-concept-uri" class="mw-list-item"><a href="https://commons.wikimedia.org/entity/M68073331" title="URI that identifies the concept described by this Item"><span>Concept URI</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=File%3AQGIS_logo_new.svg&amp;id=459169959&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li></ul>
-		
-	</div>
-</nav>
-
-
-<nav id="p-electronpdfservice-sidebar-portlet-heading" class="mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading vector-menu vector-menu-portal portal" aria-labelledby="p-electronpdfservice-sidebar-portlet-heading-label" role="navigation"  >
-	<h3
-		id="p-electronpdfservice-sidebar-portlet-heading-label"
-		
-		class="vector-menu-heading "
-	>
-		<span class="vector-menu-heading-label">Print/export</span>
-	</h3>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"><li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=File%3AQGIS_logo_new.svg&amp;action=show-download-screen"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
-		
-	</div>
-</nav>
-
-	
-</div>
-
-</div>
-
-<footer id="footer" class="mw-footer" role="contentinfo" >
-	<ul id="footer-info">
-	<li id="footer-info-lastmod"> This page was last edited on 14 September 2020, at 17:13.</li>
-	<li id="footer-info-copyright">Files are available under licenses specified on their description page. All structured data from the file namespace is available under the <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>; all unstructured text is available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution-ShareAlike License</a>;
-additional terms may apply.
-By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Terms of Use</a> and the <a href="//foundation.wikimedia.org/wiki/Privacy_policy" title="Wikimedia Foundation Privacy Policy">Privacy Policy</a>.</li>
-</ul>
-
-	<ul id="footer-places">
-	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-	<li id="footer-places-about"><a href="/wiki/Commons:Welcome" title="Commons:Welcome">About Wikimedia Commons</a></li>
-	<li id="footer-places-disclaimer"><a href="/wiki/Commons:General_disclaimer" title="Commons:General disclaimer">Disclaimers</a></li>
-	<li id="footer-places-mobileview"><a href="//commons.m.wikimedia.org/w/index.php?title=File:QGIS_logo_new.svg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
-	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/commons.wikimedia.org">Statistics</a></li>
-	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-</ul>
-
-	<ul id="footer-icons" class="noprint">
-	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
-	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
-</ul>
-
-</footer>
-
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.001","walltime":"0.001","ppvisitednodes":{"value":2,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":1,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"origin":"mw1370","timestamp":"20220713095325","ttl":1814400,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/91\/QGIS_logo_new.svg","license":"https:\/\/www.gnu.org\/licenses\/old-licenses\/gpl-2.0.html","acquireLicensePage":"\/\/commons.wikimedia.org\/wiki\/File:QGIS_logo_new.svg","uploadDate":"2018-04-06 08:37:50"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/91\/QGIS_logo_new.svg","license":"https:\/\/www.gnu.org\/licenses\/old-licenses\/gpl-2.0.html","acquireLicensePage":"\/\/commons.wikimedia.org\/wiki\/File:QGIS_logo_new.svg","uploadDate":"2018-04-06 08:37:50"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":228,"wgHostname":"mw1370"});});</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="328px" height="315px" viewBox="0 0 328 315" enable-background="new 0 0 328 315" xml:space="preserve">  <image id="image0" width="328" height="315" x="0" y="0"
+    href="data:image/png;base64,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
+MDowMMznyQYAAAAASUVORK5CYII=" />
+</svg>
