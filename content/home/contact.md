@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: saeed.soltani@univ-grenoble-alpes.fr
-  phone: 0033629764989
+  phone: +33629764989
   address:
     street: 1381 rue de la piscine
     city: Gieres
