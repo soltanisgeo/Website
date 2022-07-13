@@ -27,7 +27,7 @@ feature:
   - description: 
     icon: QGIS
     icon_pack: custom
-    name: QGIS
+	name: QGIS
 	- description: 10%
     icon: GMT
     icon_pack: custom
