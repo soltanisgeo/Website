@@ -6,7 +6,9 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Ebrahim Haghshenas
+  - Bertrand Guillier
+  - Cecile Cornou
 
 # Author notes (optional)
 author_notes:
