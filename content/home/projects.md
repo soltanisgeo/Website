@@ -27,11 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
-
+    - name: Site effect
+      tag: Site effect
+    - name: Numerical Simulation
+      tag: Numerical Simulation
+    - name: Site Charactriztion
+      tag: Site Charactriztion
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
