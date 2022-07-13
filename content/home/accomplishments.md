@@ -49,5 +49,5 @@ item:
     url: ''
 
 design:
-  columns: '1'
+  columns: '2'
 ---
