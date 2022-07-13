@@ -21,9 +21,9 @@ feature:
     icon_pack: custom
     name: Geopsy
   - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
+    icon: Efispec
+    icon_pack: custom
+    name: Efispec3D
   - description: 10%
     icon: camera-retro
     icon_pack: fas
