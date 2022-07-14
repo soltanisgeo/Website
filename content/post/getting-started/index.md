@@ -30,10 +30,6 @@ image:
 authors:
   - admin
 
-tags:
-  - Academic
-  - 开源
-
 categories:
   - Seismology
 ---
