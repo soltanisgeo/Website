@@ -31,21 +31,21 @@ item:
     organization_url: https://www.iiees.ac.ir
     title: SEE7
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://drive.google.com/file/d/1of8LOQmU7Z4M56oQhDH9s3CLhI-Sl81J/view?usp=sharing
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    date_start: '2019-03-12'
+    description: SERA-NA5 workshop on strong motion site characterization
+    organization: INGV
+    organization_url: https://www.INGV.it
+    title: SERA-NA5
+    url: ''
+  - certificate_url: https://drive.google.com/file/d/1zwvfDEHIrqgtAr6YbMWQo047uMLwxWqR/view?usp=sharing
+    date_end: ''
+    date_start: '2019-10-10'
+    description: 'Trans-disciplinary Research on Iranian Geology, Geodynamics, Earthquakes and Resources'
+    organization: France&Iran universities
+    organization_url: http://trigger-earth.ir/project.html
+    title: 'TRIGGER'
     url: ''
 
 design:
