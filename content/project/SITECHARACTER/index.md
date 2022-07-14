@@ -1,9 +1,9 @@
 ---
-title: MSc Thesis
-summary: Velocity structure imaging by inversions of Rayleigh wave ellipticity
+title: Site characterization studies in Iran
+summary: Various site characterization studies in Iran
 tags:
-  - Site effect
-date: '2015'
+  - Site Characterization
+date: '2022'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

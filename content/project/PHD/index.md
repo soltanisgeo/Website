@@ -1,9 +1,9 @@
 ---
 title: Ph.D. Thesis
-summary: Velocity structure imaging by inversions of Rayleigh wave ellipticity
+summary: 3D velocity model of Tehran: Impact on siesmic risk assessment
 tags:
-  - Site effect
-date: '2015'
+  - Numerical Simulation
+date: '2018'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
