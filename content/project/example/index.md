@@ -2,10 +2,8 @@
 title: MSc Thesis
 summary: Velocity structure imaging by inversions of Rayleigh wave ellipticity
 tags:
-  - Site Characterization
-date: '2015'
   - Site effect
-date: '2015'  
+date: '2015'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
