@@ -1,9 +1,9 @@
 ---
-title: PhD Thesis
-summary: 3D velocity model of Tehran: Impact on siesmic risk assessment
+title: Site characterization studies in Iran
+summary: Various site characterization studies in Iran
 tags:
-  - Numerical Simulation
-date: '2018'
+  - Site Characterization
+date: '2022'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
