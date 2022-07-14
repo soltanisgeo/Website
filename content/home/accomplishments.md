@@ -25,10 +25,10 @@ date_format: Jan 2006
 item:
   - certificate_url: https://drive.google.com/file/d/1of8LOQmU7Z4M56oQhDH9s3CLhI-Sl81J/view?usp=sharing
     date_end: ''
-    date_start: '2016-01-25'
-    description: 'Best Paper'
+    date_start: '2015-05-18'
+    description: 'Best Paper award'
     organization: IIEES
-    organization_url: https://www.coursera.org
+    organization_url: https://www.iiees.ac.ir
     title: SEE7
     url: ''
   - certificate_url: https://www.edx.org
