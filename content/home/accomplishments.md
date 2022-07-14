@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://drive.google.com/file/d/1of8LOQmU7Z4M56oQhDH9s3CLhI-Sl81J/view?usp=sharing
     date_end: ''
-    date_start: '2016'
+    date_start: '2016-01-25'
     description: 'Best Paper'
     organization: IIEES
     organization_url: https://www.coursera.org
