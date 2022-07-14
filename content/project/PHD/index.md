@@ -1,5 +1,5 @@
 ---
-title: MSc Thesis
+title: Ph.D. Thesis
 summary: Velocity structure imaging by inversions of Rayleigh wave ellipticity
 tags:
   - Site effect
