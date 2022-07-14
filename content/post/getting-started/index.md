@@ -1,8 +1,8 @@
 ---
 title: Hello everyone
-subtitle: Soon we are going to talk about different aspexts of earthquake engineerring.
+subtitle: Soon we are going to talk about different aspects of earthquake engineering.
 # Summary for listings and search engines
-summary: Soon we are going to talk about different aspexts of earthquake engineering.
+summary: Soon we are going to talk about different aspects of earthquake engineering.
 
 # Link this post with a project
 projects: []
