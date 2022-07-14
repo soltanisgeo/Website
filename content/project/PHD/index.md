@@ -1,5 +1,5 @@
 ---
-title: Ph.D. Thesis
+title: PhD Thesis
 summary: 3D velocity model of Tehran: Impact on siesmic risk assessment
 tags:
   - Numerical Simulation
