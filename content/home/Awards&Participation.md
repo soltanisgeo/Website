@@ -42,7 +42,7 @@ item:
   - certificate_url: https://drive.google.com/file/d/1zwvfDEHIrqgtAr6YbMWQo047uMLwxWqR/view?usp=sharing
     date_end: ''
     date_start: '2019-10-10'
-    description: 'Trans-disciplinary Research on Iranian Geology, Geodynamics, Earthquakes and Resources'
+    description: 'Project on Trans-disciplinary Research on Iranian Geology, Geodynamics, Earthquakes and Resources'
     organization: France&Iran universities
     organization_url: http://trigger-earth.ir/project.html
     title: 'TRIGGER'
