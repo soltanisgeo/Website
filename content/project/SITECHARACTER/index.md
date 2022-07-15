@@ -22,6 +22,6 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 ---
-* about the figure: * up-left: Iran map with the location if diferent projects, Down-left : Extracting the 1-D velocity structure for Kalpoosh (Semnan Province), up-right: Extracting the 1-D velocity structure for Mahshahr (Khuzestan Province), Down-left: an example of sinking house close to collapsible loess soils.
+*about the figure:* up-left: Iran map with the location if diferent projects, Down-left : Extracting the 1-D velocity structure for Kalpoosh (Semnan Province), up-right: Extracting the 1-D velocity structure for Mahshahr (Khuzestan Province), Down-left: an example of sinking house close to collapsible loess soils.
 
 During the years, I participated in many different projects in Iran, mostly to study about local geotechnical condition and soil characterization. 
