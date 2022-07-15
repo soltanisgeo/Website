@@ -37,7 +37,7 @@ feature:
     icon_pack: custom
     name: Python(Obspy)
   - description: 80% 
-    icon:Adobe
+    icon: Adobe
     icon_pack: custom
     name: Adobe Illustrator	
 # Uncomment to use emoji icons.
