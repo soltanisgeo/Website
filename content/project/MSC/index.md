@@ -15,7 +15,6 @@ image:
 links:
   - icon: envelope
     icon_pack: fas
-    name: your comments
     link: '/#contact'
 url_code: ''
 url_pdf: ''
