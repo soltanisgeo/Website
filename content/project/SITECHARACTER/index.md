@@ -9,7 +9,7 @@ date: '2022'
 external_link: ''
 
 image:
-  caption: A
+  caption: 
   focal_point: Smart
 
 links:
