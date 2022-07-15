@@ -23,7 +23,9 @@ url_slides: ''
 url_video: ''
 
 ---
-After earthquake swarm’s which were happened in a short period in 01.15.2012 between Arak’s northwest and Ashtian’s southeast, this city which was initially considered of as a quiet seismic zone, received more attention. According to studies which were performed in the framework of seismic microzonation, H / V spectral ratio calculated in some region shown a clear amplification for lower frequencies.
+*About the figure*: up-left: engineering geology map of ARAK. down-left: shematic view of time-frequency analysis to extract HVTFA curves. up-right: shematic view of extractin RayDec curves (Hobiger 2011). down-right: F0 map of Arak.
+
+**MSc Thesis:** After earthquake swarm’s which were happened in a short period in 01.15.2012 between Arak’s northwest and Ashtian’s southeast, this city which was initially considered of as a quiet seismic zone, received more attention. According to studies which were performed in the framework of seismic microzonation, H / V spectral ratio calculated in some region shown a clear amplification for lower frequencies.
 
 To study more about site effect and probable existing a thick alluvial deposit we tried to extract velocity structure by inversions of Rayleigh wave ellipticity. Since 1970’s this method was promoted and popularized experimentally (Nogoshi and Igarashi 1971, Yamakana et al., 1994) and numerically  (Lachet and Bard 1994, Bard 1999) and shows that the ellipticity has a potential to investigation the deep sedimentary layers.
 
