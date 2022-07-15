@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/seisaesol
+  - icon: envelope
+    icon_pack: fas
+    name: your comments
+    link: '/#contact'
 url_code: ''
 url_pdf: ''
 url_slides: ''
