@@ -1,6 +1,6 @@
 ---
 title: PhD Thesis
-summary: Three dimentional velocity model of the Tehran sedimentary basin: impact on seismic risk assessment
+summary: Three dimentional velocity model of the Tehran sedimentary basin, impact on seismic risk assessment.
 tags:
   - Numerical Simulation
 date: '2022'
@@ -9,7 +9,7 @@ date: '2022'
 external_link: ''
 
 image:
-  caption: 3D velocity model of the Tehran sedimentary basin
+  caption: Three dimentional velocity model of the Tehran sedimentary basin
   focal_point: Smart
 
 links:
