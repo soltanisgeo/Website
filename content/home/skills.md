@@ -16,27 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: *****
+  - description: 100%
     icon: Geopsy
     icon_pack: custom
     name: Geopsy
-  - description: *****
+  - description: 80%
     icon: Efispec
     icon_pack: custom
     name: Efispec3D
-  - description: ****
+  - description: 80%
     icon: QGIS
     icon_pack: custom
     name: QGIS
-  - description: ***
+  - description: 60%
     icon: GMT
     icon_pack: custom
     name: GMT
-  - description: ***
+  - description: 50%
     icon: obspy
     icon_pack: custom
-    name: Obspy
-  - description: ****
+    name: Python(Obspy)
+  - description: 80% 
     icon:Adobe
     icon_pack: custom
     name: Adobe Illustrator	
