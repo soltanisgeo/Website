@@ -1,6 +1,6 @@
 ---
 title: Site characterization studies in Iran
-summary: Various site characterization studies in Iran
+summary: A series of site characterization studies in different parts of Iran
 tags:
   - Site Characterization
 date: '2022'
