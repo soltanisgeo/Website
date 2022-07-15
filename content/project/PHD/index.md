@@ -9,7 +9,7 @@ date: '2022'
 external_link: ''
 
 image:
-  caption: Three dimentional velocity model of the Tehran sedimentary basin
+  caption: 
   focal_point: Smart
 
 links:
