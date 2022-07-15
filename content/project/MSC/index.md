@@ -13,21 +13,15 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/seisaesol
+  - icon: envelope
+    icon_pack: fas
+    name: your comments
+    link: '/#contact'
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 After earthquake swarm’s which were happened in a short period in 01.15.2012 between Arak’s northwest and Ashtian’s southeast, this city which was initially considered of as a quiet seismic zone, received more attention. According to studies which were performed in the framework of seismic microzonation, H / V spectral ratio calculated in some region shown a clear amplification for lower frequencies.
 
