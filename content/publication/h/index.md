@@ -7,17 +7,18 @@ title: 'Conference Proceedings'
 authors:
   - admin
   - Ebrahim Haghshenas
-  - Mohsen Dazlabi
+  - Bertrand Guillier
+  - Cecile Cornou
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
 
-date: '2015-01-01T00:00:00Z'
+date: '2019-01-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2015-01-01T00:00:00Z'
+publishDate: '2019-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,8 +27,8 @@ publishDate: '2015-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: SEE7
-publication_short: Velocity structure imaging by inversions of Rayleigh wave ellipticity Application to the Arak city, Iran. *7th International Conference on Seismology and Earthquake Engineering (SEE7)*, Tehran, Iran. **Oral presentation – distinguished paper**
+publication: TRIGGER
+publication_short: 3D modeling of the Tehran alluvial deposits using Active and Passive measurements: Preliminary results of Tehran experiments. *Trans-disciplinary Research on Iranian Geology, Geodynamics, Earthquakes and Resources (TRIGGER).*, Zanjan, Iran. **Oral presentation**
 
 abstract: 
 

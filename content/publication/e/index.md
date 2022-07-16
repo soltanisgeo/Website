@@ -7,17 +7,16 @@ title: 'Conference Proceedings'
 authors:
   - admin
   - Ebrahim Haghshenas
-  - Mohsen Dazlabi
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
 
-date: '2015-01-01T00:00:00Z'
+date: '2018-01-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2015-01-01T00:00:00Z'
+publishDate: '2018-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +26,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: SEE7
-publication_short: Velocity structure imaging by inversions of Rayleigh wave ellipticity Application to the Arak city, Iran. *7th International Conference on Seismology and Earthquake Engineering (SEE7)*, Tehran, Iran. **Oral presentation – distinguished paper**
+publication_short: A study between the relations of Caspian Sea wave height and the low frequency Seismic noise measurements in Tehran.  *16th European conference on earthquake engineering*, Thessaloniki, Grecce.
 
 abstract: 
 
