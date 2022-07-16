@@ -7,7 +7,7 @@ title: 'Conference Proceedings'
 authors:
   - admin
   - Ebrahim Haghshenas
-  - Mohsen Dazlabi
+  - Mohsen Fazlavi
 
 # Author notes (optional)
 author_notes:
