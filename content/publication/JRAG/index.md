@@ -29,10 +29,10 @@ publication_types: ['2']
 publication: JRAG
 publication_short: On the Optimal Parameterization of Initial Models in Surface Wave Inversion in Deep Basins. In *Journal of Research on Applied Geophysics (JRAG)* DOI:10.22044/jrag.2021.9249.1272
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags: []
 
@@ -67,13 +67,6 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
   - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
