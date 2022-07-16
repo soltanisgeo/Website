@@ -28,7 +28,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: SEE7
-publication_short: 3D velocity model of Tehran.  *37th General Assembly (GA) of the European Seismological Commission.*, Athens, Grecce. **Oral presentation**
+publication_short: Three dimentional velocity model of Tehran.  *37th General Assembly (GA) of the European Seismological Commission.*, Athens, Grecce. **Oral presentation**
 
 abstract: 
 

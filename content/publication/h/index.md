@@ -28,7 +28,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: TRIGGER
-publication_short: 3D modeling of the Tehran alluvial deposits using Active and Passive measurements: Preliminary results of Tehran experiments. *Trans-disciplinary Research on Iranian Geology, Geodynamics, Earthquakes and Resources (TRIGGER).*, Zanjan, Iran. **Oral presentation**
+publication_short: Three dimentional modeling of the Tehran alluvial deposits using Active and Passive measurements: Preliminary results of Tehran experiments. *Trans-disciplinary Research on Iranian Geology, Geodynamics, Earthquakes and Resources (TRIGGER).*, Zanjan, Iran. **Oral presentation**
 
 abstract: 
 
