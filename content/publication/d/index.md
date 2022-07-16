@@ -28,7 +28,7 @@ publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
 publication: IIEES
-publication_short: 21 November2017 SarPol-e Zahab Earthquake Reconnaissance. Vol.2, Site effects, IIEES, Tehran, Iran.
+publication_short: 21 November2017 SarPol-e Zahab Earthquake Reconnaissance. Vol.2, Site effects, IIEES, Tehran, Iran
 
 abstract: 
 
