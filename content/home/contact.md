@@ -26,26 +26,17 @@ content:
 
   # Contact details (edit or remove options as required)
   email: saeed.soltani@univ-grenoble-alpes.fr
-  phone: +33629764989
+  phone: 0629764989
   address:
-    street: 1381 rue de la piscine
+    street: OSUG-C (Maison des Géosciences)1381 rue de la piscine
     city: Gieres
-    region: Isere
-    postcode: '38241'
+    region:
+    postcode: '38610'
     country: France
     country_code: FR
   coordinates:
     latitude: '45.1971'
     longitude: '5.7741'
-  Contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: Twitter
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom
-      link: 'https://zoom.com'
 
 design:
   columns: '2'
