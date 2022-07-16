@@ -1,5 +1,5 @@
 ---
-title: 2017 7.3 Mw Iran–Iraq earthquake (Sarpol-e Zahab)
+title: 2017 Mw7.3 Iran–Iraq earthquake (Sarpol-e Zahab)
 summary: 21 Nov. 2017 Earthquake Reconnaissance, Vol.2, Site effects, IIEES.
 tags:
   - Site effect

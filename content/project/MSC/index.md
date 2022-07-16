@@ -9,7 +9,7 @@ date: '2015'
 external_link: ''
 
 image:
-  caption: Arak
+  caption: 
   focal_point: Smart
 
 links:
@@ -23,7 +23,7 @@ url_slides: ''
 url_video: ''
 
 ---
-*About the figure*: up-left: engineering geology map of ARAK. down-left: shematic view of time-frequency analysis to extract HVTFA curves. up-right: shematic view of extractin RayDec curves (Hobiger 2011). down-right: F0 map of Arak.
+*About the figure:* (Up-left):Engineering geology map of ARAK. (Down-left):Shematic view of time-frequency analysis to extract HVTFA curves. (Up-right):shematic view of extractin RayDec curves(Hobiger 2011). (Down-right):F0 map of Arak.
 
 **MSc Thesis:** After earthquake swarm’s which were happened in a short period in 01.15.2012 between Arak’s northwest and Ashtian’s southeast, this city which was initially considered of as a quiet seismic zone, received more attention. According to studies which were performed in the framework of seismic microzonation, H / V spectral ratio calculated in some region shown a clear amplification for lower frequencies.
 
@@ -34,7 +34,7 @@ Ellipticity is defined as the ratio between the horizontal and the vertical Rayl
 HVTFA method define based on time-frequency analysis of the continuous wavelet transforms. In this method, the maximum values of the vertical signal on time-frequency presentation of the records are extracted in each frequency. These maximums in vertical spectra have corresponded to the existence of Rayleigh waves. The averaging of the calculated spectral ratios of these values indicates the ellipticity of the Rayleigh waves (left-bottom). 
 
 The RayDec method is formed by summing and stacking buffered signal windows. The ellipticity ratio is calculated by searching all times where the vertical components of filtered signal change their sign and stacking these parts in windows. The ratio is calculated with a novel approach on horizontal components by introducing a correlation factor between horizontal and vertical components. Finally, the ratio is defined as the square root of the energies in the buffered signals.
-The procedure of summing and stacking eliminates the effects of other waves. Body waves are also damped with phase-shifting of stacked signals, and Love waves do not appear in vertical components. Moreover, the incidental correlations of Love and Rayleigh waves arriving at the same time are dissolved by stacking on a large number of time windows (right-up).
+The procedure of summing and stacking eliminates the effects of other waves. Body waves are also damped with phase-shifting of stacked signals, and Love waves do not appear in vertical components. Moreover, the incidental correlations of Love and Rayleigh waves arriving at the same time are dissolved by stacking on a large number of time windows.
 
 We use these methods to extract and inversion of Ellipticity in Arak region. The obtained profiles besides geological and geophysical observations approved a thick alluvial deposit existence in the north and east part of urban area of Arak. For the southern parts, this method shows higher velocity and lower depth of bedrock in accordance with geology of southern high elevated areas.
 

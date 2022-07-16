@@ -23,8 +23,9 @@ url_slides: ''
 url_video: ''
 
 ---
-*About the figure*: left panel - up: An extensive ambient noise measurements in Tehran (more than 800 points), down: results for H/V, exracting earthquake coda and the inversion process to retrive 1-D velocity structure (3-D velocity structure are not represented here (paper is not published yet)
-right panel- up: Extractions of basin layers (with rotation), meshing the basin and a preliminary results of numerical simulation with Efispec3d.
+*About the figure:*  (Left panel-Up):An extensive ambient noise measurements in Tehran (around 800 points). (Left panel-Down):Results for H/V, exracting earthquakes coda, and the inversion process to retrive 1-D velocity structure (3-D velocity structure are not represented here because the paper is not published yet).
+
+(Right panel-Up:Extractions of basin layers with rotation, meshing the basin and a preliminary results of numerical simulation with Efispec3d.
 
 
 **PhD Thesis:**  Tehran, the capital of Iran, is located in the Southern part of the central Alborz, a region of very high seismicity due to the existence of several very large active faults. On the other hand, the city is built on a very thick alluvial deposits coming from the Alborz Mountains Range, giving the possibility to amplify the seismic waves and so increasing dramatically their impact on Tehran building stock. With these condition’s it is fundamental to best define the geometry/properties of the alluvial basin of Tehran in order to be able to predict a more realistic surface ground motion for future earthquakes.
@@ -35,5 +36,5 @@ In order to answer the origin of the amplification we constructed the first expe
 
 The final results based on strong ground motion simulations can help us to consider the importance of local site effects for the first time on the frameworks of Tehran seismic hazard assessment. 
 
-(This thesis is done in the framework of Franco-Iranian (ISTERRE/IIEES) cooperation about the seismic risk of Tehran, which takes place in the TRIGGER-GDRI CNRS program.)
+**This thesis is done in the framework of Franco-Iranian (ISTERRE/IIEES) cooperation about the seismic risk of Tehran, which takes place in the TRIGGER-GDRI CNRS program.**
   
