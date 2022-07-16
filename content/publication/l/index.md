@@ -6,9 +6,9 @@ title: 'Conference Proceedings'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Ebrahim Haghshenas
   - Bertrand Guillier
   - Cecile Cornou
+  - Ebrahim Haghshenas
 
 # Author notes (optional)
 author_notes:
@@ -28,7 +28,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: SEE7
-publication_short: Three dimentional velocity model of Tehran.  *37th General Assembly (GA) of the European Seismological Commission.*, Athens, Grecce. **Oral presentation**
+publication_short: Building a three dimentional shear wave velocity structure of Tehran basin  *6th IASPEI / IAEE International Symposium: Effects of Surface Geology on Seismic Motion*, Kyoto, Japan
 
 abstract: 
 
