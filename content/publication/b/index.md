@@ -27,8 +27,8 @@ publishDate: '2021-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Building a three dimentional shear wave velocity structure of Tehran basin. *6th IASPEI IAEE International Symposium: Effects of Surface Geology on Seismic Motion*. Kyoto, Japan
-publication_short: 
+publication:
+publication_short: Building a three dimentional shear wave velocity structure of Tehran basin. *6th IASPEI IAEE International Symposium: Effects of Surface Geology on Seismic Motion*. Kyoto, Japan 
 
 abstract: 
 
