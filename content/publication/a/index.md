@@ -26,8 +26,8 @@ publishDate: '2015-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: SEE7
-publication_short: Velocity structure imaging by inversions of Rayleigh wave ellipticity Application to the Arak city, Iran. *7th International Conference on Seismology and Earthquake Engineering (SEE7)*, Tehran, Iran. **Oral presentation – distinguished paper**
+publication: Velocity structure imaging by inversions of Rayleigh wave ellipticity Application to the Arak city, Iran. *7th International Conference on Seismology and Earthquake Engineering (SEE7)*, Tehran, Iran. **Oral presentation – distinguished paper**
+publication_short: 
 
 abstract: 
 
