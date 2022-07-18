@@ -24,15 +24,11 @@ feature:
     icon: Efispec
     icon_pack: custom
     name: Efispec3D
-  - description: 60%
-    icon: Linux
-	icon_pack: custom
-	name: Linux
   - description: 80%
     icon: QGIS
     icon_pack: custom
     name: QGIS
-  - description: 50%
+  - description: 60%
     icon: GMT
     icon_pack: custom
     name: GMT
