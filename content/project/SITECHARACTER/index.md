@@ -30,3 +30,12 @@ During the years, I participated in many different projects in Iran, mostly to s
 **3- Kalpoosh:** Following the torrential rains in 2019, numerous landslides occurred in mountainous areas and instabe slopes in East Alborz region( North Semnan province ). One of the most important landslides occurred in the village of Kalpoosh (Hossein Abad Kalpoosh). Kalpoosh village, which was built on a large old landslide, has been reactivated due to infiltration waters from the Kalpoosh dam and the rainfall and snowmelt caused by heavy snow in winter 2018.<br /> In addition to the reactivation, many other large and small landslides have occurred in the slopes around this village, which raised the need for comprehensive studies in this region. As part of this project, site effect studies was done in order to find the new location for the transfer of damaged houses in the uninhabitable parts.<br />
 **4- Bojnourd:** In this study, we tried to investigte the soil characterization and site conditions (soil class, VS30, velocity profiles) for seismic stations in Lorestan province using ambient noise vibrations method.<br />
 **5- Mahshahr:** This project was carried out to evaluate  the seismic vulnerability and resiliency of structures in oil and gas facilities in southern Iran (Mahshahr special economic zone). Site effect and microzonation studies were carried out as part of this project's to complete the study objectives.<br />
+
+**I was involved in these project in terms of:**
+Extracting dispersion curves from active methods (MASW)<br />
+Extracting dispersion curves (Rayliegh and Love) from passive methods (3-component F-K methods)<br />
+H/V (process and interpretaion)<br />
+F0 microzonation map <br />
+F0-depth relation estimation (ibs-von seht & wahlenberg 1999 method)<br />
+Extracting Ellipticity curves (one station and multi station methods)<br />
+Joint inversion of Eliipticities, Active and Passive methods to extract shear wave velocity profiles<br />
