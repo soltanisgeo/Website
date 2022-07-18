@@ -24,14 +24,10 @@ feature:
     icon: Efispec
     icon_pack: custom
     name: Efispec3D
-  - description: 70%
+  - description: 60%
     icon: Linux
 	icon_pack: custom
 	name: Linux
-  - description: 60%
-    icon: obspy
-    icon_pack: custom
-    name: Python(Obspy)
   - description: 80%
     icon: QGIS
     icon_pack: custom
@@ -40,6 +36,10 @@ feature:
     icon: GMT
     icon_pack: custom
     name: GMT
+  - description: 50%
+    icon: obspy
+    icon_pack: custom
+    name: Python(Obspy)
   - description: 80% 
     icon: Adobe
     icon_pack: custom
