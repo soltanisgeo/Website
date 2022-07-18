@@ -25,8 +25,8 @@ publishDate: '2018-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short: A study between the relations of Caspian Sea wave height and the low frequency Seismic noise measurements in Tehran.  *16th European conference on earthquake engineering*, Thessaloniki, Grecce
+publication: A study between the relations of Caspian Sea wave height and the low frequency Seismic noise measurements in Tehran.  *16th European conference on earthquake engineering*, Thessaloniki, Grecce 
+publication_short: 
 
 abstract: 
 

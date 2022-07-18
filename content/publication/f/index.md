@@ -26,8 +26,8 @@ publishDate: '2019-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: SEE8
-publication_short: The efficiency of using three component array-based ellipticity methods for site characterization. *8th International Conference on Seismology and Earthquake Engineering (SEE8)*, Tehran, Iran. **Oral presentation**
+publication: The efficiency of using three component array-based ellipticity methods for site characterization. *8th International Conference on Seismology and Earthquake Engineering (SEE8)*, Tehran, Iran. **Oral presentation**
+publication_short: 
 
 abstract: 
 

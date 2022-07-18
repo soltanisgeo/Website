@@ -27,8 +27,8 @@ publishDate: '2019-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: SEE8
-publication_short: The necessity of 2/3D site effect studies in big cities of Iran. *8th International Conference on Seismology and Earthquake Engineering (SEE7)*, Tehran, Iran. **Oral presentation**
+publication: The necessity of 2/3D site effect studies in big cities of Iran. *8th International Conference on Seismology and Earthquake Engineering (SEE7)*, Tehran, Iran. **Oral presentation**
+publication_short: 
 
 abstract: 
 

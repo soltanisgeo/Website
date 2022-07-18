@@ -27,8 +27,8 @@ publishDate: '2021-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Trigger
-publication_short: Three dimentional modeling of the Tehran alluvial deposits using Active and Passive measurements.  *Trigger*, Zanjan, Iran. **Oral presentation**
+publication: Three dimentional modeling of the Tehran alluvial deposits using Active and Passive measurements.  *Trigger*, Zanjan, Iran. **Oral presentation**
+publication_short: 
 
 abstract: 
 

@@ -26,8 +26,8 @@ publishDate: '2021-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: JRAG
-publication_short: On the Optimal Parameterization of Initial Models in Surface Wave Inversion in Deep Basins. In *Journal of Research on Applied Geophysics (JRAG)* DOI:10.22044/jrag.2021.9249.1272
+publication: On the Optimal Parameterization of Initial Models in Surface Wave Inversion in Deep Basins. In *Journal of Research on Applied Geophysics (JRAG)* DOI:10.22044/jrag.2021.9249.1272
+publication_short: 
 
 abstract: 
 

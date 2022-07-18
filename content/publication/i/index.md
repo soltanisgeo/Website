@@ -26,8 +26,8 @@ publishDate: '2020-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 19th Iranian geophysics Conference
-publication_short: Evaluation of Site Effect Study Techniques in the Temporary Seismic Network of Lorestan.  *19th Iranian geophysics Conference*, Tehran, Iran. **Oral presentation**
+publication: Evaluation of Site Effect Study Techniques in the Temporary Seismic Network of Lorestan.  *19th Iranian geophysics Conference*, Tehran, Iran. **Oral presentation**
+publication_short: 
 
 abstract: 
 
