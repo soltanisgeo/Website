@@ -32,7 +32,7 @@ feature:
     icon: QGIS
     icon_pack: custom
     name: QGIS
-  - description: 60%
+  - description: 50%
     icon: GMT
     icon_pack: custom
     name: GMT
