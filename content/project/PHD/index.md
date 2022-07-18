@@ -24,7 +24,7 @@ url_video: ''
 
 ---
 *About the figure:*  (Left panel-Up):An extensive ambient noise measurements in Tehran (around 800 points). (Left panel-Down):Results for H/V, exracting earthquakes coda, and the inversion process to retrive 1-D velocity structure (3-D velocity structure are not represented here because the paper is not published yet).<br />
-(Right panel-Up:Extractions of basin layers with rotation, meshing the basin and a preliminary results of numerical simulation with Efispec3d.
+*(Right panel-Up:Extractions of basin layers with rotation, meshing the basin and a preliminary results of numerical simulation with Efispec3d.*
 
 
 **PhD Thesis:**  Tehran, the capital of Iran, is located in the Southern part of the central Alborz, a region of very high seismicity due to the existence of several very large active faults. On the other hand, the city is built on a very thick alluvial deposits coming from the Alborz Mountains Range, giving the possibility to amplify the seismic waves and so increasing dramatically their impact on Tehran building stock. With these condition’s it is fundamental to best define the geometry/properties of the alluvial basin of Tehran in order to be able to predict a more realistic surface ground motion for future earthquakes.<br />
