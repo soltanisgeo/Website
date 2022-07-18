@@ -27,8 +27,8 @@ publishDate: '2015-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: SEE7
-publication_short: Sensitivity analysis for the ellipticity of Rayleigh waves. *7th International Conference on Seismology and Earthquake Engineering (SEE7)*, Tehran, Iran. **Oral presentation**
+publication: Sensitivity analysis for the ellipticity of Rayleigh waves. *7th International Conference on Seismology and Earthquake Engineering (SEE7)*, Tehran, Iran. **Oral presentation**
+publication_short: 
 
 abstract: 
 
