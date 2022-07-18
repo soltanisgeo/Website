@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: saeed.soltani@univ-grenoble-alpes.fr
-  phone: 0629764989
+  phone: (+33)0629764989
   address:
     street: OSUG-C (Maison des Géosciences)1381 rue de la piscine
     city: Gieres
