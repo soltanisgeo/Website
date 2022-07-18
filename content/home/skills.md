@@ -24,7 +24,7 @@ feature:
     icon: Efispec
     icon_pack: custom
     name: Efispec3D
-  - description: 60%
+  - description: 70%
     icon: Linux
 	icon_pack: custom
 	name: Linux
