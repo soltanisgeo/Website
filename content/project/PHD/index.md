@@ -22,8 +22,8 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
-video:
-  {{< video src="test2.mp4" controls="yes" >}}
+video: 
+  - video src="test2.mp4" controls="yes"
 ---
 *About the figure:*  (Left panel-Up):An extensive ambient noise measurements in Tehran (around 800 points). (Left panel-Down):Results for H/V, exracting earthquakes coda, and the inversion process to retrive 1-D velocity structure (3-D velocity structure are not represented here because the paper is not published yet).<br />
 *(Right panel-Up:Extractions of basin layers with rotation, meshing the basin and a preliminary results of numerical simulation with Efispec3d.*
