@@ -13,6 +13,7 @@ image:
   focal_point: Smart
 
 {{< video library="true" src="test2.mp4" controls="yes" >}}
+
 links:
   - icon: envelope
     icon_pack: fas
