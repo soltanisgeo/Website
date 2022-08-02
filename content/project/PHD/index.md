@@ -12,8 +12,6 @@ image:
   caption: 
   focal_point: Smart
 
-{{< video library="true" src="test2.mp4" controls="yes" >}}
-
 links:
   - icon: envelope
     icon_pack: fas
@@ -24,6 +22,7 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
+{{< video src="test2.mp4" controls="yes" >}}
 ---
 *About the figure:*  (Left panel-Up):An extensive ambient noise measurements in Tehran (around 800 points). (Left panel-Down):Results for H/V, exracting earthquakes coda, and the inversion process to retrive 1-D velocity structure (3-D velocity structure are not represented here because the paper is not published yet).<br />
 *(Right panel-Up:Extractions of basin layers with rotation, meshing the basin and a preliminary results of numerical simulation with Efispec3d.*
