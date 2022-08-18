@@ -24,14 +24,22 @@ feature:
     icon: Efispec
     icon_pack: custom
     name: Efispec3D
+  - description : 80%
+    icon: array
+	icon_pack: custom
+	name: seismic Array
   - description: 80%
     icon: QGIS
     icon_pack: custom
     name: QGIS
-  - description: 60%
+  - description: 70%
     icon: GMT
     icon_pack: custom
     name: GMT
+  - description: 30%
+    icon: Paraview
+	icon_pack: custom
+	name: Paraview
   - description: 50%
     icon: obspy
     icon_pack: custom
