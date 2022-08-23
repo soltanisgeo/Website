@@ -25,7 +25,7 @@ feature:
     icon_pack: custom
     name: Efispec3D
   - description : 80%
-    icon : array
+    icon : arrays
     icon_pack: custom
     name: Seismic Array
   - description: 80%
