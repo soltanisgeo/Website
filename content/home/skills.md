@@ -27,7 +27,7 @@ feature:
   - description : 80%
     icon: array
 	icon_pack: custom
-	name: seismic Array
+	name: Seismic Array
   - description: 80%
     icon: QGIS
     icon_pack: custom
