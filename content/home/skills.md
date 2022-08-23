@@ -37,7 +37,7 @@ feature:
     icon_pack: custom
     name: GMT
   - description: 30%
-    icon: Paraview
+    icon: ParaView
     icon_pack: custom
     name: Paraview
   - description: 50%
