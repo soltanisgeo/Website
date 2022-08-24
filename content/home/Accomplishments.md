@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: https://drive.google.com/file/d/1of8LOQmU7Z4M56oQhDH9s3CLhI-Sl81J/view?usp=sharing
-    date_end: ''
+    date_end: '2015-05-19'
     date_start: '2015-05-18'
     description: 'Best Paper award'
     organization: IIEES
@@ -32,16 +32,16 @@ item:
     title: SEE7
     url: ''
   - certificate_url: https://drive.google.com/file/d/1CpgP2uSdDDPmNyYOGSUhAKGV5TYkcBpE/view?usp=sharing
-    date_end: ''
-    date_start: '2019-03-12'
+    date_end: '2019-03-12'
+    date_start: '2019-03-04'
     description: SERA-NA5 workshop on strong motion site characterization
     organization: INGV
     organization_url: https://www.INGV.it
     title: SERA-NA5
     url: ''
   - certificate_url: https://drive.google.com/file/d/1zwvfDEHIrqgtAr6YbMWQo047uMLwxWqR/view?usp=sharing
-    date_end: ''
-    date_start: '2019-10-10'
+    date_end: '2019-10-10'
+    date_start: '2019-10-08'
     description: 'Project on Trans-disciplinary Research on Iranian Geology, Geodynamics, Earthquakes and Resources'
     organization: France&Iran universities
     organization_url: http://trigger-earth.ir/project.html
@@ -49,5 +49,5 @@ item:
     url: ''
 
 design:
-  columns: '2'
+  columns: '1'
 ---
