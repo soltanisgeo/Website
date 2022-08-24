@@ -13,7 +13,7 @@ organizations:
   - name: ISTERRE (Institut des science de la terre)
     url: https://www.isterre.fr/
   - name: IIEES (International Institute of earthquake engineering and seismology)
-    url: https://www.iiees.ac.ir/
+    url: http://www.iiees.ac.ir/en/
 # Short bio (displayed in user profile at end of posts)
 bio: Saeed Soltani
 
