@@ -48,7 +48,7 @@ feature:
     icon: GMT
     icon_pack: custom
     name: GMT
-   - description: 80% 
+  - description: 80% 
     icon: Adobe
     icon_pack: custom
     name: Adobe Illustrator
