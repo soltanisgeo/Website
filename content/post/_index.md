@@ -13,4 +13,3 @@ header:
   caption: ''
   image: ''
 ---
-{{< gallery album="<assets/media/albums>" >}}
