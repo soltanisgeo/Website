@@ -25,7 +25,8 @@ url_video: ''
 **_Figure:_** _(Up-left): Iran map with the location of different projects. (Down-left):Extracting the 1-D velocity structure for Kalpoosh, Semnan Province). (Up-right):Extracting the 1-D velocity structure for Mahshahr,Khuzestan Province. (Down-left):An example of sinking house close to collapsible loess soils. Faraghi city, Golestan Province._
 
 {{< hl >}}During the years, I participated in many different projects in Iran, mostly to study about local geotechnical condition and soil characterization. Each of these projects was done for a specific reason and necessity{{< /hl >}}
-
+<br />
+<br />
 
 **1- Aq-Qala and Gomishan:** This project was defined after the heavy damages related to the flood of 2019 in Golestan province. The flood damage highlighted the importance of all types of natural hazards studies especially the local seismic hazards in the high-seismicity area filled by loess weak soils.<br />
 **2- Faraghi:** Another project in Golestan province was done in Faraghi city. The city currently facing the problem of severe land subsidence due to the erosion of clay and loess soils. On the other hand the city was built recently from the integration of several villages affected by strong flood in 2004. So, the rapid development and population increase is increases the hazards for the city that encountered many possible natural hazards.<br />
