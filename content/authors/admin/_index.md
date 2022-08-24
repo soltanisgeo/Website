@@ -12,7 +12,8 @@ role: Ph.D. student
 organizations:
   - name: ISTERRE (Institut des science de la terre)
     url: https://www.isterre.fr/
-
+  - name: IIEES (International Institute of earthquake engineering and seismology)
+    url: https://www.iiees.ac.ir/
 # Short bio (displayed in user profile at end of posts)
 bio: Saeed Soltani
 
@@ -55,9 +56,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
