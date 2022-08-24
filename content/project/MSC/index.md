@@ -23,7 +23,7 @@ url_slides: ''
 url_video: ''
 
 ---
-*_figure: (Up-left):Engineering geology map of ARAK. (Down-left):Shematic view of time-frequency analysis to extract HVTFA curves. (Up-right):shematic view of extractin RayDec curves(Hobiger 2011). (Down-right):F0 map of Arak._*
+**_Figure_**: _(Up-left):Engineering geology map of ARAK. (Down-left):Shematic view of time-frequency analysis to extract HVTFA curves. (Up-right):shematic view of extractin RayDec curves(Hobiger 2011). (Down-right):F0 map of Arak._
 
 **MSc Thesis:** After earthquake swarm’s which were happened in a short period in 01.15.2012 between Arak’s northwest and Ashtian’s southeast, this city which was initially considered of as a quiet seismic zone, received more attention. According to studies which were performed in the framework of seismic microzonation, H / V spectral ratio calculated in some region shown a clear amplification for lower frequencies.<br />
 To study more about site effect and probable existing a thick alluvial deposit we tried to extract velocity structure by inversions of Rayleigh wave ellipticity.<br /> 
