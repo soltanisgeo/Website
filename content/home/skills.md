@@ -27,7 +27,19 @@ feature:
   - description : 80%
     icon : array
     icon_pack: custom
-    name: Seismic Array
+    name: Seismic Array Analysis
+	- description: 50%
+    icon: obspy
+    icon_pack: custom
+    name: Python(Obspy)
+	- description: 70%
+    icon: ubuntu
+    icon_pack: custom
+    name: Linux
+	- description: 30%
+    icon: ParaView
+    icon_pack: custom
+    name: Paraview
   - description: 80%
     icon: QGIS
     icon_pack: custom
@@ -36,15 +48,7 @@ feature:
     icon: GMT
     icon_pack: custom
     name: GMT
-  - description: 30%
-    icon: ParaView
-    icon_pack: custom
-    name: Paraview
-  - description: 50%
-    icon: obspy
-    icon_pack: custom
-    name: Python(Obspy)
-  - description: 80% 
+   - description: 80% 
     icon: Adobe
     icon_pack: custom
     name: Adobe Illustrator
