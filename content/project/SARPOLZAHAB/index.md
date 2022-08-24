@@ -23,6 +23,6 @@ url_slides: ''
 url_video: ''
 ---
 Following the 2017 Sarpol-e Zahab earthquake, various reconnaissance teams from the International Institute of Earthquake Engineering and seismology were gathered to investigate different aspects of this earthquake. An extensive fieldwork in the damaged areas revealed that the earthquake triggered a series of geotechnical phenomena, and aggravating the produced damage. The present report is derived from geotechnical research team obervation of the International Institute of Earthquake Engineering and seismology and  Kermanshah Razi University.<br /> 
-(Ebrahim Haghshenas, Iman Ashayeri, Mahnoosh Biglari, Mojtaba Mousavi, Masoumeh Rakhshandeh, Vahid Tajik, Saeed Soltani, Arman Sadr, Yadgar Houshyar)
+_(Ebrahim Haghshenas, Iman Ashayeri, Mahnoosh Biglari, Mojtaba Mousavi, Masoumeh Rakhshandeh, Vahid Tajik, Saeed Soltani, Arman Sadr, Yadgar Houshyar)_
 
 (Report at: https://www.researchgate.net/publication/333808875_21_Nov_2017_Earthquake_Reconnaissance_Vol2_Site_effects_IIEES)
