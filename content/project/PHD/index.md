@@ -34,4 +34,4 @@ Past seismological studies revealed a large amplification of seismic ground moti
 In order to answer the origin of the amplification we constructed the first experimental 3D model of the Tehran basin.<br />
 The final results based on strong ground motion simulations can help us to consider the importance of local site effects for the first time on the frameworks of Tehran seismic hazard assessment.<br />
 <br />
-**{{< hl >}}This thesis is done in the framework of Franco-Iranian (ISTERRE/IIEES) cooperation about the seismic risk of Tehran, which takes place in the TRIGGER-GDRI CNRS program.**{{< /hl >}}<br />
+{{< hl >}}**This thesis is done in the framework of Franco-Iranian (ISTERRE/IIEES) cooperation about the seismic risk of Tehran, which takes place in the TRIGGER-GDRI CNRS program.**{{< /hl >}}<br />
