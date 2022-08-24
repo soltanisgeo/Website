@@ -31,7 +31,7 @@ item:
     organization_url: https://www.iiees.ac.ir
     title: SEE7
     url: ''
-  - certificate_url: https://drive.google.com/file/d/1of8LOQmU7Z4M56oQhDH9s3CLhI-Sl81J/view?usp=sharing
+  - certificate_url: https://drive.google.com/file/d/1CpgP2uSdDDPmNyYOGSUhAKGV5TYkcBpE/view?usp=sharing
     date_end: ''
     date_start: '2019-03-12'
     description: SERA-NA5 workshop on strong motion site characterization
