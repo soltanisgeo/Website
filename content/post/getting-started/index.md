@@ -1,6 +1,6 @@
 ---
-title: Hello everyone
-subtitle: Soon we are going to talk about different aspects of earthquake engineering.
+title: Engineering Seismology
+subtitle: we are going to talk about different aspects of earthquake engineering.
 # Summary for listings and search engines
 summary: Soon we are going to talk about different aspects of earthquake engineering.
 
