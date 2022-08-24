@@ -28,15 +28,15 @@ feature:
     icon : array
     icon_pack: custom
     name: Seismic Array Analysis
-	- description: 50%
+  - description: 50%
     icon: obspy
     icon_pack: custom
     name: Python(Obspy)
-	- description: 70%
+  - description: 70%
     icon: ubuntu
     icon_pack: custom
     name: Linux
-	- description: 30%
+  - description: 30%
     icon: ParaView
     icon_pack: custom
     name: Paraview
