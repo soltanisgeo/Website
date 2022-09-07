@@ -24,10 +24,10 @@ feature:
     icon: Efispec
     icon_pack: custom
     name: Efispec3D
-  - description : 80%
-    icon : array
+  - description : 50%
+    icon : GIT
     icon_pack: custom
-    name: Seismic Array Analysis
+    name: GIT
   - description: 50%
     icon: obspy
     icon_pack: custom
