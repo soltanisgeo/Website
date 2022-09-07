@@ -25,7 +25,7 @@ feature:
     icon_pack: custom
     name: Efispec3D
   - description : 50%
-    icon : GIT
+    icon : Git
     icon_pack: custom
     name: GIT
   - description: 50%
