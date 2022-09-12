@@ -2,7 +2,7 @@
 title: MSc Thesis By Faeze Amirian (Thesis Advisor: Saeed Soltani)
 summary: Institute of Geophysics , University of Tehran
 tags:
-  - Thesis
+  - Site Characterization
 date: '2022'
 
 # Optional external URL for project (replaces project detail page).
