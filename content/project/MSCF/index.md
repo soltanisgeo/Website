@@ -9,7 +9,7 @@ date: '2022'
 external_link: ''
 
 image:
-  caption: 
+  caption: Qeshm
   focal_point: Smart
 
 links:
