@@ -2,7 +2,7 @@
 title: MSc Thesis By Faeze Amirian -Thesis Advisor: Saeed Soltani-
 summary: Institute of Geophysics  University of Tehran
 tags:
-  - Site Characterization
+  - Site effect
 date: '2022'
 
 # Optional external URL for project (replaces project detail page).
@@ -22,8 +22,7 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 ---
-**_Figure:_**_Engineering geological map of Qeshm Island after Gerivani and Haghshenas, (2008)_**_
-Near the northern coast of Qeshm Island in the city of Darghahan, a series of ambient noise vibrations were done by Haghshenas in 2010.<br />
+**_Figure:_**_Engineering geological map of Qeshm Island after Gerivani and Haghshenas, (2008)_**_Near the northern coast of Qeshm Island in the city of Darghahan, a series of ambient noise vibrations were done by Haghshenas in 2010.<br />
 This thesis attempted to extract shear wave velocity structure for soft and shallow deposits of Darghahan city by inverting Rayleigh wave ellipticity in order to learn more about possible site effects.<br />
 Ellipticity is defined as the ratio between the horizontal and the vertical Rayleigh wave particle motions, which is strongly related to the local soil structure. Since the 1970s, this method has been promoted and popularized experimentally (Nogoshi and Igarashi 1971, Yamakana et al., 1994) and numerically (Lachet and Bard 1994, Bard 1999). <br />
 The definition of Ellipticity depends on the noise wavefield and extracting pure properties of Rayleigh waves. <br />So, two methods were introduced to reduce the effects of body and Love waves from the wavefield.<br />
