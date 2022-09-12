@@ -1,5 +1,5 @@
 ---
-title: MSc Thesis By Faeze Amirian (Thesis Advisor: Saeed Soltani)
+title: MSc Thesis By Faeze Amirian -Thesis Advisor: Saeed Soltani-
 summary: Institute of Geophysics , University of Tehran
 tags:
   - Site Characterization
