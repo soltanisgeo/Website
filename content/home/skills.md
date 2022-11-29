@@ -33,8 +33,8 @@ feature:
     icon_pack: fab
     name: Linux
   - description: 
-    icon: QGIS
-    icon_pack: custom
+    icon: qgis
+    icon_pack: fab
     name: QGIS
   - description: 
     icon: GMT
