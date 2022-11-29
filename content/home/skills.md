@@ -25,8 +25,8 @@ feature:
     icon_pack: custom
     name: Efispec3D
   - description: 
-    icon: obspy
-    icon_pack: custom
+    icon: python
+    icon_pack: fab
     name: Python
   - description: 
     icon: linux
