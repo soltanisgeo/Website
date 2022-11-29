@@ -66,11 +66,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am **Saeed Soltani**. Last year Ph.D student at [Universite Grenoble Alpes](https://www.isterre.fr) and International Institute of Earthquake Engineering and Seismology.
-My current research is focused on 3D modeling of sedimentary basins and their impact on seismic risk assessment.
-
-My PhD project is divided into 2 main categories:
-1 - Construct the experimental 3D velocity model of the Tehran sedimentary basin by combining extensive geophysical , geotechnical and geological data.
-2-Using this 3D velocity model for seismic strong ground motion simulations by EFISPEC3D (DeMartin et al., 2013),  a free and open source spectral-element method (SEM) code that solves the three-dimensional wave equations.
+I am **Saeed Soltani**. Last year Ph.D student at [ISTERRE (Institut des science de la terre)](https://www.isterre.fr) and International Institute of Earthquake Engineering and Seismology(https://www.iiees.ac.ir).<br />
+My current research is focused on 3D modeling of sedimentary basins and their impact on seismic risk assessment.<br />
+<br />
+My PhD project is divided into 2 main categories:<br />
+1 - Construct the experimental 3D velocity model of the Tehran sedimentary basin by combining extensive geophysical , geotechnical and geological data.<br />
+2-Using this 3D velocity model for seismic strong ground motion simulations by EFISPEC3D (DeMartin et al., 2013),  a free and open source spectral-element method (SEM) code that solves the three-dimensional wave equations.<br />
  
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
