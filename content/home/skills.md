@@ -27,14 +27,14 @@ feature:
   - description: 
     icon: python
     icon_pack: fab
-    name: Python
+    name: Python(Obspy)
   - description: 
     icon: linux
     icon_pack: fab
     name: Linux
   - description: 
-    icon: qgis
-    icon_pack: fab
+    icon: QGIS
+    icon_pack: custom
     name: QGIS
   - description: 
     icon: GMT
