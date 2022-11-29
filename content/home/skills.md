@@ -25,7 +25,7 @@ feature:
     icon_pack: custom
     name: Efispec3D
   - description:
-    icon: QGIS	
+    icon: QGIS
 	icon_pack: custom
 	name: QGIS
   - description: 
