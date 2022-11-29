@@ -24,6 +24,10 @@ feature:
     icon: Efispec
     icon_pack: custom
     name: Efispec3D
+  - description:
+    icon: QGIS	
+	icon_pack: custom
+	name: QGIS
   - description: 
     icon: python
     icon_pack: fab
@@ -32,10 +36,6 @@ feature:
     icon: linux
     icon_pack: fab
     name: Linux
-  - description: 
-    icon: QGIS
-    icon_pack: custom
-    name: QGIS
   - description: 
     icon: GMT
     icon_pack: custom
