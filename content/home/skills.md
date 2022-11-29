@@ -40,10 +40,6 @@ feature:
     icon: GMT
     icon_pack: custom
     name: GMT
-  - description:  
-    icon: Adobe
-    icon_pack: custom
-    name: Illustrator
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
