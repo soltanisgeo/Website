@@ -24,6 +24,10 @@ feature:
     icon: Efispec
     icon_pack: custom
     name: Efispec3D
+  - description:
+    icon: QGIS
+    icon_pack: custom
+    name: QGIS	
   - description: 
     icon: python
     icon_pack: fab
@@ -37,9 +41,9 @@ feature:
     icon_pack: custom
     name: GMT
   - description:  
-    icon: QGIS
+    icon: Adobe
     icon_pack: custom
-    name: QGIS
+    name: Illustrator
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
