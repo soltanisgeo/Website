@@ -27,10 +27,10 @@ feature:
   - description: 
     icon: obspy
     icon_pack: custom
-    name: Python(Obspy)
+    name: Python
   - description: 
-    icon: ubuntu
-    icon_pack: custom
+    icon: linux
+    icon_pack: fab
     name: Linux
   - description: 
     icon: QGIS
@@ -43,7 +43,7 @@ feature:
   - description:  
     icon: Adobe
     icon_pack: custom
-    name: Adobe Illustrator
+    name: Illustrator
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
