@@ -28,7 +28,7 @@ education:
   courses:
     - course: Ph.D Student in Geophysics 
       institution: Universite Grenoble Alpes/ IIEES
-      year: 2018-
+      year: 2019-2023
     - course: MSc in Geophysics
       institution: IIEES
       year: 2012-2015
