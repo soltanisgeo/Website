@@ -1,11 +1,6 @@
 ---
 title: Engineering Seismology
-subtitle: we are going to talk about different aspects of earthquake engineering.
-this is a test. 
-this is a test. 
-this is a test. 
-this is a test. 
-this is a test. 
+subtitle: we are going to talk about different aspects of earthquake engineering.this is a test. this is a test. this is a test. 
 # Summary for listings and search engines
 summary: Soon we are going to talk about different aspects of earthquake engineering.
 
