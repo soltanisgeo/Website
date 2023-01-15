@@ -6,18 +6,18 @@ title: 'Conference Proceedings'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Cecile Cornou
+  - Bertrand Guillier
   - Ebrahim Haghshenas
-  - Mohsen Fazlavi
-
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
 
-date: '2015-01-01T00:00:00Z'
+date: '2023-02-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2015-01-01T00:00:00Z'
+publishDate: '2023-02-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +26,7 @@ publishDate: '2015-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Simulations of ground motion in the Tehran basin based on newly developed 3D velocity model *EGU2023*, Vienna, Austria. **upcoming event**
+publication: Simulations of ground motion in the Tehran basin based on newly developed 3D velocity model *EGU2023*, Vienna, Austria. **Upcoming event**
 publication_short: 
 
 abstract: 
