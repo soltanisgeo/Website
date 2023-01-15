@@ -26,7 +26,7 @@ publishDate: '2015-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Velocity structure imaging by inversions of Rayleigh wave ellipticity Application to the Arak city, Iran. *7th International Conference on Seismology and Earthquake Engineering (SEE7)*, Tehran, Iran. **Oral presentation – distinguished paper**
+publication: Simulations of ground motion in the Tehran basin based on newly developed 3D velocity model *EGU2023*, Vienna, Austria. **upcoming event**
 publication_short: 
 
 abstract: 
