@@ -66,7 +66,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am **Saeed Soltani**. Last year Ph.D. student at [ISTERRE](https://www.isterre.fr) (Institut des science de la terre) and [IIEES](https://www.iiees.ac.ir) (International Institute of Earthquake Engineering and Seismology).<br />
+I am **Saeed Soltani**. Last year Ph.D. student at [ISTERRE](https://www.isterre.fr) (Institut des science de la terre) and [IIEES](https://www.iiees.ac.ir/en/) (International Institute of Earthquake Engineering and Seismology).<br />
 My current research is focused on 3D modeling of sedimentary basins and their impact on seismic risk assessment.<br />
 My [PhD](https://www.theses.fr/s212521) is divided into 2 main categories:<br />
 **1 -** Construct the experimental 3D velocity model of the Tehran sedimentary basin by combining extensive geophysical , geotechnical and geological data.<br />
