@@ -27,7 +27,7 @@ publishDate: '2019-02-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 3-d modeling of the Tehran alluvial deposits using Active and Passive Measurments: Premilinary results of Tehran experiments *3rd TRIGGER (Trans-Disciplinary Reasearch on Iranian Geology, Geodynamics, Earthquakes and resources) International Conference*, Zanjan, Iran. **Oral presentation**
+publication: 3D modeling of the Tehran alluvial deposits using Active and Passive Measurments. Premilinary results of Tehran experiments *3rd TRIGGER International Conference*, Zanjan, Iran. **Oral presentation**
 publication_short: 
 
 abstract: 
