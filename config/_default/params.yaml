@@ -8,7 +8,7 @@
 appearance:
   theme_day: earth
   theme_night: minimal
-  font: mr robot
+  font: native
   font_size: l
 
 # SEO
