@@ -1,5 +1,5 @@
 ---
-title: 'Conference Proceedings'
+title: 'Journal Paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,18 +7,17 @@ title: 'Conference Proceedings'
 authors:
   - admin
   - Ebrahim Haghshenas
-  - Bertrand Guillier
-  - Cecile Cornou
+  - Gholam Javan Doloei
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
 
-date: '2019-01-01T00:00:00Z'
+date: '2020-01-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-01-01T00:00:00Z'
+publishDate: '2020-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +26,7 @@ publishDate: '2019-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: THE Necessity of 2/3D site effect studies in big cities of Iran. *8th International Conference on Seismology and Earthquake Engineering (SEE8)*, Tehran, Iran. **Oral presentation**
+publication: Evaluation of Site Effect Study Techniques In the Temporary Seismic Network of Lorestan. In *19th Iranian geophysics confernce*, Tehran, Iran.
 publication_short: 
 
 abstract: 
@@ -57,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: ''
+  caption: 'Image credit: [](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
