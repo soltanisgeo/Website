@@ -26,7 +26,7 @@ publishDate: '2016-02-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Shear Wave velocity determination using microtremor and earthquake data (Application to the Arak city) *17th Iranian geophysics conference*, Tehran, Iran
+publication: Shear Wave velocity determination using microtremor and earthquake data (Application to the Arak city) *17th Iranian geophysics conference*, Tehran, Iran. **Oral presentation**
 publication_short: 
 
 abstract: 
