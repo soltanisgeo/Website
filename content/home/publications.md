@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Selected Publications
-subtitle: '(3 Journal paper- 10 conference paper) Check full list at my CV.
+title: Publications
+subtitle: ''
 
 content:
   # Filter on criteria
