@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Selected Publications
-subtitle: '(3 Journal paper- 10 conference paper) Check full list at my {{< staticref "uploads/Resume.pdf" "newtab" >}}CV{{< /staticref >}}'
+subtitle: '(3 Journal paper- 10 conference paper) Check full list at my {{% staticref "uploads/Resume.pdf" "newtab" %>}}CV{{< /staticref >}}'
 
 content:
   # Filter on criteria
