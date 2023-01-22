@@ -28,7 +28,7 @@ url_video: ''
 {{< hl >}}During the years, I participated in many different projects in Iran, mostly to study about local geotechnical condition and soil characterization. Each of these projects was done for a specific reason and necessity{{< /hl >}}
 <br />
 <br />**I was involved in these project in terms of:<br />**
-<br />**Extracting dispersion curves from active methods (MASW)<br />**
+**Extracting dispersion curves from active methods (MASW)<br />**
 **Extracting dispersion curves (Rayliegh and Love) from passive methods (3-component F-K methods)<br />**
 **H/V (process and interpretaion)<br />**
 **F0 microzonation map <br />**
@@ -37,7 +37,6 @@ url_video: ''
 **Joint inversion of Eliipticities, Active and Passive arrays to extract shear wave velocity profiles<br />**
 <br />
 Here is the discription of each projects:
-<br />
 <br />
 **1- Aq-Qala and Gomishan:** This project was defined after the heavy damages related to the flood of 2019 in Golestan province. The flood damage highlighted the importance of all types of natural hazards studies especially the local seismic hazards in the high-seismicity area filled by loess weak soils.<br />
 <br />
