@@ -36,7 +36,7 @@ url_video: ''
 **Extracting Ellipticity curves (one station and multi station methods)<br />**
 **Joint inversion of Eliipticities, Active and Passive arrays to extract shear wave velocity profiles<br />**
 <br />
-Here is the discription of each projects{style="color: gray"}:
+Here is the discription of each projects:
 <br />
 <br />
 **1- Aq-Qala and Gomishan:** This project was defined after the heavy damages related to the flood of 2019 in Golestan province. The flood damage highlighted the importance of all types of natural hazards studies especially the local seismic hazards in the high-seismicity area filled by loess weak soils.<br />
