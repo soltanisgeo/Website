@@ -26,9 +26,9 @@ url_video: ''
 <br />
 <br />
 {{< hl >}}During the years, I participated in many different projects in Iran, mostly to study about local geotechnical condition and soil characterization. Each of these projects was done for a specific reason and necessity{{< /hl >}}
-<br />**I was involved in these project in terms of:<br />**
 <br />
-**Extracting dispersion curves from active methods (MASW)<br />**
+<br />**I was involved in these project in terms of:<br />**
+<br />**Extracting dispersion curves from active methods (MASW)<br />**
 **Extracting dispersion curves (Rayliegh and Love) from passive methods (3-component F-K methods)<br />**
 **H/V (process and interpretaion)<br />**
 **F0 microzonation map <br />**
