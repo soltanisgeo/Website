@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Selected publications
-subtitle: '3 Journal paper - 10 Conference paper' see the full list at my CV.
+subtitle: '(3 Journal paper - 10 Conference paper) see the full list at my CV'
 
 content:
   # Filter on criteria
