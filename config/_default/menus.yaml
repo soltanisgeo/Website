@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Projects (in Progress)
-    url: '#posts'
+    url: '#post'
     weight: 30
   - name: Projects
     url: '#projects'
@@ -16,9 +16,12 @@ main:
   - name: Publications
     url: '#publications'
     weight: 40
+  - name: Posts
+    url: '#posts
+    weigth: 50
   - name: Contact
     url: '#contact'
-    weight: 50
+    weight: 60
   - name: CV
     url: uploads/resume.pdf
-    weight: 60
+    weight: 70
