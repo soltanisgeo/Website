@@ -31,7 +31,7 @@ authors:
   - admin
 
 categories:
-  - Seismology
+  - 
 ---
 
 ## Seismology
