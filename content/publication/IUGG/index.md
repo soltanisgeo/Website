@@ -24,7 +24,7 @@ publishDate: '2023-02-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Site specific seismic Hazard analysis for central Alborz basin. *IUGG2023*. Berlin, Germany. **Upcoming event**
+publication: Site specific seismic Hazard analysis for central Alborz basin. *IUGG2023*. Berlin, Germany. **Poster presentation**
 publication_short: 
 
 abstract: 

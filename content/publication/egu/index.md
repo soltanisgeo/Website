@@ -26,7 +26,7 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Simulations of ground motion in the Tehran basin based on newly developed 3D velocity model. *EGU2023*. Vienna, Austria.
+publication: Simulations of ground motion in the Tehran basin based on newly developed 3D velocity model. *EGU2023*. Vienna, Austria. **Oral presentation**
 publication_short: 
 
 abstract: 
