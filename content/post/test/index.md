@@ -1,8 +1,8 @@
 ---
-title: Engineering Seismology
-subtitle: we are going to talk about different aspects of earthquake engineering.this is a test. this is a test. this is a test. 
+title: RayDecC 
+subtitle: Extract the ellipticity of Rayleigh wave from the coda part of the earthquakes using random decrement technique
 # Summary for listings and search engines
-summary: Soon we are going to talk about different aspects of earthquake engineering.
+summary: 
 
 # Link this post with a project
 projects: []
