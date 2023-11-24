@@ -44,7 +44,7 @@ feature:
     icon: obspy 
     icon_pack: custom
     name: Obspy
-  - description
+  - description:
     icon: ubuntu
     icon_pack: custom
     name: Bash scripting
