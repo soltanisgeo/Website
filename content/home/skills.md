@@ -44,6 +44,10 @@ feature:
     icon: obspy 
     icon_pack: custom
     name: Obspy
+  - description
+    icon: ubuntu
+    icon_pack: custom
+    name: Bash scripting
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
