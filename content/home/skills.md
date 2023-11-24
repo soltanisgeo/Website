@@ -37,21 +37,10 @@ feature:
     icon_pack: custom
     name: Adobe Illustrator
   - description: 
-    icon: |GMT
-    icon_pack: custom
-    name: GMT
-  - description: 
     icon: obspy
     icon_pack: custom
     name: Obspy
-  - description: 
-    icon: Git
-    icon_pack: custom
-    name: Git
-  - description: 
-    icon: Linux
-    icon_pack: custom
-    name: Bash scripting
+
 	
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
