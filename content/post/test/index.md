@@ -1,5 +1,5 @@
 ---
-title: RayDecC 
+title: RayDeQpy 
 subtitle: Extract the ellipticity of Rayleigh wave from the coda part of the earthquakes using random decrement technique
 # Summary for listings and search engines
 summary: 
