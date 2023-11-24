@@ -25,7 +25,7 @@ feature:
     icon_pack: custom
     name: Efispec3D
   - description: 
-    icon: Cubit
+    icon: cubit
     icon_pack: custom
     name: Cubit
   - description:
@@ -37,21 +37,21 @@ feature:
     icon_pack: custom
     name: Adobe Illustrator
   - description: 
-    icon: obspy
+    icon: |GMT
     icon_pack: custom
-    name: Obspy
+    name: GMT
   - description: 
     icon: obspy
     icon_pack: custom
     name: Obspy
   - description: 
-    icon: obspy
+    icon: Git
     icon_pack: custom
-    name: Obspy
+    name: Git
   - description: 
-    icon: obspy
+    icon: Linux
     icon_pack: custom
-    name: Obspy
+    name: Bash scripting
 	
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
