@@ -6,7 +6,7 @@ title: Saeed Soltani
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. student
+role: Ph.D.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -15,20 +15,21 @@ organizations:
   - name: IIEES (International Institute of earthquake engineering and seismology)
     url: http://www.iiees.ac.ir/en/
 # Short bio (displayed in user profile at end of posts)
-bio: Saeed Soltani
+bio: Saeed Soltani (Seismologist) 
 
 # Interests to show in About widget
 interests:
   - 3D geological/geophysical modeling
-  - Seismic arrays
-  - Site effect
   - Numerical simulation
+  - Site effect
+  - Seismic arrays
+  - Data proccessing 
   
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D Student in Geophysics 
-      institution: Universite Grenoble Alpes/ IIEES
+    - course: Ph.D in Geophysics 
+      institution: Universite Grenoble Alpes (ISTERRE)/ IIEES
       year: 2019-2023
     - course: MSc in Geophysics
       institution: IIEES
@@ -67,10 +68,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am **Saeed Soltani**. Last year Ph.D. student at [ISTERRE](https://www.isterre.fr) (Institut des science de la terre) and [IIEES](https://www.iiees.ac.ir/en/) (International Institute of Earthquake Engineering and Seismology).<br />
-My current research is focused on 3D modeling of sedimentary basins and their impact on seismic risk assessment.<br />
-My [PhD](https://www.theses.fr/s212521) is divided into 2 main categories:<br />
-**1 -** Construct the experimental 3D velocity model of the Tehran sedimentary basin by combining extensive geophysical , geotechnical and geological data.<br />
-**2 -** Using this 3D velocity model for seismic strong ground motion simulations by [EFISPEC3D](http://efispec.free.fr/) (DeMartin et al., 2013),  a free and open source spectral-element method code that solves the three-dimensional wave equations.<br />
- 
+I am **Saeed Soltani**. A Ph.D. graduate from Université Grenoble Alpes, [ISTERRE](https://www.isterre.fr) (Institut des science de la terre) and International Institute of Earthquake Engineering and Seismology,[IIEES](https://www.iiees.ac.ir/en/) with expertise in 3D modeling of sedimentary basins and its implications for seismic risk assessment.<br />
+I have extensive experience in constructing experimental 3D velocity models by integrating various passive and active geophysical methods, as well as physics-based seismic ground motion simulations using the spectral-element method. <br />
+<br />
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resume{{< /staticref >}}.
