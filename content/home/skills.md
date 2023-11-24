@@ -40,7 +40,7 @@ feature:
     icon: GMT
     icon_pack: custom
     name: GMT
-  - description
+  - description:
     icon: obspy 
     icon_pack: custom
     name: Obspy
