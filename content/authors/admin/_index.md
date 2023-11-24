@@ -68,7 +68,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am **Saeed Soltani**. A Ph.D. graduate from Université Grenoble Alpes, ([ISTERRE])(https://www.isterre.fr) and International Institute of Earthquake Engineering and Seismology, ([IIEES])(https://www.iiees.ac.ir/en/) with expertise in 3D modeling of sedimentary basins and its implications for seismic risk assessment.<br />
+I am **Saeed Soltani**. A Ph.D. graduate from Université Grenoble Alpes and International Institute of Earthquake Engineering and Seismology with expertise in 3D modeling of sedimentary basins and its implications for seismic risk assessment.<br />
 I have extensive experience in constructing experimental 3D velocity models by integrating various passive and active geophysical methods, as well as physics-based seismic ground motion simulations using the spectral-element method. <br />
-<br />
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resume{{< /staticref >}} here.
