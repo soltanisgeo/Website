@@ -48,6 +48,10 @@ feature:
     icon: ubuntu
     icon_pack: custom
     name: Bash scripting
+  - description:
+    icon: Git
+    icon_pack: custom
+    name: Git
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
