@@ -35,11 +35,24 @@ feature:
   - description: 
     icon: Adobe
     icon_pack: custom
-    name: Illustrator
+    name: Adobe Illustrator
   - description: 
     icon: obspy
     icon_pack: custom
     name: Obspy
+  - description: 
+    icon: obspy
+    icon_pack: custom
+    name: Obspy
+  - description: 
+    icon: obspy
+    icon_pack: custom
+    name: Obspy
+  - description: 
+    icon: obspy
+    icon_pack: custom
+    name: Obspy
+	
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
