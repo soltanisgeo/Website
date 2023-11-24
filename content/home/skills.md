@@ -26,7 +26,7 @@ feature:
     name: Efispec3D
   - description: 
     icon: Cubit
-    icon_pack: fab
+    icon_pack: custom
     name: Cubit
   - description:
     icon: QGIS
@@ -34,10 +34,10 @@ feature:
     name: QGIS
   - description: 
     icon: Adobe
-    icon_pack: fab
+    icon_pack: custom
     name: Illustrator
   - description: 
-    icon: Python
+    icon: obspy
     icon_pack: custom
     name: Obspy
 # Uncomment to use emoji icons.
