@@ -37,10 +37,13 @@ feature:
     icon_pack: custom
     name: Adobe Illustrator
   - description: 
-    icon: obspy
+    icon: GMT
+    icon_pack: custom
+    name: GMT
+  - description
+    icon: obspy 
     icon_pack: custom
     name: Obspy
-
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
