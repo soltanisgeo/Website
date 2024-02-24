@@ -6,7 +6,7 @@ title: Saeed Soltani
 superuser: true
 
 # Role/position/tagline
-role: Ph.D.
+role: Manager of European Tsunami Risk Service (ETRiS)
 
 # Organizations/Affiliations to show in About widget
 organizations:
