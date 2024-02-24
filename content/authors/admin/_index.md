@@ -22,6 +22,7 @@ interests:
   - Tsunami Risk analysis
   - Site Effect
   - High Performance Computing  
+  
 # Education to show in About widget
 education:
   courses:
