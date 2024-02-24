@@ -18,15 +18,15 @@ bio: Saeed Soltani (Seismologist/Risk Analyist)
 # Interests to show in About widget
 interests:
   - Numerical Simulation
-  - Agent Based Modleling
+  - Agent Based Modeling
   - Tsunami Risk analysis
-  - Site effect
-  
+  - Site Effect
+  - High Performance Computing  
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D in Geophysics 
-      institution: Universite Grenoble Alpes (ISTERRE)/ IIEES
+      institution: Universite Grenoble Alpes - ISTERRE/ IIEES
       year: 2019-2023
     - course: MSc in Geophysics
       institution: IIEES
