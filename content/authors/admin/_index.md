@@ -10,20 +10,17 @@ role: Ph.D.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ISTERRE (Institut des science de la terre)
-    url: https://www.isterre.fr/
-  - name: IIEES (International Institute of earthquake engineering and seismology)
-    url: http://www.iiees.ac.ir/en/
+  - name: University of Naples Federico II 
+    url: https://www.unina.it/
 # Short bio (displayed in user profile at end of posts)
-bio: Saeed Soltani (Seismologist) 
+bio: Saeed Soltani (Seismologist/Risk Analyist) 
 
 # Interests to show in About widget
 interests:
-  - 3D geological/geophysical modeling
-  - Numerical simulation
+  - Numerical Simulation
+  - Agent Based Modleling
+  - Tsunami Risk analysis
   - Site effect
-  - Seismic arrays
-  - Data proccessing 
   
 # Education to show in About widget
 education:
@@ -68,6 +65,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am **Saeed Soltani**, the current manager of European tsunami risk (ETRiS), part of the tsunami Thematic Core Service of the European Plate Observing System (EPOS). I hold a Ph.D. from Université Grenoble Alpes and the International Institute of Earthquake Engineering and Seismology, specializing in 3D modeling of sedimentary basins and physics-based seismic ground motion simulations with implications for seismic risk assessment.<br />
+I am **Saeed Soltani**, the current manager of European tsunami risk [(ETRiS)](www.eurotsunamirisk.org), part of the tsunami Thematic Core Service of the European Plate Observing System (EPOS). I hold a Ph.D. from Université Grenoble Alpes and the International Institute of Earthquake Engineering and Seismology, specializing in 3D modeling of sedimentary basins and physics-based seismic ground motion simulations with implications for seismic risk assessment.<br />
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resume{{< /staticref >}} here.
