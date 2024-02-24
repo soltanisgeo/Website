@@ -65,7 +65,9 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<p style="text-align: justify;font-size: 20px" class="has-poppins-font-family">
-I am **Saeed Soltani**, the current manager of [European tsunami risk-ETRiS](https://www.eurotsunamirisk.org), part of the tsunami Thematic Core Service of the European Plate Observing System (EPOS). I hold a Ph.D. from Université Grenoble Alpes and the International Institute of Earthquake Engineering and Seismology, specializing in 3D modeling of sedimentary basins and physics-based seismic ground motion simulations with implications for seismic risk assessment.<br />
+<p style="text-align: justify; font-size: 20px" class="has-poppins-font-family">
+    I am <strong>Saeed Soltani</strong>, the current manager of <a href="https://www.eurotsunamirisk.org">European tsunami risk-ETRiS</a>, part of the tsunami Thematic Core Service of the European Plate Observing System (EPOS). I hold a Ph.D. from Université Grenoble Alpes and the International Institute of Earthquake Engineering and Seismology, specializing in 3D modeling of sedimentary basins and physics-based seismic ground motion simulations with implications for seismic risk assessment.
+</p>
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resume{{< /staticref >}} here.
