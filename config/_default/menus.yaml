@@ -15,10 +15,10 @@ main:
     weight: 20
   - name: Blog posts
     url: '#posts'
-    weight: 40
+    weight: 50
   - name: Publications
     url: '#publications'
     weigth: 60
   - name: Contact
     url: '#contact'
-    weight: 80
+    weight: 90
