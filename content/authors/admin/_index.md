@@ -11,9 +11,9 @@ role: Manager of European Tsunami Risk Service (ETRiS)
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Naples Federico II 
-    url: https://www.unina.it/
+    url: https://www.eurotsunamirisk.org/
 # Short bio (displayed in user profile at end of posts)
-bio: Saeed Soltani (Seismologist/Risk Analyst) 
+bio:  (Seismologist/Risk Analyst) 
 
 # Interests to show in About widget
 interests:
