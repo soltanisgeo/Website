@@ -13,7 +13,7 @@ organizations:
   - name: University of Naples Federico II 
     url: https://www.unina.it/
 # Short bio (displayed in user profile at end of posts)
-bio: Saeed Soltani (Seismologist/Risk Analyist) 
+bio: Saeed Soltani (Seismologist/Risk Analyst) 
 
 # Interests to show in About widget
 interests:
@@ -67,7 +67,7 @@ email: ''
 highlight_name: true
 ---
 <p style="text-align: justify; font-size: 20px" class="has-poppins-font-family">
-    I am <strong>Saeed Soltani</strong>, the current manager of <a href="https://www.eurotsunamirisk.org">European tsunami risk (ETRiS)</a>, part of the tsunami Thematic Core Service of the <a href="https://www.ics-c.epos-eu.org/">European Plate Observing System (EPOS)</a>. I hold a Ph.D. from Université Grenoble Alpes and the International Institute of Earthquake Engineering and Seismology, specializing in 3D modeling of sedimentary basins and physics-based seismic ground motion simulations with implications for seismic risk assessment.
+    I am <strong>Saeed Soltani</strong>, the current manager of <a href="https://www.eurotsunamirisk.org">European tsunami risk (ETRiS)</a>, part of the tsunami Thematic Core Service of the <a href="https://www.ics-c.epos-eu.org/">European Plate Observing System (EPOS)</a>. I hold a Ph.D. from Université Grenoble Alpes and the International Institute of Earthquake Engineering and Seismology, specializing in 3D modeling of sedimentary basins and physics-based seismic ground motion simulations with implications for seismic risk assessment.My current research is about agent-based modeling for tsunami risk analysis.
 </p>
 
 
