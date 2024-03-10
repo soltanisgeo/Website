@@ -25,7 +25,7 @@ publishDate: '2019-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: European Tsunami Risk Service (ETRiS): providing data, data products, software, and services for tsunami risk assessment  *9th International Conference on Seismology and Earthquake Engineering (SEE9)*, Tehran, Iran. **Oral presentation**
+publication: European Tsunami Risk Service (ETRiS): providing data, data products, software, and services for tsunami risk assessment *9th International Conference on Seismology and Earthquake Engineering (SEE9)*, Tehran, Iran. **Oral presentation**
 publication_short: 
 
 abstract: 
