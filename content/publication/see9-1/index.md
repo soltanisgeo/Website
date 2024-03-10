@@ -25,7 +25,7 @@ publishDate: '2019-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Application of the Random Decrement Method for Estimating Shear Wave Velocity in Deep Basins Through Coda Waves *9th International Conference on Seismology and Earthquake Engineering (SEE9)*, Tehran, Iran. **Oral presentation**
+publication: Application of the Random Decrement Method for Estimating Shear Wave Velocity in Deep Basins Through Coda Waves *9th International Conference on Seismology and Earthquake Engineering (SEE9)*, Tehran, Iran.
 publication_short: 
 
 abstract: 
