@@ -6,13 +6,13 @@ title: 'Conference Proceedings'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Iman Kahbasi
   - Ebrahim Haghshenas
-
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
 
-date: '2019-01-01T00:00:00Z'
+date: '2024-02-02T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ publishDate: '2019-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: The Necessity of 2/3D site effect studies in big cities of Iran. *8th International Conference on Seismology and Earthquake Engineering (SEE8)*, Tehran, Iran. **Oral presentation**
+publication: Application of the Random Decrement Method for Estimating Shear Wave Velocity in Deep Basins Through Coda Waves *9th International Conference on Seismology and Earthquake Engineering (SEE9)*, Tehran, Iran. **Oral presentation**
 publication_short: 
 
 abstract: 
