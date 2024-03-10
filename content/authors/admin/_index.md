@@ -19,9 +19,9 @@ bio: Saeed Soltani (Seismologist/Risk Analyist)
 interests:
   - Numerical Simulation
   - Agent Based Modeling
-  - Tsunami Risk analysis
-  - Site Effect
-  - High Performance Computing  
+  - High Performance Computing
+  - Tsunami Risk Analysis
+  - Site Effect  
   
 # Education to show in About widget
 education:
