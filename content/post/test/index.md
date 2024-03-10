@@ -1,8 +1,8 @@
 ---
 title: RayDeQpy 
-subtitle: Extract the ellipticity of Rayleigh wave from the coda part of the earthquakes using random decrement technique
+subtitle: An open source Python Package to extract the ellipticity of Rayleigh wave from the coda part of the earthquakes using random decrement technique
 # Summary for listings and search engines
-summary: 
+summary: An open source Python Package to extract the ellipticity of Rayleigh wave from the coda part of the earthquakes using random decrement technique
 
 # Link this post with a project
 projects: []
