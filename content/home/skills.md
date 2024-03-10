@@ -17,41 +17,41 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 
+    icon: Git
+    icon_pack: custom
+    name: Git
+  - description: 
+    icon: ubuntu
+    icon_pack: custom
+    name: Bash
+  - description: 
+    icon: gama
+    icon_pack: custom
+    name: GAMA
+  - description:
     icon: Geopsy
     icon_pack: custom
     name: Geopsy
   - description: 
-    icon: Efispec
+    icon:efispec
     icon_pack: custom
-    name: Efispec3D
+    name: EfiSpec3D
   - description: 
     icon: cubit
     icon_pack: custom
     name: Cubit
   - description:
-    icon: QGIS
+    icon: QGIS 
     icon_pack: custom
     name: QGIS
-  - description: 
-    icon: Adobe
+  - description:
+    icon: ParaView
     icon_pack: custom
-    name: Adobe Illustrator
-  - description: 
+    name: ParaView
+  - description:
     icon: GMT
     icon_pack: custom
     name: GMT
-  - description:
-    icon: obspy 
-    icon_pack: custom
-    name: Obspy
-  - description:
-    icon: ubuntu
-    icon_pack: custom
-    name: Bash scripting
-  - description:
-    icon: Git
-    icon_pack: custom
-    name: Git
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
