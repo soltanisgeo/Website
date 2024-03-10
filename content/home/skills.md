@@ -33,7 +33,7 @@ feature:
     icon_pack: custom
     name: Geopsy
   - description: 
-    icon:Efispec
+    icon: Efispec
     icon_pack: custom
     name: EfiSpec3D
   - description: 
