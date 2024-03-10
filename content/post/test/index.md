@@ -34,3 +34,4 @@ categories:
   - 
 ---
 
+An open source Python Package to extract the ellipticity of Rayleigh wave from the coda part of the earthquakes using random decrement technique
