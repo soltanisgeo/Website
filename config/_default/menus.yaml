@@ -17,8 +17,8 @@ main:
     url: '#posts'
     weight: 50
   - name: Publications
-    url: '#publication'
-    weigth: 60
+    url: '#publications'
+    weigth: 40
   - name: Contact
     url: '#contact'
     weight: 90
