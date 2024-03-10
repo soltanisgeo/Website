@@ -13,12 +13,12 @@ main:
   - name: Previous Projects
     url: '#projects'
     weight: 20
-  - name: Publications
-    url: '#publications'
-    weight: 50
   - name: Blog posts
     url: '#posts'
-    weigth: 40
+    weight: 40
+  - name: Publications
+    url: '#publications'
+    weigth: 50
   - name: Contact
     url: '#contact'
     weight: 60
