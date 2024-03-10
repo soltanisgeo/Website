@@ -9,10 +9,10 @@ main:
     weight: 10
   - name: Current Projects
     url: '#post'
-    weight: 30
+    weight: 20
   - name: Previous Projects
     url: '#projects'
-    weight: 20
+    weight: 30
   - name: Blog posts
     url: '#posts'
     weight: 50
