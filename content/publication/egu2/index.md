@@ -27,7 +27,7 @@ publishDate: '2019-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Scenario-based Probabilistic Tsunami Risk Analysis for Coquimbo Bay. *EGU2023*. Vienna, Austria. 
+publication: Scenario-based Probabilistic Tsunami Risk Analysis for Coquimbo Bay. *EGU2024*. Vienna, Austria. 
 publication_short: 
 
 abstract: 
