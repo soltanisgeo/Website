@@ -27,13 +27,12 @@ url_video: ''
 <strong><em>Figure: Fundamental frequency map of Arak, Iran.</em></strong>
 </p>
 <p style="text-align: justify; font-size: 18px" class="has-poppins-font-family">
-<strong>MSc Thesis:</strong> Following the earthquake swarms that occurred in a short period on January 15, 2012, between the northwest of Arak and the southeast of Ashtian, the city of Arak, initially considered a quiet seismic zone, garnered increased attention. Studies performed within the framework of seismic microzonation revealed that the H/V spectral ratio calculated in some areas showed clear amplification at lower frequencies.
-</p>
+<strong>Abstract:</strong> Following the earthquake swarms that occurred in a short period on January 15, 2012, between the northwest of Arak and the southeast of Ashtian, the city of Arak, initially considered a quiet seismic zone, garnered increased attention. Studies performed within the framework of seismic microzonation revealed that the H/V spectral ratio calculated in some areas showed clear amplification at lower frequencies.
 <p style="text-align: justify; font-size: 18px" class="has-poppins-font-family">
 To further investigate the site effect and the potential existence of a thick alluvial deposit, we attempted to extract the velocity structure through inversions of Rayleigh wave ellipticity.
 </p>
 <p style="text-align: justify; font-size: 18px" class="has-poppins-font-family">
-Ellipticity is defined as the ratio between the horizontal and vertical motions of Rayleigh wave particles, which is strongly related to the local soil structure. Since the 1970s, this method has been promoted and popularized both experimentally (Nogoshi and Igarashi 1971, Yamakan et al., 1994) and numerically (Lachet and Bard 1994, Bard 1999), showing its potential for investigating deep sedimentary layers.
+Ellipticity is defined as the ratio between the horizontal and vertical motions of Rayleigh wave particles, which is strongly related to the local soil structure. Since the 1970s, this method has been promoted and popularized both experimentally (Nogoshi and Igarashi 1971, Yamakana et al., 1994) and numerically (Lachet and Bard 1994, Bard 1999), showing its potential for investigating deep sedimentary layers.
 </p>
 <p style="text-align: justify; font-size: 18px" class="has-poppins-font-family">
 Ellipticity depends on the noise wavefield; therefore, two methods were introduced to reduce the effects of body and Love waves from the wavefield.
