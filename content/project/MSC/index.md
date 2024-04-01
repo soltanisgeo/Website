@@ -24,7 +24,7 @@ url_video: ''
 
 ---
 <p style="text-align: justify; font-size: 18px" class="has-poppins-font-family">
-<strong><em>Figure:</em></strong> <em>(Upper Left): Fundamental frequency map of Arak, Iran.</em>
+<strong><em>Figure: Fundamental frequency map of Arak, Iran.</em></strong>
 </p>
 <p style="text-align: justify; font-size: 18px" class="has-poppins-font-family">
 <strong>MSc Thesis:</strong> Following the earthquake swarms that occurred in a short period on January 15, 2012, between the northwest of Arak and the southeast of Ashtian, the city of Arak, initially considered a quiet seismic zone, garnered increased attention. Studies performed within the framework of seismic microzonation revealed that the H/V spectral ratio calculated in some areas showed clear amplification at lower frequencies.
