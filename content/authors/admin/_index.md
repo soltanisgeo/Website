@@ -67,7 +67,7 @@ email: ''
 highlight_name: true
 ---
 <p style="text-align: justify; font-size: 20px" class="has-poppins-font-family">
-    I am <strong>Saeed Soltani</strong>, the current manager of <a href="https://www.eurotsunamirisk.org">European tsunami risk service (ETRiS)</a>, part of the tsunami Thematic Core Service of the <a href="https://www.ics-c.epos-eu.org/">European Plate Observing System (EPOS)</a>. I hold a Ph.D. from Université Grenoble Alpes and the International Institute of Earthquake Engineering and Seismology, specializing in 3D modeling of sedimentary basins. My research focused on physics-based seismic ground motion simulations, with significant implications for seismic risk assessment.I am currently conducting research on agent-based modeling for the analysis of tsunami risk and evacuation strategies.
+    I am <strong>Saeed Soltani</strong>, the current manager of <a href="https://www.eurotsunamirisk.org">European tsunami risk service (ETRiS)</a>, part of the tsunami Thematic Core Service of the <a href="https://www.ics-c.epos-eu.org/">European Plate Observing System (EPOS)</a>. I hold a Ph.D. from Université Grenoble Alpes and the International Institute of Earthquake Engineering and Seismology, specializing in 3D modeling of sedimentary basins. My research focused on physics-based seismic ground motion simulations, with significant implications for seismic risk assessment. I am currently conducting research on agent-based modeling for the analysis of tsunami risk and evacuation strategies.
 </p>
 
 
