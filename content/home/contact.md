@@ -26,12 +26,12 @@ content:
 
   # Contact details (edit or remove options as required)
   email: saeed.soltani@univ-grenoble-alpes.fr
-  phone: (+33)0629764989
+  phone: 
   address:
-    street: OSUG-C (Maison des Géosciences)1381 rue de la piscine
-    city: Gieres
+    street: Bâtiment IMAG - 150 place du Torrent
+    city: Saint Martin d'Hères
     region:
-    postcode: '38610'
+    postcode: '38401'
     country: France
     country_code: FR
   coordinates:
