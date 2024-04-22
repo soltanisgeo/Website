@@ -1,7 +1,7 @@
 ---
 title: PhD Thesis
 summary: Simulations of ground motion in the Tehran basin based on newly developed 3D velocity model
-
+https://theses.fr/2023GRALU032
 tags:
   - Numerical Simulation
 date: '2022'
