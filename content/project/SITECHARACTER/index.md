@@ -23,7 +23,7 @@ url_slides: ''
 url_video: ''
 ---
 <p style="text-align: justify; font-size: 18px" class="has-poppins-font-family">
-<strong><em>Figure:</em></strong> <em> Map of Iran with the locations of different projects.</em>
+<strong><em>Figure:</em></strong> <em> Locations of different projects</em>
 </p>
 <p style="text-align: justify; font-size: 18px" class="has-poppins-font-family">
 During the years, I participated in many different projects in Iran, mostly to study local geotechnical conditions and soil characterization. Each of these projects was undertaken for a specific reason and necessity.
