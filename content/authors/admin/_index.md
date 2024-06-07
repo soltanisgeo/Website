@@ -72,3 +72,4 @@ highlight_name: true
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resume{{< /staticref >}} here.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://theses.hal.science/tel-04507703" "newtab" >}}thesis{{< /staticref >}} here.
