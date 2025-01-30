@@ -4,7 +4,7 @@ date: 2025-01-30
 type: post
 ---
 
-## Available HTML Visualizations
+## Data Products (Fragility Curves)
 
 Click on any item below to load the HTML content.
 
