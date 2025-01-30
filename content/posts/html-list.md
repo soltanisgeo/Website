@@ -1,5 +1,5 @@
 ---
-title: "Interactive HTML Visualizations"
+title: "Data Products (Fragility Curves)"
 date: 2025-01-30
 type: post
 ---
@@ -12,11 +12,11 @@ Click on any item below to load the HTML content.
 - [Chilean Tsunami 2010](#chilean-tsunami)
 
 <div id="brick-masonry" style="display:none;">
-    <iframe src="/html/Brick_masonry.html" width="100%" height="600px"></iframe>
+    <iframe src="/htmlfragility/Brick masonry residential_South Pacific Tsunami 2009_M1.html" width="100%" height="600px"></iframe>
 </div>
 
 <div id="chilean-tsunami" style="display:none;">
-    <iframe src="/html/Chilean_Tsunami.html" width="100%" height="600px"></iframe>
+    <iframe src="/htmlfragility/Brick masonry residential_South Pacific Tsunami 2009_M2.html" width="100%" height="600px"></iframe>
 </div>
 
 <script>
