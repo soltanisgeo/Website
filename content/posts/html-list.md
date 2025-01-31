@@ -1,78 +1,87 @@
----
-title: "Data Products (Fragility Curves)"
-date: 2025-01-30
-type: post
----
-
-## Data Products (Fragility Curves)
-
-Click on any item below to load them.
-
-<ul>
-    <li><a href="#brick-masonry" onclick="showContent('brick-masonry')">Brick Masonry Residential (South Pacific Tsunami 2009)</a></li>
-    <li><a href="#chilean-tsunami" onclick="showContent('chilean-tsunami')">Chilean Tsunami 2010</a></li>
-    <li><a href="#japan-rc" onclick="showContent('japan-rc')">Japan 2011 RC</a></li>
-    <li><a href="#japan-steel" onclick="showContent('japan-steel')">Japan 2011 Steel</a></li>
-    <li><a href="#japan-wood" onclick="showContent('japan-wood')">Japan 2011 Wood</a></li>
-    <li><a href="#sri-lanka" onclick="showContent('sri-lanka')">Sri Lanka 2004</a></li>
-    <li><a href="#sulawesi" onclick="showContent('sulawesi')">Sulawesi Tsunami 2018</a></li>
-</ul>
-
-<!-- HTML Blocks for Each File -->
-<div id="brick-masonry" style="display:none;">
-    <iframe src="/htmlfragility/Brick masonry residential_South Pacific Tsunami 2009_M1.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Brick masonry residential_South Pacific Tsunami 2009_M2.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Brick masonry residential_South Pacific Tsunami 2009_M3.html" width="100%" height="800px"></iframe>
-</div>
-
-<div id="chilean-tsunami" style="display:none;">
-    <iframe src="/htmlfragility/Chilean Tsunami 2010_M1.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Chilean Tsunami 2010_M2.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Chilean Tsunami 2010_M3.html" width="100%" height="800px"></iframe>
-</div>
-
-<div id="japan-rc" style="display:none;">
-    <iframe src="/htmlfragility/Japan 2011 RC, 1 storey_M1.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Japan 2011 RC, 1 storey_M2.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Japan 2011 RC, 1 storey_M3.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Japan 2011 RC, 2 storey_M1.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Japan 2011 RC, 2 storey_M2.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Japan 2011 RC, 2 storey_M3.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Japan 2011 RC, 3 storey and more_M1.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Japan 2011 RC, 3 storey and more_M2.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Japan 2011 RC, 3 storey and more_M3.html" width="100%" height="800px"></iframe>
-</div>
-
-<div id="japan-steel" style="display:none;">
-    <iframe src="/htmlfragility/Japan 2011 Steel_M1.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Japan 2011 Steel_M2.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Japan 2011 Steel_M3.html" width="100%" height="800px"></iframe>
-</div>
-
-<div id="japan-wood" style="display:none;">
-    <iframe src="/htmlfragility/Japan 2011 Wood_M1.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Japan 2011 Wood_M2.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Japan 2011 Wood_M3.html" width="100%" height="800px"></iframe>
-</div>
-
-<div id="sri-lanka" style="display:none;">
-    <iframe src="/htmlfragility/SriLanka2004_Ambalangoda_M1.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/SriLanka2004_Ambalangoda_M2.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/SriLanka2004_Ambalangoda_M3.html" width="100%" height="800px"></iframe>
-</div>
-
-<div id="sulawesi" style="display:none;">
-    <iframe src="/htmlfragility/Sulawesi Tsunami 2018_M1.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Sulawesi Tsunami 2018_M2.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Sulawesi Tsunami 2018_M3.html" width="100%" height="800px"></iframe>
-</div>
+<div id="content-box"></div>
 
 <script>
-function showContent(id) {
-    const sections = ['brick-masonry', 'chilean-tsunami', 'japan-rc', 'japan-steel', 'japan-wood', 'sri-lanka', 'sulawesi'];
-    sections.forEach(section => {
-        document.getElementById(section).style.display = 'none';
-    });
-    document.getElementById(id).style.display = 'block';
+const fileMapping = {
+  "Brick masonry residential_South Pacific Tsunami 2009": ["M1", "M2", "M3"],
+  "Chilean Tsunami 2010": ["M1", "M2", "M3"],
+  "Japan 2011 RC, 1 storey": ["M1", "M2", "M3"],
+  "Japan 2011 RC, 2 storey": ["M1", "M2", "M3"],
+  "Japan 2011 RC, 3 storey and more": ["M1", "M2", "M3"],
+  "Japan 2011 RC": ["M1", "M2", "M3"], // Added
+  "Japan 2011 Steel": ["M1", "M2", "M3"],
+  "Japan 2011 Wood": ["M1", "M2", "M3"], // Added
+  "Japan 2011_Wood, 1 storey": ["M1", "M2", "M3"], // Added
+  "Japan 2011_Wood, 2 storey": ["M1", "M2", "M3"], // Added
+  "Japan 2011_Wood, 3 storey and more": ["M1", "M2", "M3"], // Added
+  "Japan_CargoHandling_B": ["M1", "M2", "M3"], // Added
+  "Japan_CargoHandling_I": ["M1", "M2", "M3"], // Added
+  "Japan_Chemical_B": ["M1", "M2", "M3"], // Added
+  "Japan_Chemical_I": ["M1", "M2", "M3"], // Added
+  "Japan_ConstructionMaterials_B": ["M1", "M2", "M3"], // Added
+  "Japan_ConstructionMaterials_I": ["M1", "M2", "M3"], // Added
+  "Japan_EnergyRelated_B": ["M1", "M2", "M3"], // Added
+  "Japan_EnergyRelated_I": ["M1", "M2", "M3"], // Added
+  "Japan_Food_B": ["M1", "M2", "M3"], // Added
+  "Japan_Food_I": ["M1", "M2", "M3"], // Added
+  "Japan_Manufacturing_B": ["M1", "M2", "M3"], // Added
+  "Japan_Manufacturing_I": ["M1", "M2", "M3"], // Added
+  "Japan_Petrochemical_B": ["M1", "M2", "M3"], // Added
+  "Japan_Petrochemical_I": ["M1", "M2", "M3"], // Added
+  "Japan_WarehouseDistribution_B": ["M1", "M2", "M3"], // Added
+  "Japan_WarehouseDistribution_I": ["M1", "M2", "M3"], // Added
+  "Masonry, unknown, 1 storey_Sulawesi Tsunami 2018": ["M1", "M2", "M3"],
+  "Non engineered light timber_Sulawesi Tsunami 2018": ["M1", "M2", "M3"],
+  "Non engineered masonry, un reinforced with clay brick, 1 storey_Sulawesi Tsunami 2018": ["M1", "M2", "M3"],
+  "Non engineered masonry, un reinforced with clay brick, 2 storey_Sulawesi Tsunami 2018": ["M1", "M2", "M3"],
+  "Reinforced Concrete, 1 storey, residential_South Pacific Tsunami 2009": ["M1", "M2", "M3"],
+  "SriLanka2004_Ambalangoda": ["M1", "M2", "M3"],
+  "SriLanka2004_Balapitiya": ["M1", "M2", "M3"],
+  "SriLanka2004_Bentota": ["M1", "M2", "M3"],
+  "SriLanka2004_Beruwala": ["M1", "M2", "M3"],
+  "SriLanka2004_Colombo": ["M1", "M2", "M3"],
+  "SriLanka2004_Dehiwala": ["M1", "M2", "M3"],
+  "SriLanka2004_Devinuwara": ["M1", "M2", "M3"],
+  "SriLanka2004_Dickwella": ["M1", "M2", "M3"],
+  "SriLanka2004_Galle4Gravets": ["M1", "M2", "M3"],
+  "SriLanka2004_Habaraduwa": ["M1", "M2", "M3"],
+  "SriLanka2004_Hikkaduwa": ["M1", "M2", "M3"],
+  "SriLanka2004_Kalutara": ["M1", "M2", "M3"],
+  "SriLanka2004_Matara4Gravets": ["M1", "M2", "M3"],
+  "SriLanka2004_Moratuwa": ["M1", "M2", "M3"],
+  "SriLanka2004_Negombo": ["M1", "M2", "M3"],
+  "SriLanka2004_Panadura": ["M1", "M2", "M3"],
+  "SriLanka2004_Rathmalana": ["M1", "M2", "M3"],
+  "SriLanka2004_Thimbirigasyaya": ["M1", "M2", "M3"],
+  "SriLanka2004_TotalArea": ["M1", "M2", "M3"],
+  "SriLanka2004_Wattala": ["M1", "M2", "M3"],
+  "SriLanka2004_Weligama": ["M1", "M2", "M3"],
+  "Timber_South Pacific Tsunami 2009": ["M1", "M2", "M3"],
+};
+
+function showContent(baseName, mValue) {
+  const fileName = `/htmlfragility/${baseName}_${mValue}.html`;
+  document.getElementById("content-box").innerHTML = `<iframe src="${fileName}" width="100%" height="800px"></iframe>`;
 }
+
+// Example usage:
+// showContent("Brick masonry residential_South Pacific Tsunami 2009", "M2");
+
+// To populate a dropdown or list:
+let optionsHtml = "";
+for (const baseName in fileMapping) {
+  optionsHtml += `<optgroup label="${baseName}">`;
+  for (const mValue of fileMapping[baseName]) {
+    optionsHtml += `<option value="${baseName},${mValue}">${baseName} - ${mValue}</option>`;
+  }
+  optionsHtml += `</optgroup>`;
+}
+
+const selectElement = document.createElement('select');
+selectElement.innerHTML = optionsHtml;
+selectElement.addEventListener('change', function() {
+    const [baseName, mValue] = this.value.split(',');
+    showContent(baseName, mValue);
+});
+
+document.body.insertBefore(selectElement, document.getElementById("content-box")); // Insert before the content box
 </script>
