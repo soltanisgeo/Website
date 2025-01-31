@@ -22,7 +22,7 @@ Click on any item below to load them.
 	<li><a href="#japan-Petrochemical" onclick="showContent('japan-petrochemical')">Japan 2011 Petrochemical</a></li>
 	<li><a href="#japan-WarehouseDistribution" onclick="showContent('japan-warehouse-distribution')">Japan 2011 WarehouseDistribution</a></li>
     <li><a href="#SouthPacificTsunami-Brick_masonry_residential" onclick="showContent('SouthPacificTsunami-Brick_masonry_residential')">South Pacific Tsunami 2009,Brick masonry residential</a></li>
-    <li><a href="#SouthPacificTsunami-RC1Storey" onclick="showContent('SouthPacificTsunami-ReinforcedConcrete_1Storey_Residential')">South Pacific Tsunami 2009,RC 1 steorey</a></li>
+    <li><a href="#SouthPacificTsunami-RC1Storey" onclick="showContent('SouthPacificTsunami-ReinforcedConcrete_1Storey_Residential')">South Pacific Tsunami 2009,RC 1 storey</a></li>
 	<li><a href="#SouthPacificTsunami-Timber" onclick="showContent('SouthPacificTsunami-Timber')">South Pacific Tsunami 2009,Timber</a></li>
     <li><a href="#sri-lanka" onclick="showContent('sri-lanka')">Sri Lanka 2004</a></li>
     <li><a href="#sulawesi-Masonry_unknown_1storey" onclick="showContent('sulawesi-Masonry_unknown_1storey')">Sulawesi Tsunami 2018 Masonry unknown1 storey</a></li>
@@ -148,9 +148,9 @@ Click on any item below to load them.
 </div>
 
 <div id="SouthPacificTsunami-Brick_masonry_residential" style="display:none;">
-    <iframe src="/htmlfragility/South_Pacific_Tsunami_2009_BrickMasonryResidential_M1.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/South_Pacific_Tsunami_2009_BrickMasonryResidential_M2.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/South_Pacific_Tsunami_2009_BrickMasonryResidential_M3.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/South_Pacific_Tsunami_2009,BrickMasonryResidential_M1.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/South_Pacific_Tsunami_2009,BrickMasonryResidential_M2.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/South_Pacific_Tsunami_2009,BrickMasonryResidential_M3.html" width="100%" height="800px"></iframe>
 </div>
 
 <div id="SouthPacificTsunami-ReinforcedConcrete_1Storey_Residential" style="display:none;">
@@ -160,9 +160,9 @@ Click on any item below to load them.
 </div>
 
 <div id="SouthPacificTsunami-Timber" style="display:none;">
-    <iframe src="/htmlfragility/South_Pacific_Tsunami_2009_Timber_M1.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/South_Pacific_Tsunami_2009_Timber_M2.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/South_Pacific_Tsunami_2009_Timber_M3.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/South_Pacific_Tsunami_2009,Timber_M1.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/South_Pacific_Tsunami_2009,Timber_M2.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/South_Pacific_Tsunami_2009,Timber_M3.html" width="100%" height="800px"></iframe>
 </div>
 
 <div id="sri-lanka" style="display:none;">
@@ -232,27 +232,27 @@ Click on any item below to load them.
 </div>
 
 <div id="sulawesi-Masonry_unknown_1storey" style="display:none;">
-    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018_MasonryUnknown_1Storey_M1.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018_MasonryUnknown_1Storey_M2.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018_MasonryUnknown_1Storey_M3.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018,Masonry_unknown,1storey_M1.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018,Masonry_unknown,1Storey_M2.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018,Masonry_unknown,1Storey_M3.html" width="100%" height="800px"></iframe>
 </div>
 
 <div id="sulawesi-NonEngineeredlighttimber" style="display:none;">
-    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018_NonEngineered_LightTimber_M1.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018_NonEngineered_LightTimber_M2.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018_NonEngineered_LightTimber_M3.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018,Non_engineered_light_timber_M1.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018,Non_engineered_light_timber_M2.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018,Non_engineered_light_timber_M3.html" width="100%" height="800px"></iframe>
 </div>
 
 <div id="sulawesi-Nonengineeredmasonry1storey" style="display:none;">
-    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018_NonEngineered_Masonry_UnreinforcedClayBrick_1Storey_M1.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018_NonEngineered_Masonry_UnreinforcedClayBrick_1Storey_M2.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018_NonEngineered_Masonry_UnreinforcedClayBrick_1Storey_M3.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018,Non_engineered_masonry,unreinforced_with_clay_brick,1storey_M1.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018,Non_engineered_masonry,unreinforced_with_clay_brick,1storey_M2.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018,Non_engineered_masonry,unreinforced_with_clay_brick,1storey_M3.html" width="100%" height="800px"></iframe>
 </div>
 
 <div id="sulawesi-Nonengineeredmasonry2storey" style="display:none;">
-    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018_NonEngineered_Masonry_UnreinforcedClayBrick_2Storey_M1.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018_NonEngineered_Masonry_UnreinforcedClayBrick_2Storey_M2.html" width="100%" height="800px"></iframe>
-    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018_NonEngineered_Masonry_UnreinforcedClayBrick_2Storey_M3.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018,Non_engineered_masonry,unreinforced_with_clay_brick,2storey_M1.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018,Non_engineered_masonry,unreinforced_with_clay_brick,2storey_M2.html" width="100%" height="800px"></iframe>
+    <iframe src="/htmlfragility/Sulawesi_Tsunami_2018,Non_engineered_masonry,unreinforced_with_clay_brick,2storey_M3.html" width="100%" height="800px"></iframe>
 </div>
 
 
