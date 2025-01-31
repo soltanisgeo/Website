@@ -165,7 +165,7 @@ Click on any item below to load them.
     <iframe src="/htmlfragility/South_Pacific_Tsunami_2009_Timber_M3.html" width="100%" height="800px"></iframe>
 </div>
 
-<div id="SriLanka2004" style="display:none;">
+<div id="sri-lanka" style="display:none;">
     <iframe src="/htmlfragility/SriLanka2004_Ambalangoda_M1.html" width="100%" height="800px"></iframe>
     <iframe src="/htmlfragility/SriLanka2004_Ambalangoda_M2.html" width="100%" height="800px"></iframe>
     <iframe src="/htmlfragility/SriLanka2004_Ambalangoda_M3.html" width="100%" height="800px"></iframe>
