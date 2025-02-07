@@ -423,12 +423,9 @@
       
       <!-- Sri Lanka 2004 -->
       <div id="sri-lanka" class="section">
-        <!-- (There are 63 iframes here – grouped by location; see your original code) -->
         <div class="iframe-container">
           <iframe src="/htmlfragility/SriLanka2004_Ambalangoda_M1.html"></iframe>
         </div>
-        <!-- ... Additional iframes for Balapitiya, Bentota, Beruwala, Colombo, etc. ... -->
-        <!-- For brevity, all 63 iframes remain as in your original file -->
       </div>
       
       <!-- Sulawesi Tsunami 2018 Masonry Unknown 1 Storey -->
