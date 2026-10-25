@@ -16,3 +16,71 @@ body[dir=rtl] .hero-art{transform:scaleX(-1)}body[dir=rtl] .hero::after{backgrou
 @media(max-width:950px){.hero-art{left:25%;right:-35%;opacity:.65}.hero::after{background:linear-gradient(90deg,#041724 0%,rgba(4,23,36,.68) 60%,rgba(4,23,36,.14) 100%)}.ocean-index-grid{grid-template-columns:1fr;gap:22px}}
 @media(max-width:650px){.hero{min-height:710px}.hero-inner{padding-top:115px}.hero-art{left:0;right:-85%;opacity:.37}.hero h1{font-size:clamp(2.75rem,12vw,4rem)}.hero-graphic-label{display:none}.ocean-pipeline{gap:5px}.ocean-pipeline>div{min-width:0}.ocean-pipeline b{font-size:.76rem}.ocean-pipeline i{font-size:16px}.ocean-index{padding:27px 0}}
 @media(prefers-reduced-motion:reduce){.crest,.wave-core{animation:none}.crest{stroke-dashoffset:0}}
+
+
+/* V3 — conceptual bathymetry. Replaces the previous sinusoidal hero chart. */
+.hero{background:radial-gradient(ellipse at 76% 48%,#0E4854 0%,#062B3A 42%,#041724 76%)}
+.hero-art{left:40%;right:-5%;opacity:1;overflow:hidden}
+.ocean-graphic.depth-graphic{width:100%;height:100%;object-fit:cover;filter:none;mix-blend-mode:screen}
+.bathymetry-grid{background:radial-gradient(ellipse at 58% 47%,rgba(52,167,171,.16),transparent 64%)}
+.hero-graphic-label{right:7%;top:10%;font-size:.61rem;letter-spacing:.25em;opacity:.72}
+.hero::after{background:linear-gradient(90deg,#041724 0%,rgba(4,23,36,.95) 27%,rgba(4,23,36,.45) 51%,rgba(4,23,36,.04) 83%)}
+.depth-line{vector-effect:non-scaling-stroke}
+.bathymetric-contours{transform-origin:60% 45%;animation:contour-breathe 13s ease-in-out infinite alternate}
+.tidal-flow{animation:flow-map 30s linear infinite}
+.sonar-points{animation:sonar-glow 3.8s ease-in-out infinite alternate}
+@keyframes contour-breathe{from{transform:scale(1)}to{transform:scale(1.045)}}
+@keyframes flow-map{to{stroke-dashoffset:-420}}
+@keyframes sonar-glow{to{opacity:.42}}
+body[dir=rtl] .hero-art{transform:scaleX(-1)}
+body[dir=rtl] .hero::after{background:linear-gradient(270deg,#041724 0%,rgba(4,23,36,.95) 27%,rgba(4,23,36,.45) 51%,rgba(4,23,36,.04) 83%)}
+@media(max-width:950px){.hero-art{left:30%;right:-42%;opacity:.75}.hero::after{background:linear-gradient(90deg,#041724 0%,rgba(4,23,36,.82) 56%,rgba(4,23,36,.19) 100%)}}
+@media(max-width:650px){.hero-art{left:2%;right:-90%;opacity:.42}.hero-graphic-label{display:none}.hero::after{background:linear-gradient(90deg,#041724 0%,rgba(4,23,36,.84) 59%,rgba(4,23,36,.27) 100%)}}
+@media(prefers-reduced-motion:reduce){.bathymetric-contours,.tidal-flow,.sonar-points{animation:none}}
+
+
+/* V4 — people-centred, schematic tsunami evacuation map. */
+.hero{background:radial-gradient(ellipse at 77% 46%,#0A4652 0%,#072C3C 43%,#041724 80%)}
+.hero-art.evacuation-art{left:40%;right:-5%;opacity:1;transform:none;overflow:hidden}
+.evacuation-grid{position:absolute;inset:0;background:radial-gradient(circle at 67% 46%,rgba(54,187,176,.10),transparent 61%)}
+.ocean-graphic.evac-graphic{width:100%;height:100%;inset:0;filter:none;mix-blend-mode:normal}
+.hero-art.evacuation-art .hero-graphic-label{top:9%;right:7%;color:#A4E4DD;opacity:.63}
+.hero::after{background:linear-gradient(90deg,#041724 0%,rgba(4,23,36,.94) 22%,rgba(4,23,36,.38) 52%,rgba(4,23,36,.04) 85%)}
+.urban-roads{stroke:#97D5D2;stroke-width:10;stroke-opacity:.085}
+.evac-routes .route{fill:none;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+.evac-routes .primary{stroke:#9AF3DF;stroke-width:3.2;stroke-opacity:.92;stroke-dasharray:2 8;animation:evac-route-flow 26s linear infinite}
+.evac-routes .secondary{stroke:#69CCCD;stroke-width:2.1;stroke-opacity:.6;stroke-dasharray:3 10;animation:evac-route-flow 35s linear infinite}
+.evac-routes .tertiary{stroke:#7FC3BD;stroke-width:1.8;stroke-opacity:.5;stroke-dasharray:2 11;animation:evac-route-flow 40s linear infinite}
+.evac-agents .evac-agent{filter:drop-shadow(0 0 4px rgba(140,250,220,.8));opacity:.95}
+.origin-rings{animation:origin-breathe 4.4s ease-in-out infinite alternate}
+.safe-pulse{transform-box:fill-box;transform-origin:center;animation:safe-assembly-pulse 4s ease-in-out infinite alternate}
+.map-labels{pointer-events:none}
+.map-primary-text{font-size:12px;font-weight:700;letter-spacing:1.5px}
+.map-secondary-text{font-size:9px;font-weight:400;letter-spacing:1.05px;opacity:.73}
+.map-folio-text{font-size:10px;font-weight:600;letter-spacing:1.6px;opacity:.8}
+.map-disclaimer{font-size:9px;letter-spacing:.75px;opacity:.55}
+.fa-labels{display:none}
+html[lang="fa"] .en-labels{display:none}
+html[lang="fa"] .fa-labels{display:inline}
+html[lang="fa"] .map-primary-text{letter-spacing:0;font-size:14px}
+html[lang="fa"] .map-secondary-text{letter-spacing:0;font-size:11px}
+html[lang="fa"] .map-folio-text{letter-spacing:0;font-size:13px}
+html[lang="fa"] .map-disclaimer{letter-spacing:0;font-size:11px}
+@keyframes evac-route-flow{to{stroke-dashoffset:-280}}
+@keyframes safe-assembly-pulse{to{opacity:.27;transform:scale(1.16)}}
+@keyframes origin-breathe{to{opacity:.43}}
+body[dir="rtl"] .hero-art.evacuation-art{left:-12%;right:44%;transform:none}
+body[dir="rtl"] .hero::after{background:linear-gradient(270deg,#041724 0%,rgba(4,23,36,.94) 22%,rgba(4,23,36,.38) 52%,rgba(4,23,36,.04) 85%)}
+@media(max-width:950px){
+  .hero-art.evacuation-art{left:30%;right:-38%;opacity:.72}
+  body[dir="rtl"] .hero-art.evacuation-art{left:-38%;right:30%}
+}
+@media(max-width:650px){
+  .hero-art.evacuation-art{left:4%;right:-96%;opacity:.35}
+  body[dir="rtl"] .hero-art.evacuation-art{left:-96%;right:4%}
+  .hero-art.evacuation-art .hero-graphic-label{display:none}
+}
+@media(prefers-reduced-motion:reduce){
+  .evac-routes .route,.origin-rings,.safe-pulse{animation:none}
+  .evac-agents .evac-agent{display:none}
+}
