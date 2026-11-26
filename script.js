@@ -11,7 +11,7 @@ const copy = {
     "brand": "SAEED SOLTANI",
     "graphicLabel": "EVACUATION / ABM",
     "heroTag": "TSUNAMI RISK · EVACUATION MODELLING · OPEN SCIENCE",
-    "heroTitle": "Saeed Soltani, PhD",
+    "heroTitle": "Saeed Soltani",
     "heroRole": "Tsunami risk researcher",
     "heroManager": "Manager of the European Tsunami Risk Service (ETRiS)",
     "heroLead": "I study how tsunami hazards, population exposure and human behaviour influence the probability of safe evacuation.",
@@ -243,7 +243,7 @@ const copy = {
   }
 };
 const labels = {
- en: { title: 'Saeed Soltani, PhD | Tsunami Risk Research & Research Services', description: 'Saeed Soltani, PhD — tsunami risk researcher, agent-based evacuation modelling and manager of the European Tsunami Risk Service (ETRiS).', home: 'Home', nav: 'Primary navigation', menu: 'Toggle menu', concept: 'Current research framework' },
+ en: { title: 'Saeed Soltani, Tsunami Risk Research & Research Services', description: 'Saeed Soltani, tsunami risk researcher, agent-based evacuation modelling and manager of the European Tsunami Risk Service (ETRiS).', home: 'Home', nav: 'Primary navigation', menu: 'Toggle menu', concept: 'Current research framework' },
  fa: { title: 'سعید سلطانی | پژوهش ریسک سونامی و خدمات علمی', description: 'سعید سلطانی، پژوهشگر ریسک سونامی، مدل‌سازی مبتنی بر عامل تخلیه و مدیر سرویس اروپایی ریسک سونامی (ETRiS).', home: 'صفحه اصلی', nav: 'منوی اصلی', menu: 'باز و بسته کردن منو', concept: 'چارچوب پژوهشی کنونی' }
 };
 const translatable = [...document.querySelectorAll('[data-i18n]')];
