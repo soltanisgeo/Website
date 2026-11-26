@@ -84,3 +84,63 @@ body[dir="rtl"] .hero::after{background:linear-gradient(270deg,#041724 0%,rgba(4
   .evac-routes .route,.origin-rings,.safe-pulse{animation:none}
   .evac-agents .evac-agent{display:none}
 }
+
+/* Content expansion: retain existing theme and evacuation SVG. */
+.hero h1{font-size:clamp(3.1rem,5.8vw,5.8rem);margin:25px 0 12px;max-width:690px;line-height:1.08}
+.hero-role{font:500 clamp(1.55rem,3vw,2.7rem)/1.25 'Manrope',sans-serif;color:#a8daca;margin:0 0 23px;letter-spacing:-.035em}
+body[dir=rtl] .hero-role{font-family:'Vazirmatn',sans-serif;letter-spacing:0}
+.hero-lead{max-width:610px}.hero-meta{max-width:610px;line-height:1.8;margin-top:36px}
+.hero-inner{padding-top:115px;padding-bottom:105px}.hero-bottom{gap:20px;line-height:1.5}.hero-bottom span:last-child{text-align:end}
+.nav{gap:19px}.nav a{white-space:nowrap}.brand{letter-spacing:.06em}
+.inline-links{display:flex;flex-wrap:wrap;gap:12px 18px;align-items:flex-start}.inline-links .text-link{margin-top:0}
+.group-heading{margin:40px 0 14px;font-size:1.2rem;color:var(--ink)}.citation{overflow-wrap:anywhere;text-align:start}.original-title{display:none}html[lang=fa] .original-title{display:inline}.pub-item a{align-self:start;text-decoration:none}.pub-item h3{overflow-wrap:anywhere}
+.service-stats{margin-top:28px;padding:28px 30px;background:#dce9e2}.service-stats h3{font-size:1.15rem;margin-bottom:20px}.service-stats .pub-note{margin:20px 0 0;color:#46615c}.service-stats .stats-grid{gap:20px}
+.risk-visual{background:radial-gradient(ellipse at 35% 70%,#235d64,#092e42)}.risk-visual .contour-map{opacity:.5}
+.contact-links strong{overflow-wrap:anywhere}.tool-names{text-align:start}.ocean-pipeline div{min-width:0}.ocean-pipeline b{overflow-wrap:anywhere}
+@media(max-width:1050px){.site-header{gap:14px}.nav{gap:11px}.brand{gap:9px}.nav a{font-size:.72rem}}
+@media(max-width:1000px){.site-header{height:66px}.menu-toggle{display:block}.nav{display:none;position:absolute;top:66px;left:0;right:0;background:#f7f7f2;padding:18px 24px;box-shadow:0 12px 18px #0012;flex-direction:column;align-items:stretch;gap:0}.nav.open{display:flex}.nav a{padding:12px 2px;font-size:.92rem}.hero-inner{padding-top:90px}}
+@media(max-width:700px){.hero-inner{padding-top:80px;padding-bottom:100px}.hero h1{font-size:clamp(2.6rem,10vw,4.4rem)}.hero-meta{margin-top:24px}.hero-cta{margin-top:24px}.service-stats{padding:22px 18px}.hero-bottom{letter-spacing:.07em}.contact-links a{gap:12px;flex-wrap:wrap}.eyebrow{line-height:1.6}.pub-item a{grid-column:2}}
+@media(max-width:390px){.brand{font-size:.58rem}.header-actions{gap:8px}.site-header{padding-inline:16px}.hero-cta .btn{gap:12px}.service-stats .stats-grid{gap:15px}.service-stats .stats-grid>div{padding-inline-start:12px}}
+
+/* Hero V2.1 — separate current service role from research description. */
+.hero .hero-role{margin-bottom:9px}
+.hero-manager{font-size:clamp(.9rem,1.4vw,1.12rem);font-weight:500;line-height:1.6;color:#b7c9cb;max-width:610px;margin:0 0 25px;overflow-wrap:anywhere}
+
+/* V2.2 — arrows follow the selected reading direction. */
+.btn > span[aria-hidden="true"], .text-link > span[aria-hidden="true"], .lang-switch > span[aria-hidden="true"], .ocean-pipeline > i, a > span[aria-hidden="true"] { direction:ltr; unicode-bidi:isolate; }
+
+/* V2.5 — authentic photographs in the About section, with no visible captions. */
+#about .section-aside{justify-content:flex-start;gap:24px;min-width:0}
+.about-photos{display:grid;gap:16px;max-width:310px;width:100%}
+.about-photos img{display:block;width:100%;height:auto;border-radius:8px}
+@media(max-width:700px){
+  #about .section-aside{display:flex;gap:18px}
+  .about-photos{max-width:100%;grid-template-columns:minmax(0, 2fr) minmax(0, 3fr);align-items:center;gap:12px}
+}
+
+.research-image-visual{background:#f6f7f4;display:flex;align-items:center;justify-content:center}
+.research-image-visual img{display:block;width:100%;height:100%;object-fit:contain;background:#f6f7f4}
+.research-image-visual .visual-caption{background:rgba(7,28,41,.72);padding:7px 10px;border-radius:3px;letter-spacing:.12em}
+
+
+.research-grid-uniform{grid-template-columns:repeat(2,minmax(0,1fr))}
+.research-card-uniform{display:flex;flex-direction:column;height:100%}
+.research-card-uniform .card-content{display:flex;flex-direction:column;flex:1}
+.research-image-visual{background:#eef2ef;padding:16px;border-bottom:1px solid #dee5df;min-height:auto;aspect-ratio:4/3;display:flex;align-items:center;justify-content:center}
+.research-image-visual img{display:block;width:100%;height:100%;object-fit:contain;background:#fff;border-radius:6px}
+.research-image-visual .visual-caption{background:rgba(7,28,41,.72);padding:7px 10px;border-radius:3px;letter-spacing:.12em}
+.gallery-section .section-heading>p{max-width:360px}
+.gallery-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:18px;grid-auto-rows:240px}
+.gallery-item{margin:0;overflow:hidden;border-radius:10px;background:#e8ece8;border:1px solid #d7e0d9}
+.gallery-item img{display:block;width:100%;height:100%;object-fit:cover}
+.gallery-tall{grid-row:span 2}
+.gallery-wide{grid-column:span 1}
+@media(max-width:700px){.research-grid-uniform{grid-template-columns:1fr}.gallery-grid{grid-template-columns:1fr;grid-auto-rows:240px}.gallery-tall,.gallery-wide{grid-row:auto;grid-column:auto}}
+
+/* Gallery photos can be added later; captions appear on hover or keyboard focus. */
+.gallery-grid:empty{display:none}
+.gallery-item{position:relative}
+.gallery-caption{position:absolute;inset:auto 0 0;background:linear-gradient(transparent,rgba(7,28,41,.92));color:#fff;padding:28px 16px 14px;font-size:.85rem;opacity:0;transition:opacity .2s}
+.gallery-item:hover .gallery-caption,.gallery-item:focus .gallery-caption,.gallery-item:focus-within .gallery-caption{opacity:1}
+@media(hover:none){.gallery-caption{opacity:1}}
+.contact-pending{display:flex;align-items:center;border-bottom:1px solid rgba(191,233,218,.25);padding:21px 0}

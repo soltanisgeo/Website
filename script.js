@@ -1,39 +1,287 @@
 const copy = {
- en:{oceanPanelTitle:'Tsunami evacuation is not a single decision. It is a dynamic human process shaped by continuous interactions between people, their environment, and society.',oceanPanelDesc:'Hazard · exposure · risk — three layers shaping the probability of safe evacuation.',stage1:'Hazard',stage2:'Behaviour',stage3:'Safer evacuation',skip:'Skip to content',brand:'Saeed Soltani / Risk analyst',navAbout:'About',navResearch:'Research',navPublications:'Publications',navJourney:'Journey',navContact:'Contact',heroTag:'CURRENT RESEARCH: TSUNAMI Risk · AGENT-BASED MODELLING',heroTitle:'From natural hazard<br>to <em>human decisions.</em>',heroLead:'Exploring how tsunami hazards, human behaviour and probabilistic simulations come together to shape safer coastal evacuation.',explore:'Explore my research',connect:'Get in touch',heroRole:'Postdoctoral Researcher · University of Naples Federico II',heroFocus:'European Tsunami Risk Service (ETRiS) · EPOS · Geo-INQUIRE',scroll:'SCROLL TO EXPLORE',aboutLabel:'ABOUT',aboutKicker:'BETWEEN EARTH SCIENCE AND HUMAN BEHAVIOUR',aboutTitle:'Better risk models begin with understanding people.',aboutP1:"I'm a postdoctoral researcher working on probabilistic tsunami risk and agent-based evacuation modelling. My research connects physical hazard modelling with the decisions people make in the critical minutes before a disaster.",aboutP2:'My background spans seismic site effects, 3D geological-geophysical models and physics-based ground-motion simulation. Today, I manage the European Tsunami Risk Service (ETRiS) within Geo-INQUIRE and coordinate the EPOS TCS Tsunami User Feedback Group.',pill1:'Tsunami risk',pill2:'Agent-based modelling',pill3:'Seismic hazard',pill4:'Open science',stat1:'Postdoctoral research in Italy',stat2:'Peer-reviewed journal articles listed',stat3:'Countries in recent research appointments',stat4:'EPOS GO! Early Career Researcher Prize',researchLabel:'RESEARCH',researchTitle:'Research at the edge of risk.',researchIntro:'From complex coastlines to the movement of people, I build models that connect scientific insight with real-world decisions.',topic1:'EVACUATION',research1Title:'When every minute matters',research1Desc:'Probabilistic tsunami evacuation modelling that combines hazard scenarios, agent-based simulation and uncertainty to estimate the probability of reaching safety.',viewContribution:'View research contribution',topic2:'SEISMIC SCIENCE',research2Title:'Looking beneath the surface',research2Desc:"Integrating geological and geophysical evidence into a 3D shear-wave velocity model of Tehran's sedimentary basin to better understand site effects.",readPaper:'Read the paper',topic3:'RESEARCH INFRASTRUCTURE',research3Title:'Science built to be shared',research3Desc:'Curating accessible tsunami-risk data products and workflows through ETRiS and EPOS to support reproducible and interoperable risk research.',exploreData:'Explore open data',pubLabel:'SELECTED OUTPUTS',pubTitle:'Ideas in print & practice.',pubIntro:'Selected peer-reviewed papers, conference contributions and open-science outputs.',pubNote:'Status and selection are based on the supplied 2026 CV draft; please verify updates before public release.',journeyLabel:'JOURNEY',journeyTitle:'Research across borders.',journeyIntro:'An evolving path across academic institutions, research cultures and disciplines.',awardTitle:'Early Career Researcher Prize',awardDesc:'Recognizing research connecting probabilistic tsunami hazard to agent-based safe-evacuation assessment.',skillsLabel:'TOOLS & TEACHING',skillsTitle:'Methods, tools and knowledge exchange.',skillsDesc:'Hands-on research using computational, geospatial and seismic toolchains — alongside workshops and mentorship.',methodsTitle:'Research methods',methodsList:'Agent-based modelling · Monte Carlo analysis · probabilistic risk assessment · 3D velocity modelling · ground-motion simulation',toolTitle:'Software & infrastructure',teachingTitle:'Teaching & mentorship',teachingDesc:"Specialist training in ambient-vibration methods, seismic site characterization and computational tsunami risk; master's thesis advising.",contactLabel:'CONTACT',contactTitle:"Let's work toward a safer future.",contactDesc:"Interested in research collaboration, data services, modelling workflows or a scientific conversation? I'd be glad to connect.",email:'Email',emailAction:'Add your address ↗',profileAction:'Add profile URL ↗',footerNote:'Built for curiosity, openness and impact.',backTop:'Back to top ↑'},
- fa:{oceanPanelTitle:'تخلیه در پی سونامی، یک تصمیم واحد نیست؛ بلکه فرآیندی انسانی و پویاست که از تعاملات مداوم میان افراد، محیط پیرامون آن‌ها و جامعه شکل می‌گیرد.',oceanPanelDesc:'مخاطره، مواجهه و آسیب پذیزی؛ سه لایه اثرگذار بر احتمال تخلیه ایمن.',stage1:'مخاطره',stage2:'رفتار انسان',stage3:'تخلیه ایمن‌تر',skip:'رفتن به محتوای اصلی',brand:'سعید سلطانی / محقق ریسک',navAbout:'درباره من',navResearch:'پژوهش‌ها',navPublications:'مقالات',navJourney:'سوابق',navContact:'ارتباط',heroTag:'پژوهش‌ فعلی:  مدل‌سازی مبتنی بر عامل ریسک سونامی · ',heroTitle:'از مخاطرات طبیعی<br>تا <em>تصمیم‌های انسان.</em>',heroLead:'بررسی پیوند میان مخاطرات سونامی، رفتار انسان و شبیه‌سازی‌های احتمالاتی برای کمک به تخلیه ایمن‌تر جوامع ساحلی.',explore:'مشاهده پژوهش‌ها',connect:'ارتباط با من',heroRole:'',heroFocus:'ETRiS · EPOS · Geo-INQUIRE',scroll:'برای ادامه پیمایش کنید',aboutLabel:'درباره من',aboutKicker:'در پیوند علوم زمین و رفتار انسان',aboutTitle:'مدل‌سازی بهتر ریسک از شناخت انسان آغاز می‌شود.',aboutP1:'پژوهشگر پسادکتری در زمینه تحلیل احتمالاتی ریسک سونامی و مدل‌سازی عامل‌مبنای تخلیه هستم. در پژوهش‌هایم مدل‌سازی مخاطرات فیزیکی را با تصمیم‌هایی پیوند می‌دهم که مردم در دقایق حساس پیش از وقوع فاجعه می‌گیرند.',aboutP2:'پیشینه پژوهشی من شامل اثرات ساختگاه لرزه‌ای، مدل‌های سه‌بعدی زمین‌شناسی و ژئوفیزیکی، و شبیه‌سازی مبتنی بر فیزیک حرکت زمین است. در حال حاضر مدیریت سرویس اروپایی ریسک سونامی (ETRiS) را در پروژه Geo-INQUIRE و هماهنگی گروه بازخورد کاربران سونامی در EPOS بر عهده دارم.',pill1:'ریسک سونامی',pill2:'مدل‌سازی عامل‌مبنا',pill3:'مخاطرات لرزه‌ای',pill4:'علم باز',stat1:'آغاز پژوهش پسادکتری در ایتالیا',stat2:'مقاله داوری‌شده فهرست‌شده',stat3:'کشور در سوابق پژوهشی اخیر',stat4:'جایزه پژوهشگر جوان EPOS GO!',researchLabel:'پژوهش‌ها',researchTitle:'پژوهش در مرزهای ریسک.',researchIntro:'از سواحل پیچیده تا حرکت جمعیت، مدل‌هایی می‌سازم که دانش علمی را به تصمیم‌گیری در جهان واقعی پیوند می‌دهند.',topic1:'تخلیه اضطراری',research1Title:'وقتی هر دقیقه اهمیت دارد',research1Desc:'مدل‌سازی احتمالاتی تخلیه سونامی با ترکیب سناریوهای مخاطره، شبیه‌سازی عامل‌مبنا و تحلیل عدم‌قطعیت برای برآورد احتمال رسیدن به مکان امن.',viewContribution:'مشاهده پژوهش',topic2:'علوم لرزه‌ای',research2Title:'نگاهی به زیر سطح زمین',research2Desc:'تلفیق داده‌های زمین‌شناسی و ژئوفیزیکی در مدل سه‌بعدی سرعت موج برشی حوضه رسوبی تهران برای درک بهتر اثرات ساختگاه.',readPaper:'مشاهده مقاله',topic3:'زیرساخت پژوهشی',research3Title:'علمی که برای اشتراک‌گذاری ساخته شده',research3Desc:'گردآوری و نگهداری داده‌ها و محصولات ریسک سونامی در ETRiS و EPOS برای حمایت از پژوهش بازتولیدپذیر و تبادل‌پذیر.',exploreData:'مشاهده داده‌های باز',pubLabel:'خروجی‌های منتخب',pubTitle:'ایده‌ها در مقاله و عمل.',pubIntro:'گزیده‌ای از مقالات علمی، مشارکت‌های کنفرانسی و خروجی‌های علم باز.',pubNote:'وضعیت آثار و این گزینش براساس پیش‌نویس رزومه ۲۰۲۶ است؛ پیش از انتشار عمومی به‌روزرسانی‌ها را بررسی کنید.',journeyLabel:'مسیر حرفه‌ای',journeyTitle:'پژوهش فراتر از مرزها.',journeyIntro:'مسیری در حال رشد میان دانشگاه‌ها، فرهنگ‌های پژوهشی و رشته‌های علمی گوناگون.',awardTitle:'جایزه پژوهشگر جوان',awardDesc:'برای پژوهش در پیوند دادن مخاطره احتمالاتی سونامی به سنجش تخلیه ایمن با شبیه‌سازی عامل‌مبنا.',skillsLabel:'ابزارها و آموزش',skillsTitle:'روش‌ها، ابزارها و تبادل دانش.',skillsDesc:'پژوهش عملی با ابزارهای محاسباتی، مکانی و لرزه‌شناسی، همراه با کارگاه‌های آموزشی و راهنمایی پژوهشگران.',methodsTitle:'روش‌های پژوهشی',methodsList:'مدل‌سازی عامل‌مبنا · تحلیل مونت‌کارلو · ارزیابی احتمالاتی ریسک · مدل‌سازی سه‌بعدی سرعت · شبیه‌سازی حرکت زمین',toolTitle:'نرم‌افزار و زیرساخت',teachingTitle:'آموزش و راهنمایی',teachingDesc:'تدریس تخصصی روش‌های ارتعاشات محیطی، شناسایی ساختگاه لرزه‌ای و ریسک محاسباتی سونامی؛ مشاوره پایان‌نامه کارشناسی ارشد.',contactLabel:'ارتباط',contactTitle:'برای آینده‌ای ایمن‌تر همکاری کنیم.',contactDesc:'برای همکاری پژوهشی، خدمات داده، گردش‌کارهای مدل‌سازی یا گفت‌وگوی علمی خوشحال می‌شوم در ارتباط باشیم.',email:'ایمیل',emailAction:'آدرس خود را وارد کنید ↗',profileAction:'لینک پروفایل را وارد کنید ↗',footerNote:'ساخته‌شده با رویکرد کنجکاوی، علم باز و اثرگذاری.',backTop:'بازگشت به بالا ↑'}
+  "en": {
+    "navabout": "About",
+    "navresearch": "Research",
+    "navprojects": "Projects",
+    "navpublications": "Outputs",
+    "navteaching": "Teaching",
+    "navnews": "News",
+    "navcontact": "Contact",
+    "skip": "Skip to content",
+    "brand": "SAEED SOLTANI",
+    "graphicLabel": "EVACUATION / ABM",
+    "heroTag": "TSUNAMI RISK · EVACUATION MODELLING · OPEN SCIENCE",
+    "heroTitle": "Saeed Soltani, PhD",
+    "heroRole": "Tsunami risk researcher",
+    "heroManager": "Manager of the European Tsunami Risk Service (ETRiS)",
+    "heroLead": "I study how tsunami hazards, population exposure and human behaviour influence the probability of safe evacuation.",
+    "explore": "Research activities",
+    "connect": "Projects & activities",
+    "conceptLabel": "CURRENT RESEARCH FRAMEWORK",
+    "oceanPanelTitle": "From tsunami scenarios to evacuation outcomes",
+    "oceanPanelDesc": "Probabilistic Tsunami Hazard Analysis (PTHA), population exposure and Agent-Based Modelling (ABM) are combined to assess evacuation outcomes under uncertainty.",
+    "stage1": "Hazard & exposure",
+    "stage2": "Human behaviour",
+    "stage3": "Safe evacuation probability",
+    "stage3small": "UNCERTAINTY",
+    "aboutLabel": "ABOUT",
+    "aboutTitle": "Research and scientific service management",
+    "aboutP1": "I am an early-career researcher with a PhD in Earth and Environmental Sciences from Université Grenoble Alpes, France, in collaboration with the International Institute of Earthquake Engineering and Seismology (IIEES), Iran. My background includes seismic hazard, site effects and physics-based ground-motion simulation.",
+    "aboutP2": "From January 2024 to September 2026, I was a postdoctoral researcher at the University of Naples Federico II within the Horizon Europe Geo-INQUIRE project (Geosphere INfrastructures for QUestions into Integrated REsearch).",
+    "aboutP3": "I am also interested in scientific data curation, reproducible computational workflows and specialist training within the European Plate Observing System (EPOS).",
+    "pill1": "Tsunami risk",
+    "pill2": "Agent-based modelling",
+    "pill3": "Seismic hazard",
+    "pill4": "Open science",
+    "visual0": "CATANIA, ITALY",
+    "visual1": "TEHRAN BASIN",
+    "visual2": "ETRiS",
+    "r1link": "EGU 2026",
+    "r1link2": "EGU 2025",
+    "r1Title": "Probabilistic tsunami evacuation modelling",
+    "r1Desc": "My research in Catania, Italy, combines tsunami inundation scenarios, population exposure, human behaviour and agent-based modelling (ABM) to estimate the probability of safe evacuation.",
+    "r2link": "EGU 2024",
+    "coquimbo": "TSUNAMI RISK",
+    "r2Title": "Probabilistic tsunami risk assessment",
+    "r2Desc": "Collaborative research on scenario-based tsunami risk integrates hazard, exposure and building vulnerability to estimate economic losses and explore uncertainty.",
+    "r3link": "Journal article",
+    "r3thesis": "PhD thesis",
+    "r3Title": "Seismic hazard and site effects",
+    "r3Desc": "My doctoral research integrated geological and geophysical data into a 3D shear-wave velocity model of the Tehran sedimentary basin to assess site effects, simulate ground motion using physics-based methods and investigate their implications for seismic risk assessment.",
+    "r4link": "Open dataset",
+    "r4Title": "Open science and research infrastructures",
+    "r4Desc": "I contribute to tsunami-risk data curation, metadata, reproducible Jupyter workflows and integration of scientific resources through ETRiS and EPOS.",
+    "researchLabel": "Research",
+    "researchTitle": "Research activities",
+    "etrsite": "Service website",
+    "etrnews": "Service news",
+    "etrTitle": "European Tsunami Risk Service (ETRiS)",
+    "etrDesc": "Manager since January 2024. ETRiS provides open access to data, models, software and tools for probabilistic tsunami risk assessment. I lead monthly service meetings, coordinate activities, maintain and curate data and metadata according to FAIR (Findable, Accessible, Interoperable and Reusable) principles, monitor statistics and contribute to reporting, training and scientific outreach.",
+    "eposTitle": "EPOS and Geo-INQUIRE",
+    "eposDesc": "I am part of the Tsunami Thematic Core Service (TCS) of the European Plate Observing System (EPOS). I sometimes contribute to exchanges with Integrated Core Services (ICS), service integration and workflows.",
+    "statsTitle": "ETRiS: collective service outputs and reach",
+    "countries": "Countries reached",
+    "fragility": "Fragility curve sets",
+    "vulnerability": "Vulnerability curve sets",
+    "notebooks": "Jupyter notebooks",
+    "projectsLabel": "Projects & professional activities",
+    "projectsTitle": "Projects & professional activities",
+    "journalsheading": "Peer-reviewed articles",
+    "journals0": "3D shear-wave velocity model of Tehran’s sedimentary basin using geological and geophysical data",
+    "viewDOI": "DOI",
+    "journals1": "Experimental assessment of ground seismic response before and after twin tunnels excavation and comparison with numerical modelling",
+    "journals2": "On the optimal parametrization of initial models in surface wave inversion in deep basins",
+    "conferencesheading": "Selected conference contributions",
+    "conferences0": "From PTHA to Probability of Safe Evacuation: An Agent-Based Modelling (ABM) Use Case for EPOS ICS-D",
+    "conferences1": "Probabilistic Coastal Tsunami Evacuation Modelling Using Agent-Based Modelling in Catania, Italy",
+    "conferences2": "Scenario-based Probabilistic Tsunami Risk Analysis for Coquimbo Bay",
+    "conferences3": "Simulations of ground motion in the Tehran basin based on a newly developed 3D velocity model",
+    "dataheading": "Open data & training materials",
+    "data0": "From Scenarios to Consequences: Probabilistic Tsunami Risk Analysis (PTRA) with Geo-INQUIRE Services (Version 1.0.0)",
+    "data1": "ETRiS Data and Data Products, Version 1.00",
+    "publicationsLabel": "Publications & research outputs",
+    "publicationsTitle": "Publications & research outputs",
+    "training": "Published training materials",
+    "potsdamTitle": "Geo-INQUIRE PTRA Workshop · GFZ Potsdam",
+    "potsdamDesc": "Invited lecturer and contributor to hands-on training, 1–4 June 2026, Germany. I presented agent-based tsunami evacuation modelling and contributed to Jupyter notebook exercises on probabilistic risk, exposure and safe evacuation.",
+    "tehranTeachTitle": "Specialist instructor · University of Tehran",
+    "tehranTeachDesc": "2019–2021: specialist courses in ambient-vibration methods and seismic site characterisation. 2022: MSc thesis advising at the University of Tehran.",
+    "teachingLabel": "Teaching & workshops",
+    "teachingTitle": "Teaching & workshops",
+    "newsGTMDate": "22–23 Oct 2026",
+    "newsGTMTitle": "Global Tsunami Model Strategy Meeting · Oslo",
+    "newsGTMDesc": "Participated in the international strategy meeting at NGI.",
+    "newsAwardDate": "2026",
+    "newsAwardTitle": "EPOS GO! Early Career Researcher Prize",
+    "newsAwardDesc": "Winner of the Early Career Researcher Challenge at the European Geosciences Union (EGU) General Assembly 2026.",
+    "newsEPOSDate": "2026",
+    "newsEPOSTitle": "EPOS Days · Cagliari",
+    "newsEPOSDesc": "Rapporteur for Thematic Core Services discussions and presenter of an evacuation modelling workflow for EPOS ICS-D.",
+    "newsFundDate": "2026/27",
+    "newsFundTitle": "UCL Global Engagement Fund",
+    "newsFundDesc": "Successful co-applicant.",
+    "newsPotsdamDate": "Jun 2026",
+    "newsPotsdamTitle": "Geo-INQUIRE training · Potsdam",
+    "newsPotsdamDesc": "Invited lecturer and contributor to published training materials.",
+    "newsLabel": "News",
+    "newsTitle": "News",
+    "contactLabel": "CONTACT",
+    "contactTitle": "Research collaboration & contact",
+    "contactDesc": "For scientific collaboration, tsunami risk modelling, research infrastructure services or specialist training, please contact me by email.",
+    "email": "Email",
+    "footerName": "Saeed Soltani",
+    "backTop": "Back to top",
+    "aboutVisits": "During this period, I had the opportunity to undertake two research visits: one with the SocSim-K research team at the Grenoble Informatics Laboratory (LIG), France, and another at University College London (UCL), UK. These experiences allowed me to expand my expertise in agent-based modelling, advance my research in probabilistic tsunami risk and strengthen international scientific collaborations.",
+    "aboutFocus": "My work focused on managing the European Tsunami Risk Service (ETRiS) and conducting research in Probabilistic Tsunami Risk Assessment (PTRA) and agent-based evacuation modelling.",
+    "navgallery": "Gallery",
+    "eposics": "EPOS ICS-C",
+    "geoinquirelink": "Geo-INQUIRE",
+    "galleryLabel": "Gallery",
+    "galleryTitle": "Gallery",
+    "linkedin": "LinkedIn"
+  },
+  "fa": {
+    "navabout": "درباره من",
+    "navresearch": "پژوهش",
+    "navprojects": "پروژه‌ها",
+    "navpublications": "آثار علمی",
+    "navteaching": "آموزش",
+    "navnews": "اخبار",
+    "navcontact": "ارتباط",
+    "skip": "رفتن به محتوای اصلی",
+    "brand": "سعید سلطانی",
+    "graphicLabel": "تخلیه / مدل‌سازی مبتنی بر عامل",
+    "heroTag": "ریسک سونامی · مدل‌سازی تخلیه · دسترسی آزاد به داده‌های علمی",
+    "heroTitle": "سعید سلطانی",
+    "heroRole": "پژوهشگر ریسک سونامی",
+    "heroManager": "منیجر سرویس اروپایی ریسک سونامی (ETRiS)",
+    "heroLead": "پژوهش من بر تأثیر مخاطره سونامی، عدم‌قطعیت، مواجهه جمعیت و رفتار انسان بر احتمال تخلیه ایمن متمرکز است.",
+    "explore": "فعالیت‌های پژوهشی",
+    "connect": "پروژه‌ها و فعالیت‌ها",
+    "conceptLabel": "چارچوب پژوهشی کنونی",
+    "oceanPanelTitle": "از سناریوهای سونامی تا پیامدهای تخلیه",
+    "oceanPanelDesc": "تحلیل احتمالاتی مخاطره سونامی (PTHA)، مواجهه جمعیت و مدل‌سازی مبتنی بر عامل (ABM) برای ارزیابی پیامدهای تخلیه در شرایط عدم‌قطعیت با یکدیگر ترکیب می‌شوند.",
+    "stage1": "مخاطره و مواجهه",
+    "stage2": "رفتار انسان",
+    "stage3": "احتمال تخلیه ایمن",
+    "stage3small": "عدم‌قطعیت",
+    "aboutLabel": "درباره من",
+    "aboutTitle": "پژوهش و مدیریت خدمات علمی",
+    "aboutP1": "پژوهشگر علوم زمین و مخاطرات طبیعی هستم و مدرک دکتری خود را از دانشگاه گرونوبل آلپ فرانسه، با همکاری پژوهشگاه بین‌المللی زلزله‌شناسی و مهندسی زلزله ایران، دریافت کرده‌ام. پیشینه پژوهشی من شامل مخاطرات لرزه‌ای، اثرات ساختگاه و شبیه‌سازی حرکت زمین مبتنی بر فیزیک است.",
+    "aboutP2": "از ژانویه ۲۰۲۴ تا سپتامبر ۲۰۲۶، پژوهشگر پسادکتری دانشگاه ناپل فدریکو دوم ایتالیا در چارچوب پروژه Geo-INQUIRE از برنامه پژوهشی Horizon Europe بودم.",
+    "aboutP3": "همچنین به سامان‌دهی و نگهداری داده‌های علمی، توسعه گردش‌کارهای محاسباتی بازتولیدپذیر و آموزش تخصصی در چارچوب زیرساخت پژوهشی سامانه مشاهده صفحات زمین اروپا (EPOS) علاقه‌مند هستم.",
+    "pill1": "ریسک سونامی",
+    "pill2": "مدل‌سازی مبتنی بر عامل",
+    "pill3": "مخاطره لرزه‌ای",
+    "pill4": "دسترسی آزاد به داده‌های علمی",
+    "visual0": "کاتانیا، ایتالیا",
+    "visual1": "حوضه تهران",
+    "visual2": "ETRiS",
+    "r1link": "EGU ۲۰۲۶",
+    "r1link2": "EGU ۲۰۲۵",
+    "r1Title": "مدل‌سازی احتمالاتی تخلیه در سونامی",
+    "r1Desc": "در پژوهش خود در شهر کاتانیا، ایتالیا، سناریوهای آب‌گرفتگی ناشی از سونامی، مواجهه جمعیت، رفتار انسان و مدل‌سازی مبتنی بر عامل (ABM) را برای برآورد احتمال تخلیه ایمن ترکیب کردیم.",
+    "r2link": "EGU ۲۰۲۴",
+    "coquimbo": "ریسک سونامی",
+    "r2Title": "ارزیابی احتمالاتی ریسک سونامی",
+    "r2Desc": "در پژوهشی مشترک درباره ریسک سناریومحور سونامی، مخاطره، مواجهه و آسیب‌پذیری ساختمان‌ها را برای برآورد خسارت‌های اقتصادی و بررسی عدم‌قطعیت تلفیق کردیم.",
+    "r3link": "مقاله علمی",
+    "r3thesis": "پایان‌نامه دکتری",
+    "r3Title": "مخاطره لرزه‌ای و اثرات ساختگاه",
+    "r3Desc": "در پژوهش دکتری خود، داده‌های زمین‌شناسی و ژئوفیزیکی را برای توسعه مدل سه‌بعدی سرعت موج برشی حوضه رسوبی تهران، ارزیابی اثرات ساختگاه، شبیه‌سازی حرکت زمین مبتنی بر فیزیک و بررسی تأثیر آن‌ها بر ارزیابی ریسک لرزه‌ای تلفیق کردم.",
+    "r4link": "مجموعه داده باز",
+    "r4Title": "دسترسی آزاد به داده‌های علمی و زیرساخت‌های پژوهشی",
+    "r4Desc": "در سامان‌دهی داده‌های ریسک سونامی، مدیریت فراداده، توسعه گردش‌کارهای بازتولیدپذیر Jupyter و یکپارچه‌سازی منابع علمی در ETRiS و EPOS مشارکت دارم.",
+    "researchLabel": "پژوهش‌ها",
+    "researchTitle": "فعالیت‌های پژوهشی",
+    "etrsite": "وب‌سایت سرویس",
+    "etrnews": "اخبار سرویس",
+    "etrTitle": "سرویس اروپایی ریسک سونامی (ETRiS)",
+    "etrDesc": "از ژانویه ۲۰۲۴ منیجر ETRiS هستم. این سرویس دسترسی آزاد به داده‌ها، مدل‌ها، نرم‌افزارها و ابزارهای ارزیابی احتمالاتی ریسک سونامی را فراهم می‌کند. جلسات ماهانه سرویس را هدایت می‌کنم، فعالیت‌ها را هماهنگ می‌کنم، داده‌ها و فراداده‌ها را بر اساس اصول FAIR (یافت‌پذیر، دسترس‌پذیر، تعامل‌پذیر و قابل استفاده مجدد) نگهداری و سامان‌دهی می‌کنم، آمار را پایش می‌کنم و در گزارش‌دهی، آموزش و ترویج علمی مشارکت دارم.",
+    "eposTitle": "EPOS و Geo-INQUIRE",
+    "eposDesc": "عضو گروه سرویس موضوعی سونامی (TCS) در سامانه مشاهده صفحات زمین اروپا (EPOS) هستم. در تبادل اطلاعات با خدمات مرکزی یکپارچه (ICS)، یکپارچه‌سازی سرویس‌ها و گردش‌کارها مشارکت می‌کنم.",
+    "statsTitle": "ETRiS: خروجی‌ها و گستره فعالیت جمعی سرویس",
+    "countries": "کشور بازدیدکننده",
+    "fragility": "مجموعه منحنی شکنندگی",
+    "vulnerability": "مجموعه منحنی آسیب‌پذیری",
+    "notebooks": "دفترچه محاسباتی Jupyter",
+    "projectsLabel": "پروژه‌ها و فعالیت‌های حرفه‌ای",
+    "projectsTitle": "پروژه‌ها و فعالیت‌های حرفه‌ای",
+    "journalsheading": "مقالات داوری‌شده",
+    "journals0": "مدل سه‌بعدی سرعت موج برشی حوضه رسوبی تهران با استفاده از داده‌های زمین‌شناسی و ژئوفیزیک",
+    "viewDOI": "شناسه DOI",
+    "journals1": "ارزیابی تجربی پاسخ لرزه‌ای زمین پیش و پس از حفاری تونل‌های دوقلو و مقایسه با مدل‌سازی عددی",
+    "journals2": "پارامترسازی بهینه مدل‌های اولیه در وارون‌سازی امواج سطحی در حوضه‌های عمیق",
+    "conferencesheading": "مشارکت‌های منتخب کنفرانسی",
+    "conferences0": "از تحلیل احتمالاتی مخاطره سونامی تا احتمال تخلیه ایمن: نمونه کاربرد مدل‌سازی مبتنی بر عامل برای EPOS ICS-D",
+    "conferences1": "مدل‌سازی احتمالاتی تخلیه ساحلی در سونامی با رویکرد مبتنی بر عامل در کاتانیا، ایتالیا",
+    "conferences2": "تحلیل احتمالاتی ریسک سونامی مبتنی بر سناریو برای خلیج کوکیمبو",
+    "conferences3": "شبیه‌سازی حرکت زمین در حوضه تهران بر پایه مدل سه‌بعدی جدید سرعت",
+    "dataheading": "داده‌های باز و منابع آموزشی",
+    "data0": "از سناریوها تا پیامدها: تحلیل احتمالاتی ریسک سونامی با خدمات Geo-INQUIRE (نسخه ۱.۰.۰)",
+    "data1": "داده‌ها و محصولات داده‌ای ETRiS، نسخه ۱.۰۰",
+    "publicationsLabel": "انتشارات و خروجی‌های پژوهشی",
+    "publicationsTitle": "انتشارات و خروجی‌های پژوهشی",
+    "training": "منابع آموزشی منتشرشده",
+    "potsdamTitle": "کارگاه Geo-INQUIRE در GFZ پوتسدام",
+    "potsdamDesc": "مدرس مدعو و مشارکت‌کننده در آموزش عملی، ۱ تا ۴ ژوئن ۲۰۲۶، آلمان. مدل‌سازی تخلیه سونامی مبتنی بر عامل را ارائه کردم و در توسعه تمرین‌های عملی Jupyter درباره ریسک احتمالاتی، مواجهه و تخلیه ایمن مشارکت داشتم.",
+    "tehranTeachTitle": "مدرس تخصصی · دانشگاه تهران",
+    "tehranTeachDesc": "۲۰۱۹ تا ۲۰۲۱: دوره‌های تخصصی روش‌های ارتعاشات محیطی و شناسایی ساختگاه لرزه‌ای. ۲۰۲۲: مشاوره پایان‌نامه کارشناسی ارشد در دانشگاه تهران.",
+    "teachingLabel": "آموزش و کارگاه‌ها",
+    "teachingTitle": "آموزش و کارگاه‌ها",
+    "newsGTMDate": "۲۲–۲۳ اکتبر ۲۰۲۶",
+    "newsGTMTitle": "نشست راهبردی مدل جهانی سونامی · اسلو",
+    "newsGTMDesc": "عضو نشست راهبردی بین‌المللی در NGI.",
+    "newsAwardDate": "۲۰۲۶",
+    "newsAwardTitle": "جایزه پژوهشگر جوان EPOS GO!",
+    "newsAwardDesc": "برنده رقابت پژوهشگران آغاز مسیر حرفه‌ای در مجمع عمومی اتحادیه علوم زمین اروپا (EGU) در سال ۲۰۲۶.",
+    "newsEPOSDate": "۲۰۲۶",
+    "newsEPOSTitle": "رویداد EPOS Days · کالیاری",
+    "newsEPOSDesc": "گزارشگر نشست‌های بخش‌های خدمات تخصصی و ارائه‌دهنده گردش‌کار مدل‌سازی تخلیه برای EPOS ICS-D.",
+    "newsFundDate": "۲۰۲۶/۲۷",
+    "newsFundTitle": "صندوق همکاری‌های جهانی UCL",
+    "newsFundDesc": "اپلیکیشن موفق.",
+    "newsPotsdamDate": "ژوئن ۲۰۲۶",
+    "newsPotsdamTitle": "آموزش Geo-INQUIRE · پوتسدام",
+    "newsPotsdamDesc": "مدرس مدعو و مشارکت‌کننده در منابع آموزشی منتشرشده.",
+    "newsLabel": "اخبار",
+    "newsTitle": "اخبار",
+    "contactLabel": "ارتباط",
+    "contactTitle": "همکاری پژوهشی و ارتباط",
+    "contactDesc": "برای همکاری علمی، مدل‌سازی ریسک سونامی، خدمات زیرساخت پژوهشی یا آموزش تخصصی می‌توانید از طریق ایمیل با من در ارتباط باشید.",
+    "email": "ایمیل",
+    "footerName": "سعید سلطانی",
+    "backTop": "بازگشت به بالا",
+    "aboutVisits": "در این دوره، فرصت حضور به‌عنوان پژوهشگر مهمان در دو مرکز علمی داشتم: گروه پژوهشی SocSim-K در آزمایشگاه علوم کامپیوتر گرونوبل (LIG) در فرانسه و دانشگاه کالج لندن (UCL) در بریتانیا. این تجربیات زمینه‌ای برای گسترش تخصص من در مدل‌سازی مبتنی بر عامل، توسعه پژوهش‌هایم در زمینه ریسک احتمالاتی سونامی و تقویت همکاری‌های علمی بین‌المللی فراهم کردند.",
+    "aboutFocus": "فعالیت‌های دوره پسادکتری من بر مدیریت سرویس اروپایی ریسک سونامی (ETRiS) و پژوهش در زمینه ارزیابی احتمالاتی ریسک سونامی (PTRA) و مدل‌سازی تخلیه مبتنی بر عامل متمرکز بود.",
+    "navgallery": "گالری",
+    "eposics": "EPOS ICS-C",
+    "geoinquirelink": "Geo-INQUIRE",
+    "galleryLabel": "گالری",
+    "galleryTitle": "گالری",
+    "linkedin": "LinkedIn"
+  }
 };
-const publications=[
- {year:'2026',tag:{en:'CONFERENCE',fa:'کنفرانس'},title:'From PTHA to Probability of Safe Evacuation: An Agent-Based Modelling (ABM) Use Case for EPOS ICS-D',detail:'EGU General Assembly 2026',url:'https://doi.org/10.5194/egusphere-egu26-17928'},
- {year:'2025',tag:{en:'JOURNAL',fa:'مقاله علمی'},title:'3D shear-wave velocity model of Tehran’s sedimentary basin using geological and geophysical data',detail:'Bulletin of Engineering Geology and the Environment',url:'https://doi.org/10.1007/s10064-025-04571-x'},
- {year:'2025',tag:{en:'JOURNAL · CO-AUTHORED',fa:'مقاله علمی · هم‌نویسنده'},title:'Experimental assessment of ground seismic response before and after twin tunnels excavation and comparison with numerical modeling',detail:'Iran Journal of Science and Technology, Transactions of Civil Engineering',url:'https://doi.org/10.1007/s40996-025-02001-2'},
- {year:'2025',tag:{en:'OPEN DATA',fa:'داده باز'},title:'ETRiS Data and Data Products, Version 1.00',detail:'Zenodo · Jalayer, Ebrahimian & Soltani',url:'https://doi.org/10.5281/zenodo.15106806'},
- {year:'2025',tag:{en:'CONFERENCE',fa:'کنفرانس'},title:'Probabilistic Coastal Tsunami Evacuation Modelling Using Agent-Based Modelling in Catania, Italy',detail:'EGU General Assembly 2025',url:'https://doi.org/10.5194/egusphere-egu25-17105'},
- {year:'2021',tag:{en:'JOURNAL',fa:'مقاله علمی'},title:'On the optimal parametrization of initial models in surface wave inversion in deep basins',detail:'Journal of Research on Applied Geophysics',url:'https://doi.org/10.22044/jrag.2021.9249.1272'}
-];
-const positions=[
- {date:'2024 —',enTitle:'Postdoctoral Researcher',faTitle:'پژوهشگر پسادکتری',enInfo:'University of Naples Federico II · Italy · Geo-INQUIRE / ETRiS',faInfo:'دانشگاه ناپل فدریکو دوم · ایتالیا · Geo-INQUIRE / ETRiS'},
- {date:'2025',enTitle:'Honorary Guest Researcher',faTitle:'پژوهشگر مهمان افتخاری',enInfo:'University College London · United Kingdom',faInfo:'یونیورسیتی کالج لندن · بریتانیا'},
- {date:'2024–25',enTitle:'Visiting Researcher',faTitle:'پژوهشگر مهمان',enInfo:'Université Grenoble Alpes · France · LIG / SocSim-K',faInfo:'دانشگاه گرونوبل آلپ · فرانسه · LIG / SocSim-K'},
- {date:'2023',enTitle:'PhD in Earth & Environmental Sciences',faTitle:'دکتری علوم زمین و محیط‌زیست',enInfo:'Université Grenoble Alpes · Cotutelle with IIEES',faInfo:'دانشگاه گرونوبل آلپ · دوره مشترک با پژوهشگاه بین‌المللی زلزله‌شناسی و مهندسی زلزله'},
- {date:'2015',enTitle:'MSc in Geophysics — Seismology',faTitle:'کارشناسی ارشد ژئوفیزیک ـ زلزله‌شناسی',enInfo:'International Institute of Earthquake Engineering and Seismology',faInfo:'پژوهشگاه بین‌المللی زلزله‌شناسی و مهندسی زلزله'},
- {date:'2012',enTitle:'BSc in Physics',faTitle:'کارشناسی فیزیک',enInfo:'University of Mazandaran · Iran',faInfo:'دانشگاه مازندران · ایران'}
-];
-const translatable=[...document.querySelectorAll('[data-i18n]')];
-const pubList=document.querySelector('#pubList');const timeline=document.querySelector('#timeline');
-function render(lang){
- document.documentElement.lang=lang;document.documentElement.dir=lang==='fa'?'rtl':'ltr';document.body.dir=document.documentElement.dir;document.title=lang==='fa'?'سعید سلطانی | پژوهش ریسک بلایا':'Saeed Soltani | Disaster Risk Research';
- translatable.forEach(el=>{const val=copy[lang][el.dataset.i18n];if(val!==undefined)el.innerHTML=val});
- const view=lang==='fa'?'مشاهده ↗':'Open ↗';
- pubList.innerHTML=publications.map(p=>`<article class="pub-item"><span class="pub-year">${p.year}</span><div><h3 dir="auto">${p.title}</h3><p><span>${p.tag[lang]}</span> · ${p.detail}</p></div><a href="${p.url}" target="_blank" rel="noopener noreferrer" aria-label="${view}: ${p.title}">${view}</a></article>`).join('');
- timeline.innerHTML=positions.map(p=>`<article class="timeline-entry"><div class="timeline-date">${p.date}</div><div><h3>${lang==='fa'?p.faTitle:p.enTitle}</h3><p>${lang==='fa'?p.faInfo:p.enInfo}</p></div></article>`).join('');
- document.querySelector('#langSwitch').innerHTML=(lang==='fa'?'EN':'FA')+' <span aria-hidden="true">↗</span>';
- document.querySelector('#langSwitch').setAttribute('aria-label',lang==='fa'?'Switch to English':'تغییر زبان به فارسی');
- try{localStorage.setItem('siteLanguage',lang)}catch(e){}
+const labels = {
+ en: { title: 'Saeed Soltani, PhD | Tsunami Risk Research & Research Services', description: 'Saeed Soltani, PhD — tsunami risk researcher, agent-based evacuation modelling and manager of the European Tsunami Risk Service (ETRiS).', home: 'Home', nav: 'Primary navigation', menu: 'Toggle menu', concept: 'Current research framework' },
+ fa: { title: 'سعید سلطانی | پژوهش ریسک سونامی و خدمات علمی', description: 'سعید سلطانی، پژوهشگر ریسک سونامی، مدل‌سازی مبتنی بر عامل تخلیه و مدیر سرویس اروپایی ریسک سونامی (ETRiS).', home: 'صفحه اصلی', nav: 'منوی اصلی', menu: 'باز و بسته کردن منو', concept: 'چارچوب پژوهشی کنونی' }
+};
+const translatable = [...document.querySelectorAll('[data-i18n]')];
+const langSwitch = document.querySelector('#langSwitch');
+const menu = document.querySelector('#menuToggle');
+const nav = document.querySelector('#primaryNav');
+let language = 'en';
+// Always start in English; language changes apply only to the current page.
+const directionalArrows = [...document.querySelectorAll('[aria-hidden="true"]')].filter(el => ['→', '↗'].includes(el.textContent.trim())).map(el => [el, el.textContent.trim()]);
+const photoAlt = {
+  en: { photoIceland: 'Saeed Soltani among volcanic rocks in Iceland, 2025', photoWcee: 'Saeed Soltani presenting the GAMA simulation platform at WCEE 2024', galleryAlt1: 'Saeed Soltani in Iceland in 2025', galleryAlt2: 'Saeed Soltani presenting at WCEE 2024', galleryAlt3: 'UNESCO tsunami event, 2024', galleryAlt4: 'EPOS Days 2026 panel discussion' },
+  fa: { photoIceland: 'سعید سلطانی در میان سنگ‌های آتشفشانی ایسلند، ۲۰۲۵', photoWcee: 'ارائه سعید سلطانی درباره پلتفرم شبیه‌سازی GAMA در کنفرانس WCEE ۲۰۲۴', galleryAlt1: 'سعید سلطانی در ایسلند، ۲۰۲۵', galleryAlt2: 'ارائه سعید سلطانی در WCEE 2024', galleryAlt3: 'رویداد سونامی یونسکو، ۲۰۲۴', galleryAlt4: 'پنل EPOS Days 2026' }
+};
+function render(lang) {
+  document.querySelectorAll('[data-i18n-alt]').forEach(img => { img.alt = photoAlt[lang][img.dataset.i18nAlt]; });
+  const rtl = lang === 'fa';
+  const l = labels[lang];
+  document.documentElement.lang = lang;
+  document.documentElement.dir = rtl ? 'rtl' : 'ltr';
+  document.body.dir = document.documentElement.dir;
+  document.title = l.title;
+  document.querySelector('meta[name="description"]').content = l.description;
+  document.querySelector('meta[property="og:title"]').content = l.title;
+  document.querySelector('meta[property="og:description"]').content = l.description;
+  translatable.forEach(el => { const value = copy[lang][el.dataset.i18n]; if (value !== undefined) el.textContent = value; });
+  document.querySelector('[data-label="home"]').setAttribute('aria-label', l.home);
+  nav.setAttribute('aria-label', l.nav);
+  menu.setAttribute('aria-label', l.menu);
+  document.querySelector('#concept').setAttribute('aria-label', l.concept);
+  directionalArrows.forEach(([el, original]) => { el.textContent = rtl ? ({'→': '←', '↗': '↖'}[original]) : original; });
+  langSwitch.innerHTML = (rtl ? 'EN' : 'FA') + ' <span aria-hidden="true">' + (rtl ? '↖' : '↗') + '</span>';
+  langSwitch.setAttribute('aria-label', rtl ? 'Switch to English' : 'تغییر زبان به فارسی');
+  langSwitch.setAttribute('lang', rtl ? 'en' : 'fa');
 }
-const preference=(()=>{try{return localStorage.getItem('siteLanguage')}catch(e){return null}})();
-let language=preference==='fa'?'fa':'en';render(language);
-document.querySelector('#langSwitch').addEventListener('click',()=>{language=language==='en'?'fa':'en';render(language)});
-const menu=document.querySelector('#menuToggle');const nav=document.querySelector('.nav');menu.addEventListener('click',()=>{const open=nav.classList.toggle('open');menu.setAttribute('aria-expanded',String(open));menu.textContent=open?'✕':'☰'});nav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{nav.classList.remove('open');menu.setAttribute('aria-expanded','false');menu.textContent='☰'}));
-document.querySelector('#year').textContent=new Date().getFullYear();
-// All contact links marked data-placeholder must be replaced with verified personal URLs before launch.
-document.querySelectorAll('[data-placeholder]').forEach(link=>{link.addEventListener('click',e=>{if(link.dataset.placeholder){e.preventDefault();alert(language==='fa'?'این لینک هنوز شخصی‌سازی نشده است.':'This link has not been personalized yet.')}})});
+function closeMenu() { nav.classList.remove('open'); menu.setAttribute('aria-expanded', 'false'); menu.textContent = '☰'; }
+render(language);
+langSwitch.addEventListener('click', () => { language = language === 'en' ? 'fa' : 'en'; render(language); closeMenu(); });
+menu.addEventListener('click', () => { const open = nav.classList.toggle('open'); menu.setAttribute('aria-expanded', String(open)); menu.textContent = open ? '✕' : '☰'; });
+nav.querySelectorAll('a').forEach(a => a.addEventListener('click', closeMenu));
+document.addEventListener('keydown', e => { if (e.key === 'Escape' && nav.classList.contains('open')) { closeMenu(); menu.focus(); } });
+document.querySelector('#year').textContent = new Date().getFullYear();
